@@ -1,0 +1,13 @@
+typId,typshort,typ
+1,gib,"Bauwerke und Bauensembles, Monumentalplastiken, Denkmäler, Grabmäler u. ä. gemäß RSWK §730,1"
+2,kif,Firmen (ab Januar 2016) 
+3,kim,Musikalische Körperschaften (ab Januar 2016) 
+4,kio,Organe von Gebietskörperschaften 
+5,kiv; kir,"Religiöse Verwaltungseinheiten (z. B. Diözesen der Katholischen Kirche; Ausnahme: Verwaltungseinheiten der Ostkirche, Verwaltungseinheiten der Ostkirche werden mit „gir“ und „gik“ codiert) (sie werden immer mit „kir“ doppelt codiert) (ab Januar 2016)"
+6,kiz,"Alle übrigen Körperschaften, die keinem anderen speziellen Entitätentyp zugehören "
+7,pif,Familien 
+8,pik,"Regierende Fürsten, Mitglieder regierender Fürstenhäuser "
+9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+10,siu,"Personengruppen, die keine Körperschaft sind "
+11,szz,Alle Zweifelsfälle für alle Entitäten 
+12,gik,Gebietskörperschaften und Verwaltungseinheiten
