@@ -37,6 +37,7 @@ for i, x in enumerate(tables):
 
     # Replace the target string
     filedata = filedata.replace(".0,", ",")
+    filedata = filedata.replace(".0\n", "\n")
 
     # Write the file out again
     with open(file_name, "w") as file:
