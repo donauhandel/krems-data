@@ -6,3 +6,4 @@ acdh-arche-assets
 flake8
 black
 mysqlclient
+python-slugify  
