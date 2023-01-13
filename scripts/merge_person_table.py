@@ -86,6 +86,26 @@ for g, ndf in tqdm(df.groupby("personenId")):
         item["orts_name"] = row["ortsname"]
         orte[g][rel_type] = item
 
+df = pd.read_csv(f"{ORIG_DATA_CSVS}/personen_verwandtschaft.csv").convert_dtypes()
+df1 = pd.read_csv(f"{ORIG_DATA_CSVS}/verwandtschaftsverhaeltnisse.csv").convert_dtypes()
+newdf = df.merge(df1, how="outer", left_on="verwandschaftsverhaeltnisseId", right_on="verwandschaftsverhaeltnisseId")
+person_person_final = newdf.merge(person_df, how="outer", left_on="personenId2", right_on="personenId")
+
+print("fetching person-person relations")
+verwandtschaft = {}
+for g, ndf in tqdm(person_person_final.groupby("personenId1")):
+    verwandtschaft[g] = {}
+    for i, row in ndf.iterrows():
+        try:
+            rel_type = slugify(row["verwandtschaftsverhaeltnis"])
+        except TypeError:
+            continue
+        item = {}
+        item["verwandtschaftsverhaeltnis"] = row["verwandtschaftsverhaeltnis"]
+        item["person_id"] = row["personenId"]
+        item["person_name"] = f'{row["nachname"]}, {row["vorname"]}'
+        verwandtschaft[g][rel_type] = item
+
 # df = pd.read_csv(f"{ORIG_DATA_CSVS}/persons_merged.csv").convert_dtypes()
 items = {}
 for i, row in tqdm(final_df.iterrows(), total=len(final_df)):
@@ -135,6 +155,11 @@ for i, row in tqdm(final_df.iterrows(), total=len(final_df)):
     except:
         lit = []
     item_dict["orte"] = lit
+    try:
+        lit = verwandtschaft[item_id]
+    except:
+        lit = []
+    item_dict["verwandtschaft"] = lit
     items[item_id] = item_dict
 
 print(f"writing person.jsons into {ORIG_DATA_MERGED}")
