@@ -28,7 +28,7 @@ final_df.to_csv(persons_merged, index=False)
 df = pd.read_csv(f"{ORIG_DATA_CSVS}/personen_literatur.csv").convert_dtypes()
 literatur = {}
 for g, ndf in df.groupby("personenId"):
-    literatur[g] = list(ndf["literatur"].values)
+    literatur[g] = [x for x in list(ndf["literatur"].values) if not "TrackFormatting" in x]
 
 df = pd.read_csv(f"{ORIG_DATA_CSVS}/personen_identisch.csv").convert_dtypes()
 doppelt = {}

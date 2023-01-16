@@ -67,15 +67,18 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
         <div>
             <listPerson>{% for x in personen %}
                 <person xml:id="{{ prefix }}{{ x.personenId }}"{% if x.doppelt %} sameAs="#{% for y in x.doppelt %}{{ prefix }}{{ y }} {% endfor %}"{% endif %}>
-                    <persName>
+                     <persName>
                         <forename>{{ x.vorname|e }}</forename>{% if x.alt_vor %}{% for y in x.alt_vor %}
                         <forename type="alt">{{ y|e }}</forename>{% endfor %}{% endif %}
                         <surname>{{ x.nachname|e }}</surname>{% if x.alt_nach %}{% for y in x.alt_nach %}
                         <surname type="alt">{{ y|e }}</surname>{% endfor %}{% endif %}
-                    </persName>{% if x.kaufmannsklasse|e %}{% for y in x.kaufmannsklasse %}
-                    <occupation type="kaufmannsklasse">{{ y|e }}</occupation>{% endfor %}{% endif %}{% if x.aemter %}{% for y in x.aemter %}
-                    <occupation type="aemter">{{ y|e }}</occupation>{% endfor %}{% endif %}
-                </person>{% endfor %}
+                     </persName>{% if x.kaufmannsklasse|e %}{% for y in x.kaufmannsklasse %}
+                     <occupation type="kaufmannsklasse">{{ y|e }}</occupation>{% endfor %}{% endif %}{% if x.aemter %}{% for y in x.aemter %}
+                     <occupation type="aemter">{{ y|e }}</occupation>{% endfor %}{% endif %}{% if x.literatur %}
+                     <listBibl>{% for y in x.literatur %}
+                        <bibl>{{ y|e }}</bibl>{% endfor %}
+                     </listBibl>{% endif %}
+               </person>{% endfor %}
             </listPerson>
         </div>
       </body>
