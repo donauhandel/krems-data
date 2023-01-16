@@ -135,3 +135,4 @@ orig_data/csvs/persons_merged.csv
 orig_data/merged/persons.json
 orig_data/merged/persons_merged.csv
 scripts/play.py
+data/indices/listperson.xml
