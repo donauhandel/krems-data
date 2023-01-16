@@ -70,9 +70,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                     <persName>
                         <forename>{{ x.vorname|e }}</forename>
                         <surname>{{ x.nachname|e }}</surname>
-                    </persName>{% if x.kaufmannsklasse %}{% for y in x.kaufmannsklasse %}
-                    <occupation type="kaufmannsklasse">{{ y }}</occupation>{% endfor %}{% endif %}{% if x.aemter %}{% for y in x.aemter %}
-                    <occupation type="aemter">{{ y }}</occupation>{% endfor %}{% endif %}
+                    </persName>{% if x.kaufmannsklasse|e %}{% for y in x.kaufmannsklasse %}
+                    <occupation type="kaufmannsklasse">{{ y|e }}</occupation>{% endfor %}{% endif %}{% if x.aemter %}{% for y in x.aemter %}
+                    <occupation type="aemter">{{ y|e }}</occupation>{% endfor %}{% endif %}
                 </person>{% endfor %}
             </listPerson>
         </div>
