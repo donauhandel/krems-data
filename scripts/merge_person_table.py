@@ -43,12 +43,12 @@ for g, ndf in df.groupby("personenId1"):
 df = pd.read_csv(f"{ORIG_DATA_CSVS}/personen_altNachname.csv").convert_dtypes()
 alt_nach = {}
 for g, ndf in df.groupby("personenId"):
-    alt_nach[g] = list(ndf["altNachname"].values)
+    alt_nach[g] = list(set(ndf["altNachname"].values))
 
 df = pd.read_csv(f"{ORIG_DATA_CSVS}/personen_altVorname.csv").convert_dtypes()
 alt_vor = {}
 for g, ndf in df.groupby("personenId"):
-    alt_vor[g] = list(ndf["altVorname"].values)
+    alt_vor[g] = list(set(ndf["altVorname"].values))
 
 df = pd.read_csv(f"{ORIG_DATA_CSVS}/personen_aemter.csv").convert_dtypes()
 df1 = pd.read_csv(f"{ORIG_DATA_CSVS}/aemter.csv").convert_dtypes()

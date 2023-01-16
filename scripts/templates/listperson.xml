@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
    xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__{{ datum }}.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
    <teiHeader>
       <fileDesc>
         <titleStmt>
@@ -59,17 +59,19 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="{{ current_date }}">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="{{ datum }}">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
         <div>
             <listPerson>{% for x in personen %}
-                <person xml:id="{{ prefix }}{{ x.personenId }}">
+                <person xml:id="{{ prefix }}{{ x.personenId }}"{% if x.doppelt %} sameAs="#{% for y in x.doppelt %}{{ prefix }}{{ y }} {% endfor %}"{% endif %}>
                     <persName>
-                        <forename>{{ x.vorname|e }}</forename>
-                        <surname>{{ x.nachname|e }}</surname>
+                        <forename>{{ x.vorname|e }}</forename>{% if x.alt_vor %}{% for y in x.alt_vor %}
+                        <forename type="alt">{{ y|e }}</forename>{% endfor %}{% endif %}
+                        <surname>{{ x.nachname|e }}</surname>{% if x.alt_nach %}{% for y in x.alt_nach %}
+                        <surname type="alt">{{ y|e }}</surname>{% endfor %}{% endif %}
                     </persName>{% if x.kaufmannsklasse|e %}{% for y in x.kaufmannsklasse %}
                     <occupation type="kaufmannsklasse">{{ y|e }}</occupation>{% endfor %}{% endif %}{% if x.aemter %}{% for y in x.aemter %}
                     <occupation type="aemter">{{ y|e }}</occupation>{% endfor %}{% endif %}

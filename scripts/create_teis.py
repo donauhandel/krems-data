@@ -8,14 +8,17 @@ from config import ORIG_DATA_MERGED
 os.makedirs('./data/indices', exist_ok=True)
 today = date.today()
 context = {
-    "prefix": "wkfm__"
+    "prefix": "wkfm__",
+    "datum": f"{date.today()}"
 }
 templateLoader = jinja2.FileSystemLoader(searchpath="./scripts/templates")
 templateEnv = jinja2.Environment(loader=templateLoader)
 template = templateEnv.get_template('listperson.xml')
 
 with open(os.path.join(ORIG_DATA_MERGED, 'persons.json'), 'r') as f:
-    data = json.load(f)
+    data = f.read()
+    data = data.replace('<NA>', "")
+    data = json.loads(data)
 
 context['personen'] = []
 for key, value in data.items():
