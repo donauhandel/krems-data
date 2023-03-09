@@ -1,5 +1,5 @@
-# aschach-data
-repo to store and convert data from Donauhandel/Aschach Project
+# krems-data
+repo to store and convert data from Krems/Aschach Project
 
 ## dump sql into csv
 
