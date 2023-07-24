@@ -72,7 +72,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                         <forename type="alt">{{ y|e }}</forename>{% endfor %}{% endif %}
                         <surname>{{ x.nachname|e }}</surname>{% if x.alt_nach %}{% for y in x.alt_nach %}
                         <surname type="alt">{{ y|e }}</surname>{% endfor %}{% endif %}
-                     </persName>{% if x.beruf %}
+                     </persName>{% if x.geboren %}
+                     <birth><date>{{ x.geboren }}</date></birth>{% endif %}{% if x.gestorben %}
+                     <death><date>{{ x.gestorben }}</date></death>{% endif %}{% if x.beruf %}
                      <occupation>{{ x.beruf }}</occupation>{% endif %}{% if x.kaufmannsklasse|e %}{% for y in x.kaufmannsklasse %}
                      <occupation type="kaufmannsklasse">{{ y|e }}</occupation>{% endfor %}{% endif %}{% if x.aemter %}{% for y in x.aemter %}
                      <occupation type="aemter">{{ y|e }}</occupation>{% endfor %}{% endif %}{% if x.literatur %}
