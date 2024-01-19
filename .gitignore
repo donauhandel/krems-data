@@ -131,3 +131,4 @@ secret*
 *ipynb
 hansi.csv
 x.csv
+datadir/*.sql

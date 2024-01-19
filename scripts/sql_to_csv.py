@@ -15,9 +15,10 @@ os.makedirs(ORIG_DATA_CSVS, exist_ok=True)
 DB_USER = os.environ.get("DB_USER")
 DB_PW = os.environ.get("DB_PW")
 DB_NAME = os.environ.get("DB_NAME")
-DB_HOST = os.environ.get("DB_HOST", "127.0.0.1")
+DB_HOST = os.environ.get("DB_HOST", "0.0.0.0")
+DB_PORT = os.environ.get("DB_PORT", "3307")
 
-db_connection_str = f"mysql://{DB_USER}:{DB_PW}@{DB_HOST}/{DB_NAME}"
+db_connection_str = f"mysql://{DB_USER}:{DB_PW}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
 db_connection = create_engine(db_connection_str)
 insp = inspect(db_connection)
 

@@ -5,12 +5,11 @@ regionenHistorischId,region
 4,"Mähren, Markgrafschaft"
 5,"Böhmen, Königreich"
 6,"Bayern, Herzogtum"
-7,Schwäbischer Reichskreis
 8,"Nürnberg, Reichsstadt"
 9,"Tirol, Grafschaft"
 10,"Oberösterreich, Erzherzogtum"
 11,"Ungarn, Königreich"
-13,Italien
+13,Italien (unspezifisch)
 14,"Schlesien, Herzogtum"
 15,"Schweiz, Eidgenossenschaft"
 16,"Kärnten, Herzogtum"
@@ -19,15 +18,10 @@ regionenHistorischId,region
 19,"Krain, Herzogtum"
 20,"Preußen, Königreich (ab 1701)"
 21,"Schottland, Königreich (bis 1707)"
-23,Istrien
-24,Friaul
-25,Niederrheinisch-Westfälischer Reichskreis
+25,"Köln, Reichsstadt"
 31,"Venedig, Republik"
-33,Niedersächsischer Reichskreis
-35,Großpolen
-36,Kleinpolen
 37,"Polen, Königreich"
-45,Osmanisches Reich
+45,"Osmanisches Reich, Sultanat"
 46,"Passau, Hochstift"
 48,"Pfalz-Neuburg, Herzogtum"
 49,"Vereinigte Niederlande, Republik"
@@ -37,18 +31,17 @@ regionenHistorischId,region
 53,"Siebenbürgen, Fürstentum"
 54,"Bamberg, Hochstift"
 56,"Serbien, Königreich (1718-1739)"
-57,Belgrader Banat
+57,"Belgrader Banat, Banat"
 58,"Temeswarer Banat, Kron- und Kammerdomäne (1718-78)"
 59,"Mainz, Erzstift"
 60,"Berchtesgaden, Fürstpropstei"
-61,"Hessen-Kassel, Landgrafschaft"
 62,"Sachsen-Coburg, Herzogtum"
 63,"Sachsen-Weimar, Herzogtum"
 64,"Reuß-Gera, Grafschaft"
 65,"Reuß-Ebersdorf, Grafschaft"
 66,Vorderösterreich (Vorlande)
 67,"Obermarchtal, Reichsstift"
-68,"Bremen, Herzogtum"
+68,"Bremen, Herzogtum oder Reichsstadt"
 69,"Brixen, Hochstift"
 70,Österreichische Niederlande
 71,"Frankreich, Königreich"
@@ -64,19 +57,18 @@ regionenHistorischId,region
 81,"Straßburg, Hochstift"
 82,"Freising, Hochstift"
 83,"Toskana, Großherzogtum"
-84,Oberrheinischer Reichskreis
+84,"Frankfurt, Reichsstadt"
 85,"Ortenburg, Grafschaft"
 86,"Genua, Republik"
 87,"Braunschweig-Lüneburg, Herzogtum"
 88,"Kurpfalz, Pfalzgrafschaft"
-89,Heiliges Römisches Reich
+89,"Heiliges Römisches Reich, Kaiserreich"
 90,"Wied-Neuwied, Grafschaft"
 91,"Mark, Grafschaft"
 92,"Baden-Durlach, Markgrafschaft"
 93,"Württemberg, Herzogtum"
 94,"Schwarzburg-Rudolstadt, Grafschaft"
 95,"Lothringen, Herzogtum"
-96,"Lombardei, Landschaft"
 97,"Lucca, Republik"
 98,"Lüttich, Hochstift"
 100,"Mailand, Herzogtum"
@@ -88,7 +80,6 @@ regionenHistorischId,region
 106,"Marchtal, Reichsstift"
 107,"Ochsenhausen, Reichsabtei"
 108,"Ulm, Reichsstadt"
-109,Ritterschaftliche Ortsherrschaft (Schwaben)
 110,"Parma, Herzogtum"
 111,Militärgrenze
 112,"Speyer, Hochstift"
@@ -97,7 +88,6 @@ regionenHistorischId,region
 115,"Patrimonium Petri, Kirchenstaat"
 116,"Schwäbisch Gmünd, Reichsstadt"
 117,"Hessen-Darmstadt, Landgrafschaft"
-118,"Westfalen, Herzogtum"
 119,"Kaufbeuren, Reichsstadt"
 120,"Memmingen, Reichsstadt"
 121,"Augsburg, Reichsstadt"
@@ -117,14 +107,21 @@ regionenHistorischId,region
 135,"Diemantstein, Herrschaft (Diemantstein, Elster)"
 136,"Kellmünz, Herrschaft (Rechberg)"
 137,"Pleß, Herrschaft (Fugger-Babenhausen, Buxheim)"
-138," Marstetten, Herrschaft (Waldburg-Zeil-Wurzbach)"
+138," Marstetten, Herrschaft (Waldburg-Zeil-Wurzach)"
 139,"Sizilien, Königreich"
 140,"Spanien, Königreich"
 141,"Speyer, Reichsstadt"
 142,"Rothenfels-Staufen, Reichsgrafschaft"
 143,"Niederstotzingen, Reichsritterschaftlicher Ort"
-144,"Straßburg, Reichsstadt (ab 1681 Realunion mit Frankreich)"
 145,"Trient, Hochstift"
 146,"Triest, Freie Stadt"
 147,"Fulda, Hochstift"
 148,"Hamburg, Reichsstadt"
+149,"Wied-Neuwied, Grafschaft"
+150,"Pfalz-Sulzbach, Fürstentum"
+151,"Öpfingen, Reichsritterschaftlicher Ort (Freiberg)"
+152,"Kärnten, Herzogtum; Venedig Republik"
+153,"Weißenburg, Reichsstadt"
+154,"Wetzlar, Reichsstadt"
+155,"Braunschweig-Wolfenbüttel, Herzogtum"
+156,"Würzburg, Hochstift"
