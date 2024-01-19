@@ -19,6 +19,7 @@ DB_HOST = os.environ.get("DB_HOST", "0.0.0.0")
 DB_PORT = os.environ.get("DB_PORT", "3307")
 
 db_connection_str = f"mysql://{DB_USER}:{DB_PW}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
+print(db_connection_str)
 db_connection = create_engine(db_connection_str)
 insp = inspect(db_connection)
 

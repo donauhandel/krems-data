@@ -27,3 +27,4 @@ docker container ps -a
 
 docker container start ${DB_NAME}
 docker container ps
+sleep 30
