@@ -23,7 +23,7 @@ jobs:
         run: pip install -r requirements.txt
       - name: set up mariadb
         run: source dl_dumps.sh
-      - name: convert the data
+      - name: dump the data
         run: python scripts/sql_to_csv.py
       - name: merge the data
         run: python scripts/merge_person_table.py
