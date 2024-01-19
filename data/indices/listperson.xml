@@ -141,10 +141,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Adam</forename>
                         <surname>Achtmark</surname>
-                        <surname type="alt">Achtmarkt</surname>
-                        <surname type="alt">Achtmarckt</surname>
                         <surname type="alt">Achtmarck</surname>
                         <surname type="alt">Achtmarckht</surname>
+                        <surname type="alt">Achtmarkt</surname>
+                        <surname type="alt">Achtmarckt</surname>
                      </persName>
                      <listBibl>
                         <bibl>Pantz, Gewerken, 9.</bibl>
@@ -169,9 +169,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann</forename>
                         <surname>Ackhorn</surname>
+                        <surname type="alt">Achkhorn</surname>
                         <surname type="alt">Ackharn</surname>
                         <surname type="alt">Akhorn</surname>
-                        <surname type="alt">Achkhorn</surname>
                         <surname type="alt">Ackhorn</surname>
                      </persName>
                </person>
@@ -582,10 +582,10 @@ Würtembergischen Landesbibliothek Stuttgart, Sonderreihe 3, Wiesbaden
                      <persName>
                         <forename>Adam</forename>
                         <surname>Andrisco</surname>
-                        <surname type="alt">Andrisia</surname>
-                        <surname type="alt">Antriseckh</surname>
                         <surname type="alt">Andriseckh</surname>
+                        <surname type="alt">Andrisia</surname>
                         <surname type="alt">Andrisca</surname>
+                        <surname type="alt">Antriseckh</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__119">
@@ -752,8 +752,8 @@ Würtembergischen Landesbibliothek Stuttgart, Sonderreihe 3, Wiesbaden
                      <persName>
                         <forename>Wolf Andre</forename>
                         <surname>Abel</surname>
-                        <surname type="alt">Abl</surname>
                         <surname type="alt">Appl</surname>
+                        <surname type="alt">Abl</surname>
                      </persName>
                      <birth><date>Ca. 1646</date></birth>
                      <death><date>11.02.1711</date></death>
@@ -894,8 +894,8 @@ Würtembergischen Landesbibliothek Stuttgart, Sonderreihe 3, Wiesbaden
                      <persName>
                         <forename>Gregor</forename>
                         <surname>Auerbeck</surname>
-                        <surname type="alt">Auerweckh</surname>
                         <surname type="alt">Aurbeckh</surname>
+                        <surname type="alt">Auerweckh</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__182">
@@ -1468,8 +1468,8 @@ Würtembergischen Landesbibliothek Stuttgart, Sonderreihe 3, Wiesbaden
                      <persName>
                         <forename>Johann</forename>
                         <surname>Bernätski</surname>
-                        <surname type="alt">Bernäzkhi</surname>
                         <surname type="alt">Bernäskhi</surname>
+                        <surname type="alt">Bernäzkhi</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__298">
@@ -1485,8 +1485,8 @@ Würtembergischen Landesbibliothek Stuttgart, Sonderreihe 3, Wiesbaden
                         <forename>Elias</forename>
                         <surname>Berndonner</surname>
                         <surname type="alt">Perndanner</surname>
-                        <surname type="alt">Berndanner</surname>
                         <surname type="alt">Perndonner</surname>
+                        <surname type="alt">Berndanner</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__300">
@@ -1661,8 +1661,8 @@ Würtembergischen Landesbibliothek Stuttgart, Sonderreihe 3, Wiesbaden
                      <persName>
                         <forename>Gotthard Joseph</forename>
                         <surname>Blau</surname>
-                        <surname type="alt">Plab</surname>
                         <surname type="alt">Plaw</surname>
+                        <surname type="alt">Plab</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__329">
@@ -1693,8 +1693,8 @@ Würtembergischen Landesbibliothek Stuttgart, Sonderreihe 3, Wiesbaden
                      <persName>
                         <forename>Andre</forename>
                         <surname>Bodicella</surname>
-                        <surname type="alt">Wudisella</surname>
                         <surname type="alt">Budisella</surname>
+                        <surname type="alt">Wudisella</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__336">
@@ -1776,8 +1776,8 @@ Würtembergischen Landesbibliothek Stuttgart, Sonderreihe 3, Wiesbaden
                      <persName>
                         <forename>Bartholomäus</forename>
                         <surname>Bolzoni</surname>
-                        <surname type="alt">Butzoni</surname>
                         <surname type="alt">Botzoni</surname>
+                        <surname type="alt">Butzoni</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__350">
@@ -2035,8 +2035,8 @@ Würtembergischen Landesbibliothek Stuttgart, Sonderreihe 3, Wiesbaden
                      <persName>
                         <forename>Barbara</forename>
                         <surname>Budinskin</surname>
-                        <surname type="alt">Butinßkin</surname>
                         <surname type="alt">Budinßkhin</surname>
+                        <surname type="alt">Butinßkin</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__395">
@@ -2228,8 +2228,8 @@ Würtembergischen Landesbibliothek Stuttgart, Sonderreihe 3, Wiesbaden
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Capeto</surname>
-                        <surname type="alt">Cäpetä</surname>
                         <surname type="alt">Capeta</surname>
+                        <surname type="alt">Cäpetä</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__437">
@@ -2418,8 +2418,8 @@ Würtembergischen Landesbibliothek Stuttgart, Sonderreihe 3, Wiesbaden
                      <persName>
                         <forename>Jakob</forename>
                         <surname>Chieregini</surname>
-                        <surname type="alt">Chiregin</surname>
                         <surname type="alt">Zeregin</surname>
+                        <surname type="alt">Chiregin</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__467" sameAs="#wkfm__468 wkfm__469 ">
@@ -2946,8 +2946,8 @@ Würtembergischen Landesbibliothek Stuttgart, Sonderreihe 3, Wiesbaden
                      <persName>
                         <forename>Jakob</forename>
                         <surname>D&amp;#39;Orville</surname>
-                        <surname type="alt">Doriuiel</surname>
                         <surname type="alt">Doruil</surname>
+                        <surname type="alt">Doriuiel</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__551">
@@ -3296,8 +3296,8 @@ Würtembergischen Landesbibliothek Stuttgart, Sonderreihe 3, Wiesbaden
                      <persName>
                         <forename>Martin</forename>
                         <surname>De Neufville</surname>
-                        <surname type="alt">Deneufille</surname>
                         <surname type="alt">Deneufville</surname>
+                        <surname type="alt">Deneufille</surname>
                      </persName>
                      <listBibl>
                         <bibl>Serles, Metropole, 117; Seibold, Blommart und ihr Handelshaus, 167; Seibold, Wirtschaftlicher Erfolg, 351; Dietz, Frankfurter Handelsgeschichte 3, 265–270.</bibl>
@@ -3307,11 +3307,11 @@ Würtembergischen Landesbibliothek Stuttgart, Sonderreihe 3, Wiesbaden
                      <persName>
                         <forename>Johann</forename>
                         <surname>De Ruiquidor</surname>
+                        <surname type="alt">de Ruiquidort</surname>
                         <surname type="alt">Deruiquitort</surname>
-                        <surname type="alt">Ruequidort</surname>
                         <surname type="alt">Ruguetor</surname>
                         <surname type="alt">de Ruquidor</surname>
-                        <surname type="alt">de Ruiquidort</surname>
+                        <surname type="alt">Ruequidort</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__627">
@@ -3370,10 +3370,10 @@ Würtembergischen Landesbibliothek Stuttgart, Sonderreihe 3, Wiesbaden
                      <persName>
                         <forename>Franz</forename>
                         <surname>Deisbacher</surname>
-                        <surname type="alt">Teisbacher</surname>
                         <surname type="alt">Deysbacher</surname>
                         <surname type="alt">Deissbacher</surname>
                         <surname type="alt">Teißpacher</surname>
+                        <surname type="alt">Teisbacher</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__640">
@@ -3636,8 +3636,8 @@ Würtembergischen Landesbibliothek Stuttgart, Sonderreihe 3, Wiesbaden
                      <persName>
                         <forename>Johann</forename>
                         <surname>Detzer</surname>
-                        <surname type="alt">Tözer</surname>
                         <surname type="alt">Tötzer</surname>
+                        <surname type="alt">Tözer</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__680">
@@ -4444,9 +4444,9 @@ Würtembergischen Landesbibliothek Stuttgart, Sonderreihe 3, Wiesbaden
                      <persName>
                         <forename>Peter</forename>
                         <surname>Ducret</surname>
-                        <surname type="alt">Dugereth</surname>
                         <surname type="alt">Dugret</surname>
                         <surname type="alt">Dugeret</surname>
+                        <surname type="alt">Dugereth</surname>
                      </persName>
                      <occupation type="aemter">Äußerer Rat</occupation>
                      <listBibl>
@@ -4566,8 +4566,8 @@ Würtembergischen Landesbibliothek Stuttgart, Sonderreihe 3, Wiesbaden
                         <forename>Bernhard</forename>
                         <surname>Dworsky</surname>
                         <surname type="alt">Dorskhy</surname>
-                        <surname type="alt">Worzkhy</surname>
                         <surname type="alt">Dworßkhy</surname>
+                        <surname type="alt">Worzkhy</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__832">
@@ -4991,8 +4991,8 @@ Würtembergischen Landesbibliothek Stuttgart, Sonderreihe 3, Wiesbaden
                      <persName>
                         <forename>Augustin Franz</forename>
                         <surname>Ehemann</surname>
-                        <surname type="alt">Ehemahn</surname>
                         <surname type="alt">Eheman</surname>
+                        <surname type="alt">Ehemahn</surname>
                      </persName>
                      <occupation>Zinngießer</occupation>
                </person>
@@ -5220,8 +5220,8 @@ Würtembergischen Landesbibliothek Stuttgart, Sonderreihe 3, Wiesbaden
                      <persName>
                         <forename>Martin</forename>
                         <surname>Endter</surname>
-                        <surname type="alt">Enter</surname>
                         <surname type="alt">Ender</surname>
+                        <surname type="alt">Enter</surname>
                      </persName>
                      <listBibl>
                         <bibl>Bieniarzówna, Die Handelsbeziehungen zwischen Krakau und Krems im 16. und 17. Jahrhundert, 32.</bibl>
@@ -5913,8 +5913,8 @@ Würtembergischen Landesbibliothek Stuttgart, Sonderreihe 3, Wiesbaden
                      <persName>
                         <forename>Georg</forename>
                         <surname>Faldtespichler</surname>
-                        <surname type="alt">Faldtesbüchler</surname>
                         <surname type="alt">Faldespüchler</surname>
+                        <surname type="alt">Faldtesbüchler</surname>
                         <surname type="alt">Faldtespüchler</surname>
                      </persName>
                </person>
@@ -6199,8 +6199,8 @@ Würtembergischen Landesbibliothek Stuttgart, Sonderreihe 3, Wiesbaden
                      <persName>
                         <forename>Heinrich</forename>
                         <surname>Ferber</surname>
-                        <surname type="alt">Fenor</surname>
                         <surname type="alt">Förber</surname>
+                        <surname type="alt">Fenor</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__1109" sameAs="#wkfm__1112 ">
@@ -6357,8 +6357,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Wenzel</forename>
                         <surname>Ficker</surname>
-                        <surname type="alt">Füeckher</surname>
                         <surname type="alt">Fiekher</surname>
+                        <surname type="alt">Füeckher</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__1135" sameAs="#wkfm__1137 ">
@@ -7288,8 +7288,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Johann</forename>
                         <surname>Freneau</surname>
-                        <surname type="alt">Frenaw</surname>
                         <surname type="alt">Freneau</surname>
+                        <surname type="alt">Frenaw</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__1291">
@@ -7664,8 +7664,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Fromwald</surname>
-                        <surname type="alt">Fromwalt</surname>
                         <surname type="alt">Frumbwalt</surname>
+                        <surname type="alt">Fromwalt</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__1351" sameAs="#wkfm__1352 ">
@@ -8160,8 +8160,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Johann</forename>
                         <surname>Galesco</surname>
-                        <surname type="alt">Gallezkho</surname>
                         <surname type="alt">Galezkho</surname>
+                        <surname type="alt">Gallezkho</surname>
                         <surname type="alt">Galiskha</surname>
                         <surname type="alt">Galehko</surname>
                      </persName>
@@ -9098,9 +9098,9 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <forename>Georg</forename>
                         <surname>Glasnizka</surname>
                         <surname type="alt">Klaßnizkhi</surname>
-                        <surname type="alt">Kläsnizka</surname>
                         <surname type="alt">Laßniskha</surname>
                         <surname type="alt">Glaßnizka</surname>
+                        <surname type="alt">Kläsnizka</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__1599">
@@ -9243,8 +9243,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Georg</forename>
                         <surname>Goldast</surname>
-                        <surname type="alt">Gultenast</surname>
                         <surname type="alt">Guldast</surname>
+                        <surname type="alt">Gultenast</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__1621">
@@ -9347,9 +9347,9 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Martin Crispin</forename>
                         <surname>Goschga</surname>
+                        <surname type="alt">Goschkho</surname>
                         <surname type="alt">Goßkha</surname>
                         <surname type="alt">Goskho</surname>
-                        <surname type="alt">Goschkho</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__1643">
@@ -9860,9 +9860,9 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Greimbl</surname>
-                        <surname type="alt">Greinl</surname>
-                        <surname type="alt">Kreinl</surname>
                         <surname type="alt">Kreimbl</surname>
+                        <surname type="alt">Kreinl</surname>
+                        <surname type="alt">Greinl</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__1725">
@@ -9985,8 +9985,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Tobias</forename>
                         <surname>Grill</surname>
-                        <surname type="alt">Grail</surname>
                         <surname type="alt">Griel</surname>
+                        <surname type="alt">Grail</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__1746">
@@ -10111,9 +10111,9 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Mert</forename>
                         <surname>Groich</surname>
+                        <surname type="alt">Kroich</surname>
                         <surname type="alt">Khroig</surname>
                         <surname type="alt">Kroig</surname>
-                        <surname type="alt">Kroich</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__1767">
@@ -10187,8 +10187,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Peter</forename>
                         <surname>Grosset</surname>
-                        <surname type="alt">Gusset</surname>
                         <surname type="alt">Goschet</surname>
+                        <surname type="alt">Gusset</surname>
                      </persName>
                      <listBibl>
                         <bibl>Raynaud, Savoyische Einwanderung,179; Maistre–Gilbert et al., Colporteurs, 221.</bibl>
@@ -10403,8 +10403,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Gschenk</surname>
-                        <surname type="alt">Gschrackh</surname>
                         <surname type="alt">Gschenckh</surname>
+                        <surname type="alt">Gschrackh</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__1813">
@@ -10717,8 +10717,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Wenzel</forename>
                         <surname>Gutjagt</surname>
-                        <surname type="alt">Gutiagt</surname>
                         <surname type="alt">Guttjackh</surname>
+                        <surname type="alt">Gutiagt</surname>
                         <surname type="alt">Gutiägt</surname>
                      </persName>
                </person>
@@ -10739,8 +10739,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Johann</forename>
                         <surname>Gutschänick</surname>
-                        <surname type="alt">Guttschenickh</surname>
                         <surname type="alt">Gutscheneckh</surname>
+                        <surname type="alt">Guttschenickh</surname>
                         <surname type="alt">Guttscheneckh</surname>
                      </persName>
                </person>
@@ -10934,8 +10934,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Johann</forename>
                         <surname>Hackewalder</surname>
-                        <surname type="alt">Hackhewaltter</surname>
                         <surname type="alt">Hackhewaldter</surname>
+                        <surname type="alt">Hackhewaltter</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__1907">
@@ -11085,8 +11085,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Johann</forename>
                         <surname>Hainl</surname>
-                        <surname type="alt">Händl</surname>
                         <surname type="alt">Häinl</surname>
+                        <surname type="alt">Händl</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__1931">
@@ -11113,16 +11113,16 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Hainl</surname>
-                        <surname type="alt">Häindl</surname>
                         <surname type="alt">Häinel</surname>
+                        <surname type="alt">Häindl</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__1935">
                      <persName>
                         <forename>Augustin</forename>
                         <surname>Hainl</surname>
-                        <surname type="alt">Häul</surname>
                         <surname type="alt">Händl</surname>
+                        <surname type="alt">Häul</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__1936">
@@ -11755,8 +11755,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Andre</forename>
                         <surname>Haunsegg</surname>
-                        <surname type="alt">Haueseckh</surname>
                         <surname type="alt">Haunesegg</surname>
+                        <surname type="alt">Haueseckh</surname>
                         <surname type="alt">Haunsöckh</surname>
                      </persName>
                </person>
@@ -11938,9 +11938,9 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Georg</forename>
                         <surname>Hein</surname>
-                        <surname type="alt">Heynn</surname>
-                        <surname type="alt">Hain</surname>
                         <surname type="alt">Heyn</surname>
+                        <surname type="alt">Hain</surname>
+                        <surname type="alt">Heynn</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__2069">
@@ -14105,8 +14105,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Martin</forename>
                         <surname>Illner</surname>
-                        <surname type="alt">Ülner</surname>
                         <surname type="alt">Üllner</surname>
+                        <surname type="alt">Ülner</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__2465" sameAs="#wkfm__2472 wkfm__8016 wkfm__2474 ">
@@ -14221,8 +14221,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>David</forename>
                         <surname>Insel</surname>
-                        <surname type="alt">Inßl</surname>
                         <surname type="alt">Insler</surname>
+                        <surname type="alt">Inßl</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__2487">
@@ -14546,12 +14546,12 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Johann</forename>
                         <surname>Janski</surname>
-                        <surname type="alt">Jäntschgo</surname>
-                        <surname type="alt">Jäntschko</surname>
                         <surname type="alt">Jäntschkhy</surname>
+                        <surname type="alt">Jäntschgo</surname>
                         <surname type="alt">Jänßkho</surname>
-                        <surname type="alt">Jänzkhy</surname>
                         <surname type="alt">Jenskho</surname>
+                        <surname type="alt">Jäntschko</surname>
+                        <surname type="alt">Jänzkhy</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__2636">
@@ -14564,9 +14564,9 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Jaritz</surname>
-                        <surname type="alt">Järiz</surname>
-                        <surname type="alt">Järitsch</surname>
                         <surname type="alt">Jaritsch</surname>
+                        <surname type="alt">Järitsch</surname>
+                        <surname type="alt">Järiz</surname>
                      </persName>
                      <listBibl>
                         <bibl>Rauscher, Serles, Märkte, 85, Anm. 108.</bibl>
@@ -14576,8 +14576,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Jaroschek</surname>
-                        <surname type="alt">Jaroscheckh</surname>
                         <surname type="alt">Järäscheckh</surname>
+                        <surname type="alt">Jaroscheckh</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__2639">
@@ -14618,8 +14618,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Johann</forename>
                         <surname>Jasko</surname>
-                        <surname type="alt">Jäskho</surname>
                         <surname type="alt">Jasco</surname>
+                        <surname type="alt">Jäskho</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__2645">
@@ -14776,8 +14776,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Johann</forename>
                         <surname>Jon</surname>
-                        <surname type="alt">Joan</surname>
                         <surname type="alt">Joam</surname>
+                        <surname type="alt">Joan</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__2678">
@@ -15260,8 +15260,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Jeremias</forename>
                         <surname>Kauerhaas</surname>
-                        <surname type="alt">Khauerhaaß</surname>
                         <surname type="alt">Khauerhaas</surname>
+                        <surname type="alt">Khauerhaaß</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__2791">
@@ -16398,8 +16398,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Stephan</forename>
                         <surname>Knoll</surname>
-                        <surname type="alt">Khnoll</surname>
                         <surname type="alt">Kholl</surname>
+                        <surname type="alt">Khnoll</surname>
                      </persName>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
@@ -16451,8 +16451,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Knur</surname>
-                        <surname type="alt">Khnur</surname>
                         <surname type="alt">Knur</surname>
+                        <surname type="alt">Khnur</surname>
                      </persName>
                      <birth><date>1652</date></birth>
                      <death><date>04.05.1708</date></death>
@@ -16479,8 +16479,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Andre Bernhard</forename>
                         <surname>Knur</surname>
-                        <surname type="alt">Khnur</surname>
                         <surname type="alt">Knor</surname>
+                        <surname type="alt">Khnur</surname>
                      </persName>
                      <birth><date>1676</date></birth>
                      <death><date>1754</date></death>
@@ -16659,17 +16659,17 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Jakob</forename>
                         <surname>Kogoski</surname>
-                        <surname type="alt">Kogoschkhy</surname>
                         <surname type="alt">Khogoßkhi</surname>
                         <surname type="alt">Kogoschkhi</surname>
+                        <surname type="alt">Kogoschkhy</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__3014" sameAs="#wkfm__30400 ">
                      <persName>
                         <forename>Dominicus</forename>
                         <surname>Kolb von Kolbenthurn</surname>
-                        <surname type="alt">von Kolbenthurn</surname>
                         <surname type="alt">Kolb</surname>
+                        <surname type="alt">von Kolbenthurn</surname>
                      </persName>
                      <listBibl>
                         <bibl>Hofmann, Beiträge, 360; Kreczi, Linzer Häuserchronik, 53: &amp;#34;Kholb von Kholbenthuern&amp;#34;; August Ludwig Schlözer&amp;#39;s (...) Briefwechsel (...), 10. Teil, Heft LV-LX, hier Heft LVIII, Nr. 17, 201-222.</bibl>
@@ -17012,8 +17012,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Niklas</forename>
                         <surname>Koschuseck</surname>
-                        <surname type="alt">Coschescheckh</surname>
                         <surname type="alt">Koschuseckh</surname>
+                        <surname type="alt">Coschescheckh</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__3071">
@@ -17254,8 +17254,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Balthasar</forename>
                         <surname>Kranzpichler</surname>
-                        <surname type="alt">Cranzbühler</surname>
                         <surname type="alt">Cranzpichler</surname>
+                        <surname type="alt">Cranzbühler</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__3118">
@@ -17530,8 +17530,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <surname>Kreisl</surname>
                         <surname type="alt">Kreißl</surname>
                         <surname type="alt">Khreifel</surname>
-                        <surname type="alt">Khreißler</surname>
                         <surname type="alt">Kraißl</surname>
+                        <surname type="alt">Khreißler</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__3161">
@@ -17545,9 +17545,9 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Christoph</forename>
                         <surname>Kreisner</surname>
-                        <surname type="alt">Kreißner</surname>
-                        <surname type="alt">Kreüßner</surname>
                         <surname type="alt">Khreißner</surname>
+                        <surname type="alt">Kreüßner</surname>
+                        <surname type="alt">Kreißner</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__3163">
@@ -17878,8 +17878,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Georg</forename>
                         <surname>Kron</surname>
-                        <surname type="alt">Cronn</surname>
                         <surname type="alt">Cron</surname>
+                        <surname type="alt">Cronn</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__3216">
@@ -18067,8 +18067,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Albrecht</forename>
                         <surname>Kunigund</surname>
-                        <surname type="alt">Khunig</surname>
                         <surname type="alt">Khunigundt</surname>
+                        <surname type="alt">Khunig</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__3246">
@@ -18609,8 +18609,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Dominicus</forename>
                         <surname>Lang</surname>
-                        <surname type="alt">Langgo</surname>
                         <surname type="alt">Lanng</surname>
+                        <surname type="alt">Langgo</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__3333">
@@ -18838,8 +18838,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Johann Baptist</forename>
                         <surname>Lasser</surname>
-                        <surname type="alt">Losser</surname>
                         <surname type="alt">Loser</surname>
+                        <surname type="alt">Losser</surname>
                      </persName>
                      <occupation>Arzt</occupation>
                      <occupation type="aemter">Dr.</occupation>
@@ -19738,10 +19738,10 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Jost</forename>
                         <surname>von Loen</surname>
-                        <surname type="alt">Leeon</surname>
-                        <surname type="alt">Leon</surname>
-                        <surname type="alt">von Leon</surname>
                         <surname type="alt">von Lohn</surname>
+                        <surname type="alt">von Leon</surname>
+                        <surname type="alt">Leon</surname>
+                        <surname type="alt">Leeon</surname>
                      </persName>
                      <birth><date>1626</date></birth>
                      <death><date>1670</date></death>
@@ -20096,8 +20096,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Karl</forename>
                         <surname>Lußnig</surname>
-                        <surname type="alt">Lußnickh</surname>
                         <surname type="alt">Lußnik</surname>
+                        <surname type="alt">Lußnickh</surname>
                         <surname type="alt">Lußinckh</surname>
                      </persName>
                </person>
@@ -20292,8 +20292,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Mallick</surname>
-                        <surname type="alt">Mällickh</surname>
                         <surname type="alt">Mallickh</surname>
+                        <surname type="alt">Mällickh</surname>
                      </persName>
                      <death><date>1714</date></death>
                      <occupation>Gastwirt</occupation>
@@ -20330,8 +20330,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <forename>Matthias</forename>
                         <surname>Mandino</surname>
                         <surname type="alt">Modini</surname>
-                        <surname type="alt">Mundino</surname>
                         <surname type="alt">Muntin</surname>
+                        <surname type="alt">Mundino</surname>
                      </persName>
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Hans
@@ -20576,8 +20576,8 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Johann</forename>
                         <surname>Marschalch</surname>
-                        <surname type="alt">Marschalckh</surname>
                         <surname type="alt">Marschall</surname>
+                        <surname type="alt">Marschalckh</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__3762">
@@ -21328,8 +21328,8 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Stephan</forename>
                         <surname>Melßheimer</surname>
-                        <surname type="alt">Melßhaimber</surname>
                         <surname type="alt">Melsheimber</surname>
+                        <surname type="alt">Melßhaimber</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__3909">
@@ -21450,8 +21450,8 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Johann</forename>
                         <surname>Merkel</surname>
-                        <surname type="alt">Merckhl</surname>
                         <surname type="alt">Mergl</surname>
+                        <surname type="alt">Merckhl</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__3929">
@@ -21517,8 +21517,8 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Ludwig</forename>
                         <surname>Mayr</surname>
-                        <surname type="alt">Meyr</surname>
                         <surname type="alt">Meyer</surname>
+                        <surname type="alt">Meyr</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__3939">
@@ -21749,8 +21749,8 @@ Salzburg 1965) 585–598.&amp;lt;/div&amp;gt;</bibl>
                      <persName>
                         <forename>Georg</forename>
                         <surname>Mickl</surname>
-                        <surname type="alt">Michel</surname>
                         <surname type="alt">Mickhl</surname>
+                        <surname type="alt">Michel</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__3982">
@@ -22770,8 +22770,8 @@ Salzburg 1965) 585–598.&amp;lt;/div&amp;gt;</bibl>
                      <persName>
                         <forename>Johann</forename>
                         <surname>Münichreiter</surname>
-                        <surname type="alt">Münichreither</surname>
                         <surname type="alt">Münichreitter</surname>
+                        <surname type="alt">Münichreither</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__4195">
@@ -23281,10 +23281,10 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                         <forename>Johann Georg</forename>
                         <surname>Neuwirt</surname>
                         <surname type="alt">Neywürth</surname>
-                        <surname type="alt">Neywierth</surname>
                         <surname type="alt">Neywiert</surname>
-                        <surname type="alt">Newwürth</surname>
                         <surname type="alt">Neywierdt</surname>
+                        <surname type="alt">Newwürth</surname>
+                        <surname type="alt">Neywierth</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__4287">
@@ -23408,8 +23408,8 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Franz Joseph</forename>
                         <surname>Niess</surname>
-                        <surname type="alt">Niss</surname>
                         <surname type="alt">Niesser</surname>
+                        <surname type="alt">Niss</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__4308">
@@ -23491,8 +23491,8 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Niklas</forename>
                         <surname>Nocerini</surname>
-                        <surname type="alt">Nucerini</surname>
                         <surname type="alt">Nuccerini</surname>
+                        <surname type="alt">Nucerini</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__4322">
@@ -23757,8 +23757,8 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>von Ödl</surname>
-                        <surname type="alt">von Öttl</surname>
                         <surname type="alt">Ödl</surname>
+                        <surname type="alt">von Öttl</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__4376">
@@ -24349,8 +24349,8 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Georg</forename>
                         <surname>Pagatsch</surname>
-                        <surname type="alt">Pogätsch</surname>
                         <surname type="alt">Pagätsch</surname>
+                        <surname type="alt">Pogätsch</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__4474">
@@ -24484,8 +24484,8 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Veit</forename>
                         <surname>Pämick</surname>
-                        <surname type="alt">Pämickh</surname>
                         <surname type="alt">Pänni</surname>
+                        <surname type="alt">Pämickh</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__4497">
@@ -25181,8 +25181,8 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Gerlach</forename>
                         <surname>Peck</surname>
-                        <surname type="alt">Beckh</surname>
                         <surname type="alt">Peckh</surname>
+                        <surname type="alt">Beckh</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__4622">
@@ -25385,8 +25385,8 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Johann</forename>
                         <surname>Pelischatt</surname>
-                        <surname type="alt">Pelisath</surname>
                         <surname type="alt">Peneschatt</surname>
+                        <surname type="alt">Pelisath</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__4654">
@@ -25462,16 +25462,16 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Franz</forename>
                         <surname>Pellham</surname>
-                        <surname type="alt">Bellham</surname>
                         <surname type="alt">Pellhamb</surname>
+                        <surname type="alt">Bellham</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__4665">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Pellham</surname>
-                        <surname type="alt">Billam</surname>
                         <surname type="alt">Bellhamb</surname>
+                        <surname type="alt">Billam</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__4666">
@@ -25671,8 +25671,8 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Paul</forename>
                         <surname>Perklofski</surname>
-                        <surname type="alt">Perlofskhy</surname>
                         <surname type="alt">Perckhlofskhi</surname>
+                        <surname type="alt">Perlofskhy</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__4709">
@@ -25881,8 +25881,8 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Johann</forename>
                         <surname>Peske</surname>
-                        <surname type="alt">Peßkhe</surname>
                         <surname type="alt">Pößka</surname>
+                        <surname type="alt">Peßkhe</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__4743">
@@ -25947,8 +25947,8 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Johann Peter</forename>
                         <surname>Pestaluzzi</surname>
-                        <surname type="alt">Pestaluzy</surname>
                         <surname type="alt">Pestaluz</surname>
+                        <surname type="alt">Pestaluzy</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__4753" sameAs="#wkfm__4746 wkfm__8026 ">
@@ -26027,8 +26027,8 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Fermo</forename>
                         <surname>Peterzani</surname>
-                        <surname type="alt">Petter Zan</surname>
                         <surname type="alt">Peter Zän</surname>
+                        <surname type="alt">Petter Zan</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__4766" sameAs="#wkfm__8027 ">
@@ -27312,11 +27312,11 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Friedrich</forename>
                         <surname>Pladt</surname>
-                        <surname type="alt">Bladt</surname>
-                        <surname type="alt">Platt</surname>
                         <surname type="alt">Blatt</surname>
-                        <surname type="alt">Plat</surname>
+                        <surname type="alt">Platt</surname>
                         <surname type="alt">Plath</surname>
+                        <surname type="alt">Bladt</surname>
+                        <surname type="alt">Plat</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__4992">
@@ -27335,10 +27335,10 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Heinrich</forename>
                         <surname>Plagezky</surname>
-                        <surname type="alt">Plagezkhy</surname>
-                        <surname type="alt">Plahezgi</surname>
-                        <surname type="alt">Plahetskhy</surname>
                         <surname type="alt">Plachetskhy</surname>
+                        <surname type="alt">Plagezkhy</surname>
+                        <surname type="alt">Plahetskhy</surname>
+                        <surname type="alt">Plahezgi</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__4995">
@@ -27697,8 +27697,8 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Martin</forename>
                         <surname>Pock</surname>
-                        <surname type="alt">Bockh</surname>
                         <surname type="alt">Pockh</surname>
+                        <surname type="alt">Bockh</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__5054">
@@ -27933,8 +27933,8 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                         <forename>Paul</forename>
                         <surname>Polleßni</surname>
                         <surname type="alt">Pollester</surname>
-                        <surname type="alt">Palleßni</surname>
                         <surname type="alt">Polleßne</surname>
+                        <surname type="alt">Palleßni</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__5110">
@@ -28077,8 +28077,8 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Johann Paul</forename>
                         <surname>Pommer</surname>
-                        <surname type="alt">Pumer</surname>
                         <surname type="alt">Pomer</surname>
+                        <surname type="alt">Pumer</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__5137">
@@ -30816,8 +30816,8 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                         <forename>Matthäus</forename>
                         <forename type="alt">Mathes</forename>
                         <surname>Riedel</surname>
-                        <surname type="alt">Riedtl</surname>
                         <surname type="alt">Riedl</surname>
+                        <surname type="alt">Riedtl</surname>
                      </persName>
                      <listBibl>
                         <bibl>Pusch, Breslauer Rats- und Stadtgeschlechter, Bd. 3, 363f.</bibl>
@@ -31326,8 +31326,8 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Franz</forename>
                         <surname>Rösel</surname>
-                        <surname type="alt">Rössl</surname>
                         <surname type="alt">Rösl</surname>
+                        <surname type="alt">Rössl</surname>
                      </persName>
                      <birth><date>1581</date></birth>
                      <death><date>1652</date></death>
@@ -32400,8 +32400,8 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Johann</forename>
                         <surname>Schascheck</surname>
-                        <surname type="alt">Schaseckh</surname>
                         <surname type="alt">Schäscheckh</surname>
+                        <surname type="alt">Schaseckh</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__5918">
@@ -33308,8 +33308,8 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Thomas</forename>
                         <surname>Schlüsselberger</surname>
-                        <surname type="alt">Schlißlberger</surname>
                         <surname type="alt">Schlisslberger</surname>
+                        <surname type="alt">Schlißlberger</surname>
                      </persName>
                      <listBibl>
                         <bibl>Kellenbenz, Regensburger Fernhandelsbeziehungen in der Mitte des 17. Jahrhunderts, 467.</bibl>
@@ -33647,8 +33647,8 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Franz</forename>
                         <surname>Smolukowski</surname>
-                        <surname type="alt">Smolukowskhi</surname>
                         <surname type="alt">Schmolgovzi</surname>
+                        <surname type="alt">Smolukowskhi</surname>
                         <surname type="alt">Schwalgovzi</surname>
                      </persName>
                </person>
@@ -34214,8 +34214,8 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                         <forename>Christoph</forename>
                         <surname>Schranzhofer</surname>
                         <surname type="alt">Schranckhshofer</surname>
-                        <surname type="alt">Schranshoffer</surname>
                         <surname type="alt">Ranshofer</surname>
+                        <surname type="alt">Schranshoffer</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__6240">
@@ -35627,9 +35627,9 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Abraham</forename>
                         <surname>Siess</surname>
+                        <surname type="alt">Siess</surname>
                         <surname type="alt">Süess</surname>
                         <surname type="alt">Sieß</surname>
-                        <surname type="alt">Siess</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__6477">
@@ -35822,8 +35822,8 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Kaspar</forename>
                         <surname>Sinderspiller</surname>
-                        <surname type="alt">Singerspiller</surname>
                         <surname type="alt">Sünderspiller</surname>
+                        <surname type="alt">Singerspiller</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__6521">
@@ -37502,8 +37502,8 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Jakob</forename>
                         <surname>Sulbeck</surname>
-                        <surname type="alt">Sulbeckh</surname>
                         <surname type="alt">Sulbi</surname>
+                        <surname type="alt">Sulbeckh</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__6822">
@@ -39342,9 +39342,9 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Walmpeck</surname>
+                        <surname type="alt">Walnpöckhen</surname>
                         <surname type="alt">Walnpockhen</surname>
                         <surname type="alt">Walnpöckh</surname>
-                        <surname type="alt">Walnpöckhen</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="aemter">Innerer Rat</occupation>
@@ -39522,8 +39522,8 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Samuel</forename>
                         <surname>Warobesky</surname>
-                        <surname type="alt">Waroffkhy</surname>
                         <surname type="alt">Warofkhy</surname>
+                        <surname type="alt">Waroffkhy</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__7190">
@@ -39970,8 +39970,8 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Wolf</forename>
                         <surname>Weißpeck</surname>
-                        <surname type="alt">Weißpöckh</surname>
                         <surname type="alt">Weißpeckh</surname>
+                        <surname type="alt">Weißpöckh</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__7268">
@@ -41175,9 +41175,9 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Paul</forename>
                         <surname>Wisnosky</surname>
-                        <surname type="alt">Wisnoskhy</surname>
-                        <surname type="alt">Wisnofskhy</surname>
                         <surname type="alt">Wismowski</surname>
+                        <surname type="alt">Wisnofskhy</surname>
+                        <surname type="alt">Wisnoskhy</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__7477">
@@ -41277,8 +41277,8 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Wizmanstorffer</surname>
-                        <surname type="alt">Wözmanstorffer</surname>
                         <surname type="alt">Pizmanstorffer</surname>
+                        <surname type="alt">Wözmanstorffer</surname>
                      </persName>
                      <occupation>Eisenhändler</occupation>
                </person>
@@ -41454,8 +41454,8 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Leopold</forename>
                         <surname>Wolfart</surname>
-                        <surname type="alt">Wolffarth</surname>
                         <surname type="alt">Wolfarth</surname>
+                        <surname type="alt">Wolffarth</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__7527">
@@ -41611,8 +41611,8 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Mert</forename>
                         <surname>Wolfshofer</surname>
-                        <surname type="alt">Wolixhoffer</surname>
                         <surname type="alt">Wolfshoffer</surname>
+                        <surname type="alt">Wolixhoffer</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__7550">
@@ -41737,8 +41737,8 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Andre</forename>
                         <surname>Woyzinski</surname>
-                        <surname type="alt">Wosinckhy</surname>
                         <surname type="alt">Wogschinßkhi</surname>
+                        <surname type="alt">Wosinckhy</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__7571">
@@ -41920,8 +41920,8 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Marx</forename>
                         <surname>Wuschletisch</surname>
-                        <surname type="alt">Wuschletitsch</surname>
                         <surname type="alt">Wuschledisch</surname>
+                        <surname type="alt">Wuschletitsch</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__7601">
@@ -43247,8 +43247,8 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Johann</forename>
                         <surname>Seywert</surname>
-                        <surname type="alt">Seywerth</surname>
                         <surname type="alt">Seywürth</surname>
+                        <surname type="alt">Seywerth</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__8034">
@@ -43315,8 +43315,8 @@ Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373;
                      <persName>
                         <forename>Franz Anton</forename>
                         <surname>Prohaska</surname>
-                        <surname type="alt">Prochaska</surname>
                         <surname type="alt">Prosaßka</surname>
+                        <surname type="alt">Prochaska</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__8048">
@@ -48448,8 +48448,8 @@ Porzellan des Klassizismus. Die Ära Conrad von Sorgenthal 1784-1805 (Wien
                      <persName>
                         <forename>Maria Barbara</forename>
                         <surname>Nöglin</surname>
-                        <surname type="alt">Nägerlin</surname>
                         <surname type="alt">Wätzger</surname>
+                        <surname type="alt">Nägerlin</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__26118">
@@ -49676,8 +49676,8 @@ Thurneisens mit steirischen Sensen siehe Friess/Grossmann, Steirischer Sensenham
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Körgl</surname>
-                        <surname type="alt">Khärgl</surname>
                         <surname type="alt">Khörgl</surname>
+                        <surname type="alt">Khärgl</surname>
                      </persName>
                      <death><date>1728</date></death>
                      <occupation>Handelsmann</occupation>
@@ -50461,8 +50461,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <forename>Johann Anton</forename>
                         <forename type="alt">Anton</forename>
                         <surname>Bormastini</surname>
-                        <surname type="alt">Wormastin</surname>
                         <surname type="alt">Bormastino</surname>
+                        <surname type="alt">Wormastin</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
@@ -54038,8 +54038,8 @@ Herzogin, außerordentlicher Gesandter (Envoye) am kaiserlichen Hof (...), Freih
                      <persName>
                         <forename>Maria Elisabeth</forename>
                         <surname>Erwartin</surname>
-                        <surname type="alt">Ehrwartin</surname>
                         <surname type="alt">Langenser</surname>
+                        <surname type="alt">Ehrwartin</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__46851">
@@ -54389,8 +54389,8 @@ Herzogin, außerordentlicher Gesandter (Envoye) am kaiserlichen Hof (...), Freih
                      <persName>
                         <forename>Maria Anna</forename>
                         <surname>Jenamy</surname>
-                        <surname type="alt">Jenamin</surname>
                         <surname type="alt">Waizmann</surname>
+                        <surname type="alt">Jenamin</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__47029">
@@ -54751,8 +54751,8 @@ Herzogin, außerordentlicher Gesandter (Envoye) am kaiserlichen Hof (...), Freih
                 <person xml:id="wkfm__47283">
                      <persName>
                         <forename>Johann Noah (I.)</forename>
-                        <forename type="alt">Johann Noe</forename>
                         <forename type="alt">Noe</forename>
+                        <forename type="alt">Johann Noe</forename>
                         <surname>Buirette</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
@@ -54851,8 +54851,8 @@ Herzogin, außerordentlicher Gesandter (Envoye) am kaiserlichen Hof (...), Freih
                         <forename>Maria Agnes</forename>
                         <surname>Kratschin</surname>
                         <surname type="alt">Stockinger</surname>
-                        <surname type="alt">Humblin</surname>
                         <surname type="alt">Herzogin</surname>
+                        <surname type="alt">Humblin</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__47429">
@@ -54890,8 +54890,8 @@ Herzogin, außerordentlicher Gesandter (Envoye) am kaiserlichen Hof (...), Freih
                      <persName>
                         <forename>Maria Josepha</forename>
                         <surname>Salietin</surname>
-                        <surname type="alt">Stidl</surname>
                         <surname type="alt">Sallietin</surname>
+                        <surname type="alt">Stidl</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__47494">
@@ -54999,8 +54999,8 @@ Herzogin, außerordentlicher Gesandter (Envoye) am kaiserlichen Hof (...), Freih
                      <persName>
                         <forename>Helena</forename>
                         <surname>Liebin</surname>
-                        <surname type="alt">Mußerin</surname>
                         <surname type="alt">Schwarzenberger</surname>
+                        <surname type="alt">Mußerin</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__47535">
@@ -55164,8 +55164,8 @@ Herzogin, außerordentlicher Gesandter (Envoye) am kaiserlichen Hof (...), Freih
                      <persName>
                         <forename>Anna Maria</forename>
                         <surname>Rossmannin [?]</surname>
-                        <surname type="alt">Rosmarinin</surname>
                         <surname type="alt">Schreiber</surname>
+                        <surname type="alt">Rosmarinin</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__47607">
@@ -55211,8 +55211,8 @@ Herzogin, außerordentlicher Gesandter (Envoye) am kaiserlichen Hof (...), Freih
                      <persName>
                         <forename>Maria Anna</forename>
                         <surname>Stifterin</surname>
-                        <surname type="alt">Stüffterin</surname>
                         <surname type="alt">Scheckenberger</surname>
+                        <surname type="alt">Stüffterin</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__47618">
@@ -57342,9 +57342,9 @@ Herzogin, außerordentlicher Gesandter (Envoye) am kaiserlichen Hof (...), Freih
                      <persName>
                         <forename>David</forename>
                         <surname>Calmus</surname>
-                        <surname type="alt">Kalmuß</surname>
-                        <surname type="alt">Kallmus</surname>
                         <surname type="alt">Khallmus</surname>
+                        <surname type="alt">Kallmus</surname>
+                        <surname type="alt">Kalmuß</surname>
                      </persName>
                      <occupation>Federhändler</occupation>
                </person>
@@ -58866,8 +58866,8 @@ Herzogin, außerordentlicher Gesandter (Envoye) am kaiserlichen Hof (...), Freih
                      <persName>
                         <forename>Löwl</forename>
                         <surname>Jonas</surname>
-                        <surname type="alt">Jannas</surname>
                         <surname type="alt">Jonnes</surname>
+                        <surname type="alt">Jannas</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__2681">
@@ -59180,8 +59180,8 @@ Herzogin, außerordentlicher Gesandter (Envoye) am kaiserlichen Hof (...), Freih
                      <persName>
                         <forename>Marx</forename>
                         <surname>Kramer</surname>
-                        <surname type="alt">Khramber</surname>
                         <surname type="alt">Khramer</surname>
+                        <surname type="alt">Khramber</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__3106">
@@ -60351,9 +60351,9 @@ Herzogin, außerordentlicher Gesandter (Envoye) am kaiserlichen Hof (...), Freih
                      <persName>
                         <forename>Mendel</forename>
                         <surname>Neustätter</surname>
-                        <surname type="alt">Newstöttl</surname>
-                        <surname type="alt">Newstödl</surname>
                         <surname type="alt">Newstötter</surname>
+                        <surname type="alt">Newstödl</surname>
+                        <surname type="alt">Newstöttl</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__4284">
@@ -60799,8 +60799,8 @@ Herzogin, außerordentlicher Gesandter (Envoye) am kaiserlichen Hof (...), Freih
                      <persName>
                         <forename>Jakob</forename>
                         <surname>Pollak</surname>
-                        <surname type="alt">Polläckh</surname>
                         <surname type="alt">Bolläckh</surname>
+                        <surname type="alt">Polläckh</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__5095">
@@ -60971,8 +60971,8 @@ Herzogin, außerordentlicher Gesandter (Envoye) am kaiserlichen Hof (...), Freih
                      <persName>
                         <forename>Moises</forename>
                         <surname>Ries</surname>
-                        <surname type="alt">Ris</surname>
                         <surname type="alt">Riß</surname>
+                        <surname type="alt">Ris</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__5620">
@@ -63030,8 +63030,8 @@ David Kaufmann, &amp;#34;Wertheimer, Samson&amp;#34; in: Allgemeine Deutsche Bio
                 <person xml:id="wkfm__7956">
                      <persName>
                         <forename>Pimimg</forename>
-                        <forename type="alt">Bininin</forename>
                         <forename type="alt">Pernim</forename>
+                        <forename type="alt">Bininin</forename>
                         <surname>None</surname>
                      </persName>
                </person>
@@ -63336,8 +63336,8 @@ David Kaufmann, &amp;#34;Wertheimer, Samson&amp;#34; in: Allgemeine Deutsche Bio
                 <person xml:id="wkfm__8146">
                      <persName>
                         <forename>Leb</forename>
-                        <forename type="alt">Jehuda Efraim</forename>
                         <forename type="alt">Löb b. Chajjim ha-Levi</forename>
+                        <forename type="alt">Jehuda Efraim</forename>
                         <surname>Sinzheim</surname>
                         <surname type="alt">Sünzheimb</surname>
                      </persName>
@@ -63598,9 +63598,9 @@ David Kaufmann, &amp;#34;Wertheimer, Samson&amp;#34; in: Allgemeine Deutsche Bio
                      <persName>
                         <forename>Abraham</forename>
                         <surname>Ulmo</surname>
-                        <surname type="alt">Ulm</surname>
-                        <surname type="alt">Ulmer</surname>
                         <surname type="alt">Ulman</surname>
+                        <surname type="alt">Ulmer</surname>
+                        <surname type="alt">Ulm</surname>
                      </persName>
                      <death><date>05.04.1740</date></death>
                      <occupation>Handelsmann</occupation>
@@ -63857,8 +63857,8 @@ David Kaufmann, &amp;#34;Wertheimer, Samson&amp;#34; in: Allgemeine Deutsche Bio
                      <persName>
                         <forename>Wolf</forename>
                         <surname>Pauernfeind</surname>
-                        <surname type="alt">Baurnfeindt</surname>
                         <surname type="alt">Paurnfeindt</surname>
+                        <surname type="alt">Baurnfeindt</surname>
                         <surname type="alt">Baurnfeind</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
@@ -63926,10 +63926,10 @@ David Kaufmann, &amp;#34;Wertheimer, Samson&amp;#34; in: Allgemeine Deutsche Bio
                      <persName>
                         <forename>Zacharias</forename>
                         <surname>Kriner</surname>
+                        <surname type="alt">Kriener</surname>
+                        <surname type="alt">Krener</surname>
                         <surname type="alt">Krinner</surname>
                         <surname type="alt">Khriener</surname>
-                        <surname type="alt">Krener</surname>
-                        <surname type="alt">Kriener</surname>
                      </persName>
                      <death><date>1697</date></death>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
@@ -64288,8 +64288,8 @@ Gottesacker, 244; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Ha
                      <persName>
                         <forename>Johann Wilhelm</forename>
                         <surname>Gestefeld</surname>
-                        <surname type="alt">Gerstenfeld</surname>
                         <surname type="alt">Gestenfeld</surname>
+                        <surname type="alt">Gerstenfeld</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
@@ -64885,9 +64885,9 @@ Historischen Vereines für Steiermark 19 (1924) 126–139, bes. 137; Roth, Gesch
                      <persName>
                         <forename>Georg</forename>
                         <surname>Dehner</surname>
-                        <surname type="alt">Dehner</surname>
-                        <surname type="alt">Deinner</surname>
                         <surname type="alt">Dember</surname>
+                        <surname type="alt">Deinner</surname>
+                        <surname type="alt">Dehner</surname>
                      </persName>
                      <occupation>Kürschner</occupation>
                </person>
@@ -65575,8 +65575,8 @@ Bürgerbuch, [393], 103 &amp;lt;span&amp;gt;(Bürgeraufnahme 1681)&amp;lt;/span&
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Beham</surname>
-                        <surname type="alt">Böheimb</surname>
                         <surname type="alt">Pehamb</surname>
+                        <surname type="alt">Böheimb</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
@@ -66394,8 +66394,8 @@ Inventaris van het familie-archief Brants, 111; &amp;lt;span&amp;gt;Huchler, Bü
                      <persName>
                         <forename>Georg</forename>
                         <surname>Prunner</surname>
-                        <surname type="alt">von Brunner</surname>
                         <surname type="alt">von Prunner</surname>
+                        <surname type="alt">von Brunner</surname>
                      </persName>
                      <occupation>Handelsmann, Wechsler</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
@@ -66450,8 +66450,8 @@ Inventaris van het familie-archief Brants, 111; &amp;lt;span&amp;gt;Huchler, Bü
                 <person xml:id="wkfm__8439" sameAs="#wkfm__15984 wkfm__29926 ">
                      <persName>
                         <forename>Lorenz</forename>
-                        <forename type="alt">Laurenz</forename>
                         <forename type="alt">Laurent</forename>
+                        <forename type="alt">Laurenz</forename>
                         <surname>Stass</surname>
                         <surname type="alt">Stäß</surname>
                      </persName>
@@ -66490,9 +66490,9 @@ Inventaris van het familie-archief Brants, 111; &amp;lt;span&amp;gt;Huchler, Bü
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Lindner</surname>
+                        <surname type="alt">Lintner</surname>
                         <surname type="alt">Linttner</surname>
                         <surname type="alt">Lindtner</surname>
-                        <surname type="alt">Lintner</surname>
                      </persName>
                      <death><date>1765?</date></death>
                      <occupation>Handelsmann</occupation>
@@ -66629,8 +66629,8 @@ Inventaris van het familie-archief Brants, 111; &amp;lt;span&amp;gt;Huchler, Bü
                      <persName>
                         <forename>Paul</forename>
                         <surname>Guggenberger</surname>
-                        <surname type="alt">Guckenberger</surname>
                         <surname type="alt">Gugenberger</surname>
+                        <surname type="alt">Guckenberger</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
@@ -66655,8 +66655,8 @@ Inventaris van het familie-archief Brants, 111; &amp;lt;span&amp;gt;Huchler, Bü
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Dußl</surname>
-                        <surname type="alt">Dußell</surname>
                         <surname type="alt">Dussel</surname>
+                        <surname type="alt">Dußell</surname>
                      </persName>
                      <occupation>Handelsmann, Gewürzhändler</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
@@ -66731,9 +66731,9 @@ Schaumburgerhof und dem Freigrunde Hungerbrunn (Wien 1863) 365; &amp;lt;span&amp
                      <persName>
                         <forename>Johann Peter</forename>
                         <surname>Käpler</surname>
+                        <surname type="alt">Käppler</surname>
                         <surname type="alt">Kapler</surname>
                         <surname type="alt">Kepler</surname>
-                        <surname type="alt">Käppler</surname>
                      </persName>
                      <death><date>1768</date></death>
                      <occupation>Handelsmann</occupation>
@@ -67417,8 +67417,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Johann Baptist</forename>
                         <surname>Schwanesini</surname>
-                        <surname type="alt">Schwanasini</surname>
                         <surname type="alt">Schwannasini</surname>
+                        <surname type="alt">Schwanasini</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
@@ -68103,8 +68103,8 @@ Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013)
                      <persName>
                         <forename>Andreas</forename>
                         <surname>Neumaister</surname>
-                        <surname type="alt">Neumeister</surname>
                         <surname type="alt">Neymayster</surname>
+                        <surname type="alt">Neumeister</surname>
                         <surname type="alt">Neymaister</surname>
                      </persName>
                      <death><date>1766</date></death>
@@ -68118,8 +68118,8 @@ Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013)
                      <persName>
                         <forename>Michael</forename>
                         <surname>Fieglmillner</surname>
-                        <surname type="alt">Figlmiller</surname>
                         <surname type="alt">Fieglmielner</surname>
+                        <surname type="alt">Figlmiller</surname>
                      </persName>
                      <occupation>Prokurist des Johann Michael Peck/Pöck, Handelsmann</occupation>
                </person>
@@ -68495,8 +68495,8 @@ deutschen und französischen Stichvorlagen (Diss. Salzburg 1984). &amp;lt;/span&
                      <persName>
                         <forename>Lorenz</forename>
                         <surname>Kreitter</surname>
-                        <surname type="alt">Kreidter</surname>
                         <surname type="alt">Kreiter</surname>
+                        <surname type="alt">Kreidter</surname>
                      </persName>
                      <death><date>1727</date></death>
                      <occupation>Handelsmann</occupation>
@@ -68610,8 +68610,8 @@ deutschen und französischen Stichvorlagen (Diss. Salzburg 1984). &amp;lt;/span&
                 <person xml:id="wkfm__17087">
                      <persName>
                         <forename>Kaspar</forename>
-                        <forename type="alt">Gasparo</forename>
                         <forename type="alt">Kaspar Melichor Balthasar</forename>
+                        <forename type="alt">Gasparo</forename>
                         <surname>Consoni</surname>
                      </persName>
                      <occupation>Prokurist bei Angelo Maria Consoni, Handelsmann</occupation>
@@ -69205,9 +69205,9 @@ deutschen und französischen Stichvorlagen (Diss. Salzburg 1984). &amp;lt;/span&
                         <forename>Wenzel Franz</forename>
                         <surname>von Gotteschnig</surname>
                         <surname type="alt">Gotesching</surname>
-                        <surname type="alt">von Gotsching</surname>
                         <surname type="alt">Goteschnig</surname>
                         <surname type="alt">von Gotesching</surname>
+                        <surname type="alt">von Gotsching</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
@@ -69410,8 +69410,8 @@ deutschen und französischen Stichvorlagen (Diss. Salzburg 1984). &amp;lt;/span&
                      <persName>
                         <forename>Franz Wilhelm</forename>
                         <surname>Häsl</surname>
-                        <surname type="alt">Häßl</surname>
                         <surname type="alt">Haasl</surname>
+                        <surname type="alt">Häßl</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
@@ -69432,8 +69432,8 @@ deutschen und französischen Stichvorlagen (Diss. Salzburg 1984). &amp;lt;/span&
                      <persName>
                         <forename>Wolf Karl</forename>
                         <surname>von Nideröst</surname>
-                        <surname type="alt">Nedorost</surname>
                         <surname type="alt">von Nedorost</surname>
+                        <surname type="alt">Nedorost</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
@@ -69614,8 +69614,8 @@ deutschen und französischen Stichvorlagen (Diss. Salzburg 1984). &amp;lt;/span&
                 <person xml:id="wkfm__24831">
                      <persName>
                         <forename>Johann Wolf</forename>
-                        <forename type="alt">Johann Wolfgang</forename>
                         <forename type="alt">Wolfgang</forename>
+                        <forename type="alt">Johann Wolfgang</forename>
                         <surname>Heimerl</surname>
                         <surname type="alt">Haymerl</surname>
                      </persName>
@@ -69631,8 +69631,8 @@ deutschen und französischen Stichvorlagen (Diss. Salzburg 1984). &amp;lt;/span&
                      <persName>
                         <forename>Stephan</forename>
                         <surname>Manni</surname>
-                        <surname type="alt">Mannj</surname>
                         <surname type="alt">Mani</surname>
+                        <surname type="alt">Mannj</surname>
                         <surname type="alt">Manny</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
@@ -69777,8 +69777,8 @@ deutschen und französischen Stichvorlagen (Diss. Salzburg 1984). &amp;lt;/span&
                      <persName>
                         <forename>Johann Gregor</forename>
                         <surname>Grindler</surname>
-                        <surname type="alt">Grindtler</surname>
                         <surname type="alt">Gründler</surname>
+                        <surname type="alt">Grindtler</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
@@ -69792,8 +69792,8 @@ deutschen und französischen Stichvorlagen (Diss. Salzburg 1984). &amp;lt;/span&
                         <surname>Wurmseher</surname>
                         <surname type="alt">Wurmseger</surname>
                         <surname type="alt">Wurmbsecher</surname>
-                        <surname type="alt">Wurmscher</surname>
                         <surname type="alt">Wurmbsegger</surname>
+                        <surname type="alt">Wurmscher</surname>
                      </persName>
                      <death><date>1749/50</date></death>
                      <occupation>Handelsmann</occupation>
@@ -69913,8 +69913,8 @@ deutschen und französischen Stichvorlagen (Diss. Salzburg 1984). &amp;lt;/span&
                      <persName>
                         <forename>Franz Anton</forename>
                         <surname>Ipiditsch</surname>
-                        <surname type="alt">Ipdisch</surname>
                         <surname type="alt">Ipditsch</surname>
+                        <surname type="alt">Ipdisch</surname>
                      </persName>
                      <occupation>Tuchhändler</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
@@ -70087,8 +70087,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Franz Anton</forename>
                         <surname>Gräsl</surname>
-                        <surname type="alt">Grässl</surname>
                         <surname type="alt">Graßl</surname>
+                        <surname type="alt">Grässl</surname>
                      </persName>
                      <death><date>1778</date></death>
                      <occupation>Handelsmann, Spitzenhändler</occupation>
@@ -70364,8 +70364,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Kutzilinger</surname>
-                        <surname type="alt">Kutzillinger</surname>
                         <surname type="alt">Kuttinger</surname>
+                        <surname type="alt">Kutzillinger</surname>
                         <surname type="alt">Kutzlinger</surname>
                      </persName>
                      <death><date>1742</date></death>
@@ -70385,9 +70385,9 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Georg Christoph</forename>
                         <surname>Sindt</surname>
+                        <surname type="alt">Sint</surname>
                         <surname type="alt">Sündt</surname>
                         <surname type="alt">Sind</surname>
-                        <surname type="alt">Sint</surname>
                      </persName>
                      <death><date>10.02.1704</date></death>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
@@ -71493,8 +71493,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Christian Johann</forename>
                         <surname>Burgholzer</surname>
-                        <surname type="alt">Purkholzer</surname>
                         <surname type="alt">Purckholzer</surname>
+                        <surname type="alt">Purkholzer</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
@@ -72011,8 +72011,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Franz Wilhelm</forename>
                         <surname>Kunerth</surname>
-                        <surname type="alt">Kunath</surname>
                         <surname type="alt">Kunert</surname>
+                        <surname type="alt">Kunath</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
@@ -72190,8 +72190,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Gregor</forename>
                         <surname>Creitzmayr</surname>
-                        <surname type="alt">Creitzmayer</surname>
                         <surname type="alt">Kreutzmayr</surname>
+                        <surname type="alt">Creitzmayer</surname>
                      </persName>
                      <death><date>1746</date></death>
                      <occupation>Handelsmann</occupation>
@@ -72359,8 +72359,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Franz Joseph</forename>
                         <surname>Kannigießer</surname>
-                        <surname type="alt">Kanniggiesser</surname>
                         <surname type="alt">Kannegiesser</surname>
+                        <surname type="alt">Kanniggiesser</surname>
                         <surname type="alt">Kanngießer</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
@@ -72485,9 +72485,9 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Duvillard</surname>
-                        <surname type="alt">Duwilard</surname>
                         <surname type="alt">Duvullard</surname>
                         <surname type="alt">Dovillar</surname>
+                        <surname type="alt">Duwilard</surname>
                      </persName>
                      <death><date>1739/40</date></death>
                      <occupation>Handelsmann</occupation>
@@ -72500,8 +72500,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Franz Karl</forename>
                         <surname>Deck</surname>
-                        <surname type="alt">Deckh</surname>
                         <surname type="alt">Dick</surname>
+                        <surname type="alt">Deckh</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
@@ -72510,8 +72510,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Johann Karl</forename>
                         <surname>Della Roverre</surname>
-                        <surname type="alt">Della Rovere</surname>
                         <surname type="alt">Dela Rofere</surname>
+                        <surname type="alt">Della Rovere</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
@@ -72530,8 +72530,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Johann Bernhard</forename>
                         <surname>Diewald</surname>
-                        <surname type="alt">Diwalt</surname>
                         <surname type="alt">Dywaldt</surname>
+                        <surname type="alt">Diwalt</surname>
                      </persName>
                      <death><date>1776</date></death>
                      <occupation>Handelsmann</occupation>
@@ -72707,8 +72707,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Joseph Leopold</forename>
                         <surname>Diewald</surname>
-                        <surname type="alt">Diwalt</surname>
                         <surname type="alt">Diewalt</surname>
+                        <surname type="alt">Diwalt</surname>
                      </persName>
                      <death><date>1773</date></death>
                      <occupation>Handelsmann</occupation>
@@ -72872,8 +72872,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Johann</forename>
                         <surname>Gunrisch</surname>
-                        <surname type="alt">Günrisch</surname>
                         <surname type="alt">Gürisch</surname>
+                        <surname type="alt">Günrisch</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
@@ -73004,8 +73004,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Maria Franziska</forename>
                         <surname>Ipiditschin</surname>
-                        <surname type="alt">Gapieller</surname>
                         <surname type="alt">Wolfmayrin</surname>
+                        <surname type="alt">Gapieller</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__46382">
@@ -73225,8 +73225,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Simon</forename>
                         <surname>Häsl</surname>
-                        <surname type="alt">Hääsl</surname>
                         <surname type="alt">Haßl</surname>
+                        <surname type="alt">Hääsl</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
@@ -73420,8 +73420,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Johann</forename>
                         <surname>Beham</surname>
-                        <surname type="alt">Pehamb</surname>
                         <surname type="alt">Pöhamb</surname>
+                        <surname type="alt">Pehamb</surname>
                      </persName>
                      <death><date>1779?</date></death>
                      <occupation>Handelsmann</occupation>
@@ -73439,8 +73439,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Franz</forename>
                         <surname>Hackl</surname>
-                        <surname type="alt">Hakel</surname>
                         <surname type="alt">Hackell</surname>
+                        <surname type="alt">Hakel</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
@@ -74105,8 +74105,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Dominicus</forename>
                         <surname>a Marcha</surname>
-                        <surname type="alt">Marcha</surname>
                         <surname type="alt">à Marcha</surname>
+                        <surname type="alt">Marcha</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
@@ -74217,9 +74217,9 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Müllner</surname>
-                        <surname type="alt">Müller</surname>
                         <surname type="alt">Millner</surname>
                         <surname type="alt">Mülner</surname>
+                        <surname type="alt">Müller</surname>
                      </persName>
                      <death><date>1779?</date></death>
                      <occupation>Handelsmann</occupation>
@@ -74623,8 +74623,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Eva Barbara</forename>
                         <surname>Peisserin</surname>
-                        <surname type="alt">Schuller</surname>
                         <surname type="alt">Puthon</surname>
+                        <surname type="alt">Schuller</surname>
                         <surname type="alt">Peisser von Wertenau</surname>
                      </persName>
                      <birth><date>26.10.1723</date></birth>
@@ -74749,8 +74749,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Johann Peter</forename>
                         <surname>Fläschitz</surname>
-                        <surname type="alt">Flaschitz</surname>
                         <surname type="alt">Flatschitz</surname>
+                        <surname type="alt">Flaschitz</surname>
                      </persName>
                      <death><date>1766</date></death>
                      <occupation>Handelsmann</occupation>
@@ -74820,8 +74820,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Matthias Karl</forename>
                         <surname>Ficker</surname>
-                        <surname type="alt">Fücker</surname>
                         <surname type="alt">Fikher</surname>
+                        <surname type="alt">Fücker</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
@@ -75169,8 +75169,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Johann Gottlieb</forename>
                         <surname>Schönthann</surname>
-                        <surname type="alt">Schenthan</surname>
                         <surname type="alt">Schönthan von Pernwaldt</surname>
+                        <surname type="alt">Schenthan</surname>
                      </persName>
                      <death><date>1772</date></death>
                      <occupation>Handelsmann</occupation>
@@ -75212,8 +75212,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Franz Peter</forename>
                         <surname>Siechheit</surname>
-                        <surname type="alt">Sichnitt</surname>
                         <surname type="alt">Siecheit</surname>
+                        <surname type="alt">Sichnitt</surname>
                      </persName>
                      <death><date>1764</date></death>
                      <occupation>Handelsmann</occupation>
@@ -75867,10 +75867,10 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Wilhelm</forename>
                         <surname>Blommart</surname>
-                        <surname type="alt">Plumardt</surname>
-                        <surname type="alt">Blomardt</surname>
-                        <surname type="alt">Blomart</surname>
                         <surname type="alt">Plumart</surname>
+                        <surname type="alt">Plumardt</surname>
+                        <surname type="alt">Blomart</surname>
+                        <surname type="alt">Blomardt</surname>
                      </persName>
                      <birth><date>1623</date></birth>
                      <death><date>1686</date></death>
@@ -75884,8 +75884,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Jakob</forename>
                         <surname>Blommart</surname>
-                        <surname type="alt">Blomardt</surname>
                         <surname type="alt">Blomart</surname>
+                        <surname type="alt">Blomardt</surname>
                      </persName>
                      <birth><date>1618</date></birth>
                      <death><date>1697</date></death>
