@@ -21,5 +21,8 @@ docker run \
   mariadb:latest
 
 sleep 60
+docker container ps
+sleep 60
+docker container ps -a
 
 docker container start ${DB_NAME}
