@@ -9,6 +9,13 @@ jobs:
   download:
     name: dump baserow
     runs-on: ubuntu-latest
+    env:
+        DB_USER: root
+        DB_PW: donauhandel
+        DB_NAME: donauhandj87mysql11
+        DB_HOST: 0.0.0.0
+        DB_PORT: 3307
+
     steps:
       - name: Perfom Checkout
         uses: actions/checkout@v4
