@@ -35,6 +35,16 @@ doppelt = {}
 for g, ndf in df.groupby("personenId1"):
     doppelt[g] = list(ndf["personenId2"].values)
 
+df = pd.read_csv(f"{ORIG_DATA_CSVS}/personen_firmenbeteiligungen.csv").convert_dtypes()
+affilliation = {}
+for g, ndf in df.groupby("personenId1"):
+    affilliation[g] = list(ndf["personenId2"].values)
+
+df = pd.read_csv(f"{ORIG_DATA_CSVS}/personen_geschaeftsadresse.csv").convert_dtypes()
+adress = {}
+for g, ndf in df.groupby("personenId"):
+    adress[g] = list(ndf["geschaeftsadresse"].values)
+
 df = pd.read_csv(f"{ORIG_DATA_CSVS}/personen_ehepartner.csv").convert_dtypes()
 ehe = {}
 for g, ndf in df.groupby("personenId1"):
@@ -130,6 +140,16 @@ for i, row in tqdm(final_df.iterrows(), total=len(final_df)):
     except:
         lit = []
     item_dict["aemter"] = lit
+    try:
+        lit = affilliation[item_id]
+    except:
+        lit = []
+    item_dict["affilliation"] = lit
+    try:
+        lit = adress[item_id]
+    except:
+        lit = []
+    item_dict["adress"] = lit
     try:
         lit = kaufmannsklasse[item_id]
     except:
