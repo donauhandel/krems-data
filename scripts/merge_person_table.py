@@ -84,17 +84,13 @@ df1 = pd.read_csv(f"{ORIG_DATA_CSVS}/orte.csv").convert_dtypes()
 df = df.merge(df1, how="outer", left_on="ortsId", right_on="ortsId")
 orte = {}
 for g, ndf in tqdm(df.groupby("personenId")):
-    orte[g] = {}
+    orte[g] = []
     for i, row in ndf.iterrows():
-        try:
-            rel_type = slugify(row["art"])
-        except TypeError:
-            continue
         item = {}
         item["art"] = row["art"]
         item["orts_id"] = row["ortsId"]
         item["orts_name"] = row["ortsname"]
-        orte[g][rel_type] = item
+        orte[g].append(item)
 
 df = pd.read_csv(f"{ORIG_DATA_CSVS}/personen_verwandtschaft.csv").convert_dtypes()
 df1 = pd.read_csv(f"{ORIG_DATA_CSVS}/verwandtschaftsverhaeltnisse.csv").convert_dtypes()
@@ -117,6 +113,7 @@ for g, ndf in tqdm(person_person_final.groupby("personenId1")):
         verwandtschaft[g][rel_type] = item
 
 # df = pd.read_csv(f"{ORIG_DATA_CSVS}/persons_merged.csv").convert_dtypes()
+print("converting dataframe into dict")
 items = {}
 for i, row in tqdm(final_df.iterrows(), total=len(final_df)):
     item_id = row["personenId"]
