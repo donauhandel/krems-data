@@ -36,9 +36,9 @@ for g, ndf in df.groupby("personenId1"):
     doppelt[g] = list(ndf["personenId2"].values)
 
 df = pd.read_csv(f"{ORIG_DATA_CSVS}/personen_firmenbeteiligungen.csv").convert_dtypes()
-affilliation = {}
+affiliation = {}
 for g, ndf in df.groupby("personenId1"):
-    affilliation[g] = list(ndf["personenId2"].values)
+    affiliation[g] = list(ndf["personenId2"].values)
 
 df = pd.read_csv(f"{ORIG_DATA_CSVS}/personen_geschaeftsadresse.csv").convert_dtypes()
 adress = {}
@@ -87,7 +87,10 @@ for g, ndf in tqdm(df.groupby("personenId")):
     orte[g] = []
     for i, row in ndf.iterrows():
         item = {}
-        item["art"] = row["art"]
+        try:
+            item["art"] = row["art"].replace(" ", "-")
+        except AttributeError:
+            item["art"] = "unklar"
         item["orts_id"] = row["ortsId"]
         item["orts_name"] = row["ortsname"]
         orte[g].append(item)
@@ -138,10 +141,10 @@ for i, row in tqdm(final_df.iterrows(), total=len(final_df)):
         lit = []
     item_dict["aemter"] = lit
     try:
-        lit = affilliation[item_id]
+        lit = affiliation[item_id]
     except:
         lit = []
-    item_dict["affilliation"] = lit
+    item_dict["affiliation"] = lit
     try:
         lit = adress[item_id]
     except:

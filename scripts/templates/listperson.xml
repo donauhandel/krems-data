@@ -74,16 +74,16 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                         <surname type="alt">{{ y|e }}</surname>{% endfor %}{% endif %}
                      </persName>{% if x.geboren %}
                      <birth><date>{{ x.geboren }}</date></birth>{% endif %}{% if x.gestorben %}
-                     <death><date>{{ x.gestorben }}</date></death>{% endif %}{% if x.beruf %}{% for y in x.adress %}                     
+                     <death><date>{{ x.gestorben }}</date></death>{% endif %}{% if x.beruf %}{% for y in x.adress %}{% for y in x.affiliation %}
+                     <affiliation>
+                        <orgName key="{{ y }}">{{ y }}</orgName>
+                     </affiliation>{% endfor %}                    
                      <residence type="Geschäftsadresse">
                         <placeName>{{ y }}</placeName>
                      </residence>{% endfor %}{% for y in x.orte %}
                      <residence type="{{ y.art }}">
-                        <placeName key="wkfm-place__{{ y.orts_id }}">{{ y.orts_name }}</orgName>
-                     </affilliation>{% endfor %}{% for y in x.affilliation %}
-                     <affilliation>
-                        <orgName key="{{ y }}">{{ y }}</orgName>
-                     </affilliation>{% endfor %}
+                        <placeName key="wkfm-place__{{ y.orts_id }}">{{ y.orts_name }}</placeName>
+                     </residence>{% endfor %}
                      <occupation>{{ x.beruf }}</occupation>{% endif %}{% if x.kaufmannsklasse|e %}{% for y in x.kaufmannsklasse %}
                      <occupation type="kaufmannsklasse">{{ y|e }}</occupation>{% endfor %}{% endif %}{% if x.aemter %}{% for y in x.aemter %}
                      <occupation type="aemter">{{ y|e }}</occupation>{% endfor %}{% endif %}{% if x.literatur %}
