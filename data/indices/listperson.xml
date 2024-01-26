@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
    <teiHeader>
       <fileDesc>
         <titleStmt>
@@ -7341,7 +7339,7 @@ David Kaufmann, &amp;#34;Wertheimer, Samson&amp;#34; in: Allgemeine Deutsche Bio
                      <birth><date>1665?</date></birth>
                      <death><date>1729</date></death>
                      <affiliation>
-                        <orgName key="47213">47213</orgName>
+                        <orgName key="#wkfm__47213">Anton Cleas</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Beim Totenkopf in der Bognergasse (Calender 1723)</placeName>
@@ -7519,7 +7517,7 @@ David Kaufmann, &amp;#34;Wertheimer, Samson&amp;#34; in: Allgemeine Deutsche Bio
                      </persName>
                      <death><date>1755/57, 1765 ?</date></death>
                      <affiliation>
-                        <orgName key="47073">47073</orgName>
+                        <orgName key="#wkfm__47073">Joseph Förschl</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Schwarzen Hund unter dem gewesten Päller-Tor (Calender 1758), Zum Schwarzen Hund unter dem Päller-Tor (Calender 1723)</placeName>
@@ -7577,7 +7575,7 @@ David Kaufmann, &amp;#34;Wertheimer, Samson&amp;#34; in: Allgemeine Deutsche Bio
                         <surname type="alt">Fuchs</surname>
                      </persName>
                      <affiliation>
-                        <orgName key="47074">47074</orgName>
+                        <orgName key="#wkfm__47074">Joseph Karl Fuchs</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Blauen Einhorn auf dem Hohen Markt (Calender 1723)</placeName>
@@ -7908,13 +7906,13 @@ David Kaufmann, &amp;#34;Wertheimer, Samson&amp;#34; in: Allgemeine Deutsche Bio
                      <birth><date>1674/75</date></birth>
                      <death><date>27.05.1736</date></death>
                      <affiliation>
-                        <orgName key="44587">44587</orgName>
+                        <orgName key="#wkfm__44587">Joachim Negri &amp; Co., Gioacchino Negri &amp; Co.</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zur Weißen Rose auf dem Graben (Calender 1723)</placeName>
                      </residence>
                      <affiliation>
-                        <orgName key="44587">44587</orgName>
+                        <orgName key="#wkfm__44587">Joachim Negri &amp; Co., Gioacchino Negri &amp; Co.</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Seilergasse 3 (alt: Nr. 1083A)</placeName>
@@ -7988,7 +7986,7 @@ David Kaufmann, &amp;#34;Wertheimer, Samson&amp;#34; in: Allgemeine Deutsche Bio
                      </persName>
                      <death><date>08.02.1765</date></death>
                      <affiliation>
-                        <orgName key="13208">13208</orgName>
+                        <orgName key="#wkfm__13208">Peisser und Rigotti</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zur Goldenen Rose auf dem Peters-Friedhof im Eisgrübel (Calender 1758)</placeName>
@@ -8177,10 +8175,10 @@ David Kaufmann, &amp;#34;Wertheimer, Samson&amp;#34; in: Allgemeine Deutsche Bio
                      </persName>
                      <death><date>1769</date></death>
                      <affiliation>
-                        <orgName key="43229">43229</orgName>
+                        <orgName key="#wkfm__43229">Johann Georg Grones &amp; Co.</orgName>
                      </affiliation>
                      <affiliation>
-                        <orgName key="13208">13208</orgName>
+                        <orgName key="#wkfm__13208">Peisser und Rigotti</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Engel auf dem Graben (Calender 1758)</placeName>
@@ -8594,7 +8592,7 @@ Bürgerbuch, [393], 103 &amp;lt;span&amp;gt;(Bürgeraufnahme 1681)&amp;lt;/span&
                      </persName>
                      <death><date>1739</date></death>
                      <affiliation>
-                        <orgName key="46114">46114</orgName>
+                        <orgName key="#wkfm__46114">Claudius Cheret &amp; Co.</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Silbernen Kopf beim Paller-Tor (Calender 1723)</placeName>
@@ -8797,7 +8795,7 @@ Bürgerbuch, [393], 103 &amp;lt;span&amp;gt;(Bürgeraufnahme 1681)&amp;lt;/span&
                         <surname>Visconti</surname>
                      </persName>
                      <affiliation>
-                        <orgName key="46301">46301</orgName>
+                        <orgName key="#wkfm__46301">Franz Anton Geramb</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Prinz Eugen bei St. Stephan (Calender 1723)</placeName>
@@ -9839,7 +9837,7 @@ Inventaris van het familie-archief Brants, 111; &amp;lt;span&amp;gt;Huchler, Bü
                      </persName>
                      <death><date>1761</date></death>
                      <affiliation>
-                        <orgName key="47433">47433</orgName>
+                        <orgName key="#wkfm__47433">Laurent Stass</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Im Grundenischen Haus auf dem Kohlmarkt (Calender 1758), Zum Prinz von Portugal auf dem Kohlmarkt (Calender 1723)</placeName>
@@ -10115,7 +10113,7 @@ Inventaris van het familie-archief Brants, 111; &amp;lt;span&amp;gt;Huchler, Bü
                         <surname>Amadei</surname>
                      </persName>
                      <affiliation>
-                        <orgName key="30445">30445</orgName>
+                        <orgName key="#wkfm__30445">Herculiano Amadei &amp; Co.</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Grünen Fässel auf dem Kohlmarkt (Calender 1723)</placeName>
@@ -10519,7 +10517,7 @@ Schaumburgerhof und dem Freigrunde Hungerbrunn (Wien 1863) 365; &amp;lt;span&amp
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </residence>
                      <residence type="Geburtsort">
-                        <placeName key="wkfm-place__1850"></placeName>
+                        <placeName key="wkfm-place__1850"/>
                      </residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
@@ -10554,7 +10552,7 @@ Schaumburgerhof und dem Freigrunde Hungerbrunn (Wien 1863) 365; &amp;lt;span&amp
                      </persName>
                      <death><date>1730</date></death>
                      <affiliation>
-                        <orgName key="46209">46209</orgName>
+                        <orgName key="#wkfm__46209">Johann Jakob Damian</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Bei der Lampe nächst St. Stephan (Calender 1723)</placeName>
@@ -12255,7 +12253,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <surname type="alt">Härdl</surname>
                      </persName>
                      <affiliation>
-                        <orgName key="46346">46346</orgName>
+                        <orgName key="#wkfm__46346">Franz Joseph Grämbsreither</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Spiegel auf dem Graben (Calender 1723)</placeName>
@@ -12281,7 +12279,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <surname>Moser</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
-                        <placeName></placeName>
+                        <placeName/>
                      </residence>
                      <residence type="Bürgerrecht">
                         <placeName key="wkfm-place__925">Wien</placeName>
@@ -12370,7 +12368,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      </persName>
                      <death><date>1754</date></death>
                      <affiliation>
-                        <orgName key="46716">46716</orgName>
+                        <orgName key="#wkfm__46716">Hieronymus Rigotti</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zu den 3 Weißen Rosen in der Kärntnerstraße (Calender 1758)</placeName>
@@ -13070,7 +13068,7 @@ Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013)
                      </persName>
                      <death><date>1758</date></death>
                      <affiliation>
-                        <orgName key="20968">20968</orgName>
+                        <orgName key="#wkfm__20968">Niklas Saliet &amp; Co.</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Im Margarethenhof (Calender 1723)</placeName>
@@ -13337,7 +13335,7 @@ deutschen und französischen Stichvorlagen (Diss. Salzburg 1984). &amp;lt;/span&
                         <placeName key="wkfm-place__34">Aschach (an der Donau)</placeName>
                      </residence>
                      <occupation>Hutmacher</occupation>
-                     <occupation type="aemter"></occupation>
+                     <occupation type="aemter"/>
                </person>
                 <person xml:id="wkfm__14705">
                      <persName>
@@ -13478,7 +13476,7 @@ deutschen und französischen Stichvorlagen (Diss. Salzburg 1984). &amp;lt;/span&
                      </persName>
                      <death><date>1740</date></death>
                      <affiliation>
-                        <orgName key="17119">17119</orgName>
+                        <orgName key="#wkfm__17119">Gebrüder Orset</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Im Margarethenhof (Calender 1723)</placeName>
@@ -15163,10 +15161,10 @@ deutschen und französischen Stichvorlagen (Diss. Salzburg 1984). &amp;lt;/span&
                         <surname>Höcksteiner</surname>
                      </persName>
                      <affiliation>
-                        <orgName key="25274">25274</orgName>
+                        <orgName key="#wkfm__25274">Höcksteiner und Hink</orgName>
                      </affiliation>
                      <affiliation>
-                        <orgName key="46478">46478</orgName>
+                        <orgName key="#wkfm__46478">Karl Höcksteiner</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Indianer auf dem Kohlmarkt (Calender 1723)</placeName>
@@ -15746,10 +15744,10 @@ deutschen und französischen Stichvorlagen (Diss. Salzburg 1984). &amp;lt;/span&
                         <placeName key="wkfm-place__2545">Plan bei Marienbad</placeName>
                      </residence>
                      <residence type="Wohnort">
-                        <placeName key="wkfm-place__"></placeName>
+                        <placeName key="wkfm-place__"/>
                      </residence>
                      <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse"></occupation>
+                     <occupation type="kaufmannsklasse"/>
                      <listBibl>
                         <bibl>Otto G. Schindler, Johann Wolfgang Hamymerle von Hamythal, in: Alena Jakubcová, Matthias J. Pernerstorfer (Hg.), Theater in Böhmen, Mähren und Schlesien. Von den Anfängen bis zum Ausgang des 18. Jahrhunderts. Ein Lexikon (Theatergeschichte Österreich 10: Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013) 270-272; Sommer-Mathis, Hoftheater und Hofoper, 176.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
@@ -15969,7 +15967,7 @@ deutschen und französischen Stichvorlagen (Diss. Salzburg 1984). &amp;lt;/span&
                      </persName>
                      <death><date>1776</date></death>
                      <affiliation>
-                        <orgName key="43930">43930</orgName>
+                        <orgName key="#wkfm__43930">Franz Beda</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Goldenen Kreuz auf dem alten Bauernmarkt (Calender 1758).</placeName>
@@ -16331,7 +16329,7 @@ deutschen und französischen Stichvorlagen (Diss. Salzburg 1984). &amp;lt;/span&
                      </persName>
                      <death><date>1779</date></death>
                      <affiliation>
-                        <orgName key="37828">37828</orgName>
+                        <orgName key="#wkfm__37828">Egger und Babitsch</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Erzengel Michael in dem Michaeler-Haus nächst der kaiserlichen Burg (Calender 1758)</placeName>
@@ -17373,7 +17371,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      </persName>
                      <death><date>1762/63</date></death>
                      <affiliation>
-                        <orgName key="46231">46231</orgName>
+                        <orgName key="#wkfm__46231">Johann Georg Dietschi</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Weißen Kreuz nächst dem gewesten Päller-Tor (Calender 1758)</placeName>
@@ -17825,7 +17823,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      </persName>
                      <death><date>1766, 1774 ?</date></death>
                      <affiliation>
-                        <orgName key="47207">47207</orgName>
+                        <orgName key="#wkfm__47207">Anton Matthias Kircher</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Roten Igel unter den Tuchlauben (Calender 1758)</placeName>
@@ -18147,7 +18145,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      </persName>
                      <death><date>1769</date></death>
                      <affiliation>
-                        <orgName key="30445">30445</orgName>
+                        <orgName key="#wkfm__30445">Herculiano Amadei &amp; Co.</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Grünen Fässel auf dem Kohlmarkt (Calender 1758)</placeName>
@@ -18420,7 +18418,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <birth><date>1690</date></birth>
                      <death><date>10.10.1752</date></death>
                      <affiliation>
-                        <orgName key="17119">17119</orgName>
+                        <orgName key="#wkfm__17119">Gebrüder Orset</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Margarethenhof (Calender 1723)</placeName>
@@ -18474,7 +18472,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      </persName>
                      <death><date>1771</date></death>
                      <affiliation>
-                        <orgName key="43850">43850</orgName>
+                        <orgName key="#wkfm__43850">Johann Jakob Pauminger sel. Witwe und Anton Oberleithner</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zur Goldenen Meerjungfrau auf dem Kohlmarkt (Calender 1758)</placeName>
@@ -18608,7 +18606,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <surname>Ingruber</surname>
                      </persName>
                      <affiliation>
-                        <orgName key="43869">43869</orgName>
+                        <orgName key="#wkfm__43869">Jakob Ingruber &amp; Co.</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Englischen Maderl auf dem Graben (Calender 1723)</placeName>
@@ -18848,7 +18846,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      </persName>
                      <death><date>1761</date></death>
                      <affiliation>
-                        <orgName key="43885">43885</orgName>
+                        <orgName key="#wkfm__43885">Johann Franz Prager sel. Witwe und Kleinrath</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zur Weißen Taube auf dem Graben (Calender 1758)</placeName>
@@ -18930,7 +18928,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <surname type="alt">Kratzer</surname>
                      </persName>
                      <affiliation>
-                        <orgName key="20610">20610</orgName>
+                        <orgName key="#wkfm__20610">Peter und Krazer</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zur Roten Rose auf dem Stock im Eisen-Platz (Calender 1758)</placeName>
@@ -19342,7 +19340,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <surname>Hilleprand</surname>
                      </persName>
                      <affiliation>
-                        <orgName key="47374">47374</orgName>
+                        <orgName key="#wkfm__47374">Johann Pohamb</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zur Schönen Ungarin nächst dem gewesten Päller-Tor (Calender 1758)</placeName>
@@ -19752,7 +19750,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <surname>Barbieri</surname>
                      </persName>
                      <affiliation>
-                        <orgName key="44011">44011</orgName>
+                        <orgName key="#wkfm__44011">Karl Barbieri sel. Söhne und Erben, Barbieri sel. Söhne</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Silbernen Stern auf dem Hof (Calender 1758)</placeName>
@@ -19778,7 +19776,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <surname>Barbieri</surname>
                      </persName>
                      <affiliation>
-                        <orgName key="44011">44011</orgName>
+                        <orgName key="#wkfm__44011">Karl Barbieri sel. Söhne und Erben, Barbieri sel. Söhne</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Silbernen Stern auf dem Hof (Calender 1758)</placeName>
@@ -20025,7 +20023,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      </persName>
                      <death><date>1780?</date></death>
                      <affiliation>
-                        <orgName key="47207">47207</orgName>
+                        <orgName key="#wkfm__47207">Anton Matthias Kircher</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Roten Igel unter den Tuchlauben (Calender 1758)</placeName>
@@ -21244,7 +21242,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      </persName>
                      <death><date>1744</date></death>
                      <affiliation>
-                        <orgName key="46272">46272</orgName>
+                        <orgName key="#wkfm__46272">Gilbert Anton Deschamps</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Gelben Adler bei den Franziskanern (Calender 1723)</placeName>
@@ -21345,7 +21343,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <surname>Traunfellner</surname>
                      </persName>
                      <affiliation>
-                        <orgName key="46285">46285</orgName>
+                        <orgName key="#wkfm__46285">Johann Michael Traunfellner</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Bei der Heiligen Dreifaltigkeit auf dem Rennweg (Calender 1758)</placeName>
@@ -21578,7 +21576,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <surname>None</surname>
                      </persName>
                      <affiliation>
-                        <orgName key="46322">46322</orgName>
+                        <orgName key="#wkfm__46322">Johann Michael Glück</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zur Heiligen Dreifaltigkeit in der Rossau (Calender 1758)</placeName>
@@ -22303,7 +22301,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      </persName>
                      <death><date>1759</date></death>
                      <affiliation>
-                        <orgName key="46453">46453</orgName>
+                        <orgName key="#wkfm__46453">Joseph Höcksteiner sel. Witwe und Sohn</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Goldenen Fässel auf dem Peters-Friedhof (Calender 1758)</placeName>
@@ -22709,7 +22707,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <surname>Herzog</surname>
                      </persName>
                      <affiliation>
-                        <orgName key="46524">46524</orgName>
+                        <orgName key="#wkfm__46524">Paul Herzog</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Grünen Jäger nächst dem Steyrerhof (Calender 1758)</placeName>
@@ -22762,7 +22760,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      </persName>
                      <death><date>1779?</date></death>
                      <affiliation>
-                        <orgName key="42340">42340</orgName>
+                        <orgName key="#wkfm__42340">Beham und Hilleprand, Johann Beham und Martin Hilleprand</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Goldenen Brunnen auf dem Kohlmarkt (Calender 1758)</placeName>
@@ -23035,7 +23033,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </residence>
                      <residence type="Bürgerrecht">
-                        <placeName key="wkfm-place__"></placeName>
+                        <placeName key="wkfm-place__"/>
                      </residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
@@ -23112,7 +23110,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      </persName>
                      <death><date>1804</date></death>
                      <affiliation>
-                        <orgName key="46575">46575</orgName>
+                        <orgName key="#wkfm__46575">Norbert Härtl</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Spiegel auf dem Graben (Calender 1758)</placeName>
@@ -25769,7 +25767,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <surname>Eberhard</surname>
                      </persName>
                      <affiliation>
-                        <orgName key="21800">21800</orgName>
+                        <orgName key="#wkfm__21800">21800</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Roten Krebs nächst dem Schönen Brunnen (Calender 1723)</placeName>
@@ -26224,7 +26222,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      </persName>
                      <death><date>1772</date></death>
                      <affiliation>
-                        <orgName key="8105">8105</orgName>
+                        <orgName key="#wkfm__8105">Philipp Gundian sel. Erben</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Auf dem alten Bauernmarkt (Calender 1758)</placeName>
@@ -26917,7 +26915,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      </persName>
                      <death><date>1779</date></death>
                      <affiliation>
-                        <orgName key="47357">47357</orgName>
+                        <orgName key="#wkfm__47357">Anton Pillitschotti</orgName>
                      </affiliation>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Fischhof auf dem Hohen Markt (Calender 1758)</placeName>
@@ -33064,7 +33062,7 @@ Würtembergischen Landesbibliothek Stuttgart, Sonderreihe 3, Wiesbaden
                         <placeName key="wkfm-place__267">Hainburg</placeName>
                      </residence>
                      <occupation>Handelsmann</occupation>
-                     <occupation type="aemter"></occupation>
+                     <occupation type="aemter"/>
                </person>
                 <person xml:id="wkfm__691">
                      <persName>
@@ -77089,10 +77087,10 @@ und bürgerlichen Familien aus der vormaligen Reichsstadt Ulm (Ulm 1829)
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </residence>
                      <residence type="Herkunft-Aschach">
-                        <placeName key="wkfm-place__1831"></placeName>
+                        <placeName key="wkfm-place__1831"/>
                      </residence>
                      <residence type="Herkunft-Aschach">
-                        <placeName key="wkfm-place__1850"></placeName>
+                        <placeName key="wkfm-place__1850"/>
                      </residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
@@ -82882,7 +82880,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </residence>
                      <residence type="Wohnort">
-                        <placeName key="wkfm-place__2321"></placeName>
+                        <placeName key="wkfm-place__2321"/>
                      </residence>
                      <occupation>Angestellter und Prokurist des Lorenz Anton Premlechner</occupation>
                </person>
@@ -82895,10 +82893,10 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </residence>
                      <residence type="Wohnort">
-                        <placeName key="wkfm-place__2323"></placeName>
+                        <placeName key="wkfm-place__2323"/>
                      </residence>
                      <residence type="Geschäftsniederlassung">
-                        <placeName key="wkfm-place__2324"></placeName>
+                        <placeName key="wkfm-place__2324"/>
                      </residence>
                      <occupation>Wechselsensal, Prokurist bei Georg Prunner</occupation>
                </person>
@@ -83017,7 +83015,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <forename>Jakob</forename>
                         <surname>Violand</surname>
                      </persName>
-                     <occupation type="kaufmannsklasse"></occupation>
+                     <occupation type="kaufmannsklasse"/>
                </person>
                 <person xml:id="wkfm__43817">
                      <persName>
@@ -84042,7 +84040,7 @@ Herzogin, außerordentlicher Gesandter (Envoye) am kaiserlichen Hof (...), Freih
                      <persName>
                         <forename>Franz Karl</forename>
                         <surname>Consoni</surname>
-                        <surname type="alt"></surname>
+                        <surname type="alt"/>
                      </persName>
                      <residence type="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
@@ -84216,7 +84214,7 @@ Herzogin, außerordentlicher Gesandter (Envoye) am kaiserlichen Hof (...), Freih
                      <persName>
                         <forename>Thomas Franz</forename>
                         <surname>Höcker</surname>
-                        <surname type="alt"></surname>
+                        <surname type="alt"/>
                      </persName>
                </person>
                 <person xml:id="wkfm__46164">
@@ -84294,7 +84292,7 @@ Herzogin, außerordentlicher Gesandter (Envoye) am kaiserlichen Hof (...), Freih
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </residence>
                      <residence type="Geburtsort">
-                        <placeName key="wkfm-place__1391"></placeName>
+                        <placeName key="wkfm-place__1391"/>
                      </residence>
                      <occupation>Prokurist der Niederlage der Brünner Lehenbank in Wien</occupation>
                </person>
@@ -85560,7 +85558,7 @@ Herzogin, außerordentlicher Gesandter (Envoye) am kaiserlichen Hof (...), Freih
                         <surname>Veronesin</surname>
                         <surname type="alt">Lanser</surname>
                         <surname type="alt">Wagnerin</surname>
-                        <surname type="alt"></surname>
+                        <surname type="alt"/>
                      </persName>
                </person>
                 <person xml:id="wkfm__46837">

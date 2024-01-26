@@ -6,12 +6,13 @@ import jinja2
 import pandas as pd
 from acdh_tei_pyutils.tei import TeiReader
 from AcdhArcheAssets.uri_norm_rules import get_normalized_uri
+from config import LISTPLACE
 from config import ORIG_DATA_CSVS
 from utils import convert_coordinates
 
 os.makedirs("./data/indices", exist_ok=True)
 today = date.today()
-context = {"prefix": "wkfm__", "datum": f"{date.today()}"}
+context = {"prefix": "wkfm-place__", "datum": f"{date.today()}"}
 templateLoader = jinja2.FileSystemLoader(searchpath="./scripts/templates")
 templateEnv = jinja2.Environment(loader=templateLoader)
 template = templateEnv.get_template("listplace.xml")
@@ -64,11 +65,10 @@ for i, row in df.iterrows():
     except KeyError:
         item["literatur"] = []
     context["objects"].append(item)
-print(context["objects"][2])
 
-
-with open("./data/indices/listplace.xml", "w") as f:
+with open(LISTPLACE, "w") as f:
     f.write(template.render(**context).replace("&", "&amp;"))
 
+doc = TeiReader(LISTPLACE)
 
-doc = TeiReader("./data/indices/listperson.xml")
+print(f"saving {LISTPLACE}")

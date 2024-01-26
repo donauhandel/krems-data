@@ -76,7 +76,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <birth><date>{{ x.geboren }}</date></birth>{% endif %}{% if x.gestorben %}
                      <death><date>{{ x.gestorben }}</date></death>{% endif %}{% if x.beruf %}{% for y in x.adress %}{% for y in x.affiliation %}
                      <affiliation>
-                        <orgName key="{{ y }}">{{ y }}</orgName>
+                        <orgName key="#{{ prefix}}{{ y }}">{{ y }}</orgName>
                      </affiliation>{% endfor %}                    
                      <residence type="Geschäftsadresse">
                         <placeName>{{ y }}</placeName>

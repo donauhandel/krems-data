@@ -4,6 +4,7 @@ from datetime import date
 
 import jinja2
 from acdh_tei_pyutils.tei import TeiReader
+from config import LISTPERSON
 from config import ORIG_DATA_MERGED
 
 os.makedirs("./data/indices", exist_ok=True)
@@ -25,5 +26,8 @@ for key, value in data.items():
     else:
         continue
 
-with open("./data/indices/listperson.xml", "w") as f:
+with open(LISTPERSON, "w") as f:
     f.write(template.render(**context).replace("&", "&amp;"))
+
+doc = TeiReader(LISTPERSON)
+doc.tree_to_file(LISTPERSON)
