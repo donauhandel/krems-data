@@ -28,7 +28,10 @@ jobs:
       - name: merge the data
         run: python scripts/merge_person_table.py
       - name: convert to TEI/XML
-        run: python scripts/create_teis.py
+        run: |
+          python scripts/create_listperson.py
+          python scripts/create_listplace.py
+          python scripts/create_org.py
       - name: Commit data
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
