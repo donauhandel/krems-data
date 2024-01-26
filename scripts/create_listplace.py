@@ -8,6 +8,7 @@ from acdh_tei_pyutils.tei import TeiReader
 from AcdhArcheAssets.uri_norm_rules import get_normalized_uri
 from config import LISTPLACE
 from config import ORIG_DATA_CSVS
+from icecream import ic
 from utils import convert_coordinates
 
 os.makedirs("./data/indices", exist_ok=True)
@@ -19,10 +20,13 @@ template = templateEnv.get_template("listplace.xml")
 
 ORTE_CSV = os.path.join(ORIG_DATA_CSVS, "orte.csv")
 df = pd.read_csv(ORTE_CSV)
-df = df[df["aschachId"].notna()]
-df["aschachId"].astype("int")
+ic(len(df))
+ic(len(df))
+
 df["latitude"] = df.apply(lambda row: convert_coordinates(row["latitude"]), axis=1)
 df["longitude"] = df.apply(lambda row: convert_coordinates(row["longitude"]), axis=1)
+ic(len(df))
+
 
 normdata = pd.read_csv(os.path.join(ORIG_DATA_CSVS, "orte_verknuepfungen.csv"))
 norm_dict = {}

@@ -32,6 +32,7 @@ jobs:
           python scripts/create_listperson.py
           python scripts/create_listplace.py
           python scripts/create_listorg.py
+          python scripts/denormalize.py
       - name: Commit data
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
