@@ -1207,9 +1207,17 @@ Historisch mündete die Aschach bei Pupping-Brandstadt direkt in die Donau.</des
                   </place>
                 <place xml:id="wkfm__975">
                      <placeName>Zistersdorf</placeName>
+                     <location type="coords">48.5425 16.761111111111113</location>
+                     <desc type="verkehrsanbindung">Z. liegt am Zistersdorfer Bach -&amp;gt; Eichhorner Bach -&amp;gt; Zaya -&amp;gt; March -&amp;gt; Donau.</desc>
+                     <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4109039-1</idno>
+                     <idno type="URL" subtype="geonames">https://sws.geonames.org/2760510/</idno>
                   </place>
                 <place xml:id="wkfm__985">
-                     <placeName>Zwettl</placeName>
+                     <placeName>Zwettl (Niederösterreich)</placeName>
+                     <location type="coords">48.60722222222223 15.166944444444443</location>
+                     <desc type="verkehrsanbindung">Z. liegt am Kamp -&amp;gt; Donau.</desc>
+                     <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4068260-2</idno>
+                     <idno type="URL" subtype="geonames">https://sws.geonames.org/2760416/</idno>
                   </place>
                 <place xml:id="wkfm__1007">
                      <placeName>Raab</placeName>
@@ -1745,6 +1753,10 @@ Als Verkehransbindung in Richtung Tirol diente eine Fahrstraße, die vom Chiemse
                   </place>
                 <place xml:id="wkfm__1110">
                      <placeName>Neustadt an der Donau</placeName>
+                     <location type="coords">48.80694444444444 11.769444444444446</location>
+                     <desc type="verkehrsanbindung">N. liegt an der Donau.</desc>
+                     <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4041930-7</idno>
+                     <idno type="URL" subtype="geonames">https://sws.geonames.org/2864056/</idno>
                   </place>
                 <place xml:id="wkfm__1111">
                      <placeName>Sprinzenstein</placeName>
@@ -1917,6 +1929,9 @@ Die Loisach ist ab G. mit Flößen befahrbar. Siehe NEWEKLOWSKY, Schiffahrt, 565
                   </place>
                 <place xml:id="wkfm__1140">
                      <placeName>Zizlau</placeName>
+                     <location type="coords">48.27333333333333 14.349166666666667</location>
+                     <desc type="verkehrsanbindung">Z. liegt/lag im Mündungsspitz der Traun in die Donau.</desc>
+                     <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4776208-1</idno>
                   </place>
                 <place xml:id="wkfm__1141">
                      <placeName>Hohenfurch</placeName>
@@ -3976,7 +3991,11 @@ Historisch mündete die Aschach bei Pupping-Brandstadt direkt in die Donau.</des
                      <idno type="URL" subtype="geonames">https://sws.geonames.org/2958898/</idno>
                   </place>
                 <place xml:id="wkfm__1518">
-                     <placeName>Zellfing</placeName>
+                     <placeName>Zeholfing</placeName>
+                     <location type="coords">48.683611111111105 12.760833333333334</location>
+                     <desc type="verkehrsanbindung">Z. liegt an der Isar -&amp;gt; Donau.</desc>
+                     <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4495972-2</idno>
+                     <idno type="URL" subtype="geonames">https://sws.geonames.org/2805029/</idno>
                   </place>
                 <place xml:id="wkfm__1519">
                      <placeName>Lautrach</placeName>
@@ -4228,6 +4247,10 @@ Ursprünglich mündete die Aschach bei Brandstatt in die Donau. Seit dem Bau des
                   </place>
                 <place xml:id="wkfm__1566">
                      <placeName>Zöschingen</placeName>
+                     <location type="coords">48.67361111111111 10.325</location>
+                     <desc type="verkehrsanbindung">Z. liegt am Rostelbach -&amp;gt; Egau -&amp;gt; Donau.</desc>
+                     <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4119251-5</idno>
+                     <idno type="URL" subtype="geonames">https://sws.geonames.org/2803874/</idno>
                   </place>
                 <place xml:id="wkfm__1567">
                      <placeName>Ebenmühle</placeName>
@@ -4442,7 +4465,7 @@ Ursprünglich mündete die Aschach bei Brandstatt in die Donau. Seit dem Bau des
                      <idno type="URL" subtype="geonames">https://sws.geonames.org/2807489/</idno>
                   </place>
                 <place xml:id="wkfm__1610">
-                     <placeName>Zußdorf</placeName>
+                     <placeName>Zusdorf</placeName>
                   </place>
                 <place xml:id="wkfm__1611">
                      <placeName>St. Ulrich</placeName>
@@ -5355,7 +5378,7 @@ Die Loisach ist bereits ab Garmisch mit Flößen befahrbar. Siehe NEWEKLOWSKY, S
                 <place xml:id="wkfm__1805">
                      <placeName>Zwettl (an der Rodl)</placeName>
                      <location type="coords">48.465833333333336 14.270000000000001</location>
-                     <desc type="verkehrsanbindung">Z. liegt an der (Großen) Rodl.</desc>
+                     <desc type="verkehrsanbindung">Z. liegt an der (Großen) Rodl -&amp;gt; Donau.</desc>
                      <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4462241-7</idno>
                      <idno type="URL" subtype="geonames">https://sws.geonames.org/7873250/</idno>
                   </place>
@@ -5467,13 +5490,6 @@ N. verfügte auch über eine Verbindungsstraße zur Via Claudia von Verona nach 
                      <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4428057-9</idno>
                      <idno type="URL" subtype="geonames">https://sws.geonames.org/2770967/</idno>
                   </place>
-                <place xml:id="wkfm__1831">
-                     <placeName>Leiden</placeName>
-                     <location type="coords">52.15833333333333 4.493055555555555</location>
-                     <desc type="verkehrsanbindung">L. liegt am Rhein/Oude Rijn, knapp vor seiner Mündung in die Nordsee.</desc>
-                     <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4074118-7</idno>
-                     <idno type="URL" subtype="geonames">https://sws.geonames.org/2751773/</idno>
-                  </place>
                 <place xml:id="wkfm__1832">
                      <placeName>Sommerein</placeName>
                      <location type="coords">48.03 17.309722222222224</location>
@@ -5558,13 +5574,6 @@ M. lag im Böhmerwald, in Grenznähe zum oberen Mühlviertel bzw. zur Großen M�
                      <idno type="URL" subtype="gnd">https://d-nb.info/gnd/2125102-2</idno>
                      <idno type="URL" subtype="geonames">https://sws.geonames.org/2778047/</idno>
                   </place>
-                <place xml:id="wkfm__1850">
-                     <placeName>Lüttich</placeName>
-                     <location type="coords">50.63361111111111 5.5675</location>
-                     <desc type="verkehrsanbindung">L. liegt an der Maas.</desc>
-                     <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4074361-5</idno>
-                     <idno type="URL" subtype="geonames">https://sws.geonames.org/2792413/</idno>
-                  </place>
                 <place xml:id="wkfm__1851">
                      <placeName>Obernort</placeName>
                   </place>
@@ -5604,6 +5613,10 @@ M. lag im Böhmerwald, in Grenznähe zum oberen Mühlviertel bzw. zur Großen M�
                   </place>
                 <place xml:id="wkfm__1860">
                      <placeName>Zwiesel</placeName>
+                     <location type="coords">49.016666666666666 13.237499999999999</location>
+                     <desc type="verkehrsanbindung">Z. liegt am Zusammenfluss von Großem und Kleinem Regen -&amp;gt; Schwarzer Regen -&amp;gt; Regen -&amp;gt; Donau.</desc>
+                     <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4109097-4</idno>
+                     <idno type="URL" subtype="geonames">https://sws.geonames.org/2803537/</idno>
                   </place>
                 <place xml:id="wkfm__1861">
                      <placeName>Karlsruhe</placeName>
@@ -5643,6 +5656,10 @@ M. lag im Böhmerwald, in Grenznähe zum oberen Mühlviertel bzw. zur Großen M�
                   </place>
                 <place xml:id="wkfm__1868">
                      <placeName>Zinzendorf</placeName>
+                     <location type="coords">48.98277777777778 12.472222222222223</location>
+                     <desc type="verkehrsanbindung">Z. liegt knapp nördlich der Donau.</desc>
+                     <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1104501848</idno>
+                     <idno type="URL" subtype="geonames">https://sws.geonames.org/2804090/</idno>
                   </place>
                 <place xml:id="wkfm__1869">
                      <placeName>Pfaffenhausen</placeName>
@@ -6716,6 +6733,12 @@ C. liegt an der Kreuzung der beiden wichtigen Verbindungsstraßen über den Majo
                   </place>
                 <place xml:id="wkfm__2636">
                      <placeName>Winza</placeName>
+                  </place>
+                <place xml:id="wkfm__2638">
+                     <placeName>Neustadt (Bayern/Oberösterreich?)</placeName>
+                  </place>
+                <place xml:id="wkfm__2639">
+                     <placeName>Neustädtl</placeName>
                   </place>
             </listPlace>
         </div>
