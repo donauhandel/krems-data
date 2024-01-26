@@ -38,6 +38,16 @@ for g, ndf in normdata.groupby("ortsId"):
         except TypeError:
             continue
 
+lit = pd.read_csv(os.path.join(ORIG_DATA_CSVS, "orte_literatur.csv"))
+lit_dict = {}
+for g, ndf in lit.groupby("ortsId"):
+    lit_dict[g] = []
+    for i, row in ndf.iterrows():
+        try:
+            lit_dict[g].append(escape(row["literatur"].strip()))
+        except AttributeError:
+            continue
+
 context["objects"] = []
 for i, row in df.iterrows():
     item = row.to_dict()
@@ -49,6 +59,10 @@ for i, row in df.iterrows():
         item["normdata"] = norm_dict[row["ortsId"]]
     except KeyError:
         item["normdata"] = []
+    try:
+        item["literatur"] = lit_dict[row["ortsId"]]
+    except KeyError:
+        item["literatur"] = []
     context["objects"].append(item)
 print(context["objects"][2])
 

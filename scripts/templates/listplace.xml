@@ -70,7 +70,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <placeName>{{ x.ortsname }}</placeName>{% if x.latitude and x.longitude %}
                      <location type="coords">{{ x.latitude}} {{ x.longitude }}</location>{% endif %}{% if x.verkehrsanbindung %}
                      <desc type="verkehrsanbindung">{{ x.verkehrsanbindung }}</desc>{% endif %}{% for y in x.normdata %}
-                     <idno type="URL" subtype="{{ y.domain }}">{{ y.uri }}</idno>{% endfor %}
+                     <idno type="URL" subtype="{{ y.domain }}">{{ y.uri }}</idno>{% endfor %}{% if x.literatur %}
+                     <listBibl>{% for y in x.literatur %}
+                        <bibl>{{ y }}</bibl>{% endfor %}
+                     </listBibl>{% endif %}
                   </place>{% endfor %}
             </listPlace>
         </div>
