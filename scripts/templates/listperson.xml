@@ -82,7 +82,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                         <placeName>{{ y }}</placeName>
                      </residence>{% endfor %}{% for y in x.orte %}
                      <residence type="{{ y.art }}">
-                        <placeName key="wkfm-place__{{ y.orts_id }}">{{ y.orts_name }}</placeName>
+                        <placeName key="#wkfm-place__{{ y.orts_id }}">{{ y.orts_name }}</placeName>
                      </residence>{% endfor %}
                      <occupation>{{ x.beruf }}</occupation>{% endif %}{% if x.kaufmannsklasse|e %}{% for y in x.kaufmannsklasse %}
                      <occupation type="kaufmannsklasse">{{ y|e }}</occupation>{% endfor %}{% endif %}{% if x.aemter %}{% for y in x.aemter %}
