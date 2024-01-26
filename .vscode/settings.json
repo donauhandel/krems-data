@@ -1,3 +1,4 @@
 {
-    "python.formatting.provider": "black"
-}
+    "ruff.lint.args": ["--config=/home/csae8092/repos/donauhandel-projekt/krems-data/ruff.toml"],
+    "ruff.format.args": ["--config=/home/csae8092/repos/donauhandel-projekt/krems-data/ruff.toml"]
+  }

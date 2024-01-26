@@ -59,64 +59,13 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2024-01-24">template populated with script "create_listorg.py"</change>
+         <change who="pandorfer" when="2024-01-26">template populated with script "create_listorg.py"</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
         <div>
             <listOrg>
-                <org xml:id="wkfm__43820">
-                     <orgName>Lazarus Hirschl Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__47855">
-                     <orgName>Abraham und Salomon</orgName>
-                  </org>
-                <org xml:id="wkfm__47856">
-                     <orgName>Marx und Isak</orgName>
-                  </org>
-                <org xml:id="wkfm__47857">
-                     <orgName>Adam und Valentin</orgName>
-                  </org>
-                <org xml:id="wkfm__47861">
-                     <orgName>Lebl, Heinrich und Hirschl</orgName>
-                  </org>
-                <org xml:id="wkfm__47870">
-                     <orgName>Simon und Jakob</orgName>
-                  </org>
-                <org xml:id="wkfm__47948">
-                     <orgName>David Oberlender und Gespan</orgName>
-                  </org>
-                <org xml:id="wkfm__47973">
-                     <orgName>3 Juden</orgName>
-                  </org>
-                <org xml:id="wkfm__48008">
-                     <orgName>2 Juden</orgName>
-                  </org>
-                <org xml:id="wkfm__48009">
-                     <orgName>Nathan Moises und Gespan</orgName>
-                  </org>
-                <org xml:id="wkfm__48028">
-                     <orgName>Israel Zacharias und Koppl Fränkl</orgName>
-                  </org>
-                <org xml:id="wkfm__48035">
-                     <orgName>Zacharias Isak und Gespan</orgName>
-                  </org>
-                <org xml:id="wkfm__48047">
-                     <orgName>David Hirschl und Samuel Hirschl</orgName>
-                  </org>
-                <org xml:id="wkfm__48049">
-                     <orgName>Hirschl Fränkel und Jakob Samson</orgName>
-                  </org>
-                <org xml:id="wkfm__48051">
-                     <orgName>Samuel Israel und Löwl Mayr</orgName>
-                  </org>
-                <org xml:id="wkfm__47390">
-                     <orgName>Franz Joseph Pürker</orgName>
-                  </org>
-                <org xml:id="wkfm__46688">
-                     <orgName>Paul Rössler</orgName>
-                  </org>
                 <org xml:id="wkfm__8065">
                      <orgName>Kriner und Schmidt</orgName>
                   </org>
@@ -4346,6 +4295,57 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__48151">
                      <orgName>Matthias Fromwald und Gespan</orgName>
+                  </org>
+                <org xml:id="wkfm__43820">
+                     <orgName>Lazarus Hirschl Erben</orgName>
+                  </org>
+                <org xml:id="wkfm__47855">
+                     <orgName>Abraham und Salomon</orgName>
+                  </org>
+                <org xml:id="wkfm__47856">
+                     <orgName>Marx und Isak</orgName>
+                  </org>
+                <org xml:id="wkfm__47857">
+                     <orgName>Adam und Valentin</orgName>
+                  </org>
+                <org xml:id="wkfm__47861">
+                     <orgName>Lebl, Heinrich und Hirschl</orgName>
+                  </org>
+                <org xml:id="wkfm__47870">
+                     <orgName>Simon und Jakob</orgName>
+                  </org>
+                <org xml:id="wkfm__47948">
+                     <orgName>David Oberlender und Gespan</orgName>
+                  </org>
+                <org xml:id="wkfm__47973">
+                     <orgName>3 Juden</orgName>
+                  </org>
+                <org xml:id="wkfm__48008">
+                     <orgName>2 Juden</orgName>
+                  </org>
+                <org xml:id="wkfm__48009">
+                     <orgName>Nathan Moises und Gespan</orgName>
+                  </org>
+                <org xml:id="wkfm__48028">
+                     <orgName>Israel Zacharias und Koppl Fränkl</orgName>
+                  </org>
+                <org xml:id="wkfm__48035">
+                     <orgName>Zacharias Isak und Gespan</orgName>
+                  </org>
+                <org xml:id="wkfm__48047">
+                     <orgName>David Hirschl und Samuel Hirschl</orgName>
+                  </org>
+                <org xml:id="wkfm__48049">
+                     <orgName>Hirschl Fränkel und Jakob Samson</orgName>
+                  </org>
+                <org xml:id="wkfm__48051">
+                     <orgName>Samuel Israel und Löwl Mayr</orgName>
+                  </org>
+                <org xml:id="wkfm__46688">
+                     <orgName>Paul Rössler</orgName>
+                  </org>
+                <org xml:id="wkfm__47390">
+                     <orgName>Franz Joseph Pürker</orgName>
                   </org>
             </listOrg>
         </div>

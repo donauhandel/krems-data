@@ -1,20 +1,21 @@
-import os
 import json
-import pandas as pd
-from tqdm import tqdm
-from slugify import slugify
-from config import ORIG_DATA_CSVS, ORIG_DATA_MERGED
-from utils import MyEncoder
+import os
 
+import pandas as pd
+from config import ORIG_DATA_CSVS
+from config import ORIG_DATA_MERGED
+from slugify import slugify
+from tqdm import tqdm
+from utils import MyEncoder
 
 print("merges some columns from other tables into person.csv")
 
 person_df = pd.read_csv(f"{ORIG_DATA_CSVS}/personen.csv").convert_dtypes()
 konfession_df = pd.read_csv(f"{ORIG_DATA_CSVS}/konfessionen.csv").convert_dtypes()
 type_df = pd.read_csv(f"{ORIG_DATA_CSVS}/typen.csv").convert_dtypes()
-df = person_df.merge(
-    konfession_df, how="outer", left_on="konfession", right_on="konfessionId"
-).drop(columns=["konfession_x"])
+df = person_df.merge(konfession_df, how="outer", left_on="konfession", right_on="konfessionId").drop(
+    columns=["konfession_x"]
+)
 final_df = (
     df.merge(type_df, how="outer", left_on="typ", right_on="typId")
     .drop(columns=["typ_x"])
@@ -69,9 +70,7 @@ for g, ndf in df.groupby("personenId"):
 
 df = pd.read_csv(f"{ORIG_DATA_CSVS}/personen_kaufmannsklasse.csv").convert_dtypes()
 df1 = pd.read_csv(f"{ORIG_DATA_CSVS}/kaufmannsklassen.csv").convert_dtypes()
-df = df.merge(
-    df1, how="outer", left_on="kaufmannsklassenId", right_on="kaufmannsklassenId"
-)
+df = df.merge(df1, how="outer", left_on="kaufmannsklassenId", right_on="kaufmannsklassenId")
 kaufmannsklasse = {}
 for g, ndf in df.groupby("personenId"):
     kaufmannsklasse[g] = list(ndf["kaufmannsklasse"].values)
@@ -97,7 +96,12 @@ for g, ndf in tqdm(df.groupby("personenId")):
 
 df = pd.read_csv(f"{ORIG_DATA_CSVS}/personen_verwandtschaft.csv").convert_dtypes()
 df1 = pd.read_csv(f"{ORIG_DATA_CSVS}/verwandtschaftsverhaeltnisse.csv").convert_dtypes()
-newdf = df.merge(df1, how="outer", left_on="verwandschaftsverhaeltnisseId", right_on="verwandschaftsverhaeltnisseId")
+newdf = df.merge(
+    df1,
+    how="outer",
+    left_on="verwandschaftsverhaeltnisseId",
+    right_on="verwandschaftsverhaeltnisseId",
+)
 person_person_final = newdf.merge(person_df, how="outer", left_on="personenId2", right_on="personenId")
 
 print("fetching person-person relations")

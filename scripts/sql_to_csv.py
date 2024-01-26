@@ -1,11 +1,11 @@
 import os
 import shutil
-import pandas as pd
 from datetime import date
-from sqlalchemy import create_engine, inspect
 
+import pandas as pd
 from config import ORIG_DATA_CSVS
-
+from sqlalchemy import create_engine
+from sqlalchemy import inspect
 
 today = date.today()
 print(ORIG_DATA_CSVS)

@@ -59,7 +59,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2024-01-25">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2024-01-26">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text>
