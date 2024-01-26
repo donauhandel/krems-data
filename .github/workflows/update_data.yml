@@ -31,7 +31,7 @@ jobs:
         run: |
           python scripts/create_listperson.py
           python scripts/create_listplace.py
-          python scripts/create_org.py
+          python scripts/create_listorg.py
       - name: Commit data
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
