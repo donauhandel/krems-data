@@ -8,6 +8,7 @@ from config import LISTPERSON
 from config import LISTPLACE
 from tqdm import tqdm
 
+place_xml = TeiReader(LISTPLACE)
 person_xml = TeiReader(LISTPERSON)
 org_xml = TeiReader(LISTORG)
 nsmap = person_xml.nsmap
@@ -89,3 +90,35 @@ for x in tqdm(person_xml.any_xpath(".//tei:residence")):
     loc_node.append(geo_node)
     x.append(loc_node)
 person_xml.tree_to_file(LISTPERSON)
+
+
+print(f"writing persons into {LISTPLACE}")
+
+lookup = defaultdict(set)
+for x in person_xml.any_xpath(".//tei:person[.//tei:placeName]"):
+    xml_id = x.attrib["{http://www.w3.org/XML/1998/namespace}id"]
+    label, _ = make_entity_label(x)
+    if label == "None, None":
+        continue
+    for y in x.xpath(".//tei:placeName[@key]", namespaces=nsmap):
+        key = y.attrib["key"][1:]
+        lookup[key].add(f"{xml_id}|{label}")
+
+for bad in place_xml.any_xpath(".//tei:noteGrp"):
+    bad.getparent().remove(bad)
+
+for x in place_xml.any_xpath(".//tei:place"):
+    xml_id = x.attrib["{http://www.w3.org/XML/1998/namespace}id"]
+    persons = lookup[xml_id]
+    if persons:
+        noteGrp = ET.Element("{http://www.tei-c.org/ns/1.0}noteGrp")
+        noteGrp.attrib["type"] = "related_persons"
+        x.append(noteGrp)
+        for y in persons:
+            key, label = y.split("|")
+            note = ET.Element("{http://www.tei-c.org/ns/1.0}note")
+            note.attrib["target"] = f"#{key}"
+            note.attrib["type"] = "related"
+            note.text = label
+            noteGrp.append(note)
+place_xml.tree_to_file(LISTPLACE)
