@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
    <teiHeader>
       <fileDesc>
         <titleStmt>
@@ -125,7 +123,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__8105">
                      <orgName>Philipp Gundian sel. Erben</orgName>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__47519">Schönthann, Johann Gottlieb</persName></person></listPerson></org>
                 <org xml:id="wkfm__8148">
                      <orgName>Rad und Hößlin</orgName>
                   </org>
@@ -269,7 +267,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__13208">
                      <orgName>Peisser und Rigotti</orgName>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__4646">Peisser, Joseph</persName></person><person><persName key="#wkfm__5636">Rigotti, Hieronymus</persName></person></listPerson></org>
                 <org xml:id="wkfm__13303">
                      <orgName>Paul Schedlberger sel. Erben</orgName>
                   </org>
@@ -332,7 +330,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__17119">
                      <orgName>Gebrüder Orset</orgName>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__43854">Orset, Niklas Michael</persName></person><person><persName key="#wkfm__15430">Orset, Johann</persName></person></listPerson></org>
                 <org xml:id="wkfm__17566">
                      <orgName>Martin und Raffeseder</orgName>
                   </org>
@@ -380,7 +378,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__20610">
                      <orgName>Peter und Krazer</orgName>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__43895">Krazer, Michael Justus</persName></person></listPerson></org>
                 <org xml:id="wkfm__20612">
                      <orgName>Veit Müllnitsch sel. Erben</orgName>
                   </org>
@@ -392,7 +390,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__20968">
                      <orgName>Niklas Saliet &amp; Co.</orgName>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__13222">Saliet, Niklas Nikolaus</persName></person></listPerson></org>
                 <org xml:id="wkfm__21676">
                      <orgName>Bäumler und Lothes</orgName>
                   </org>
@@ -455,7 +453,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__25274">
                      <orgName>Höcksteiner und Hink</orgName>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__23505">Höcksteiner, Karl</persName></person></listPerson></org>
                 <org xml:id="wkfm__25501">
                      <orgName>Briffant &amp; Co.</orgName>
                   </org>
@@ -542,7 +540,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__30445">
                      <orgName>Herculiano Amadei &amp; Co.</orgName>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__43783">Spätl, Melchior</persName></person><person><persName key="#wkfm__8591">Amadei, Herculiano Kilian</persName></person></listPerson></org>
                 <org xml:id="wkfm__30766">
                      <orgName>Vinzenz Joanelli und Benedikt Joanelli</orgName>
                   </org>
@@ -605,7 +603,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__37828">
                      <orgName>Egger und Babitsch</orgName>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__27912">Babitsch, Johann Ignaz</persName></person></listPerson></org>
                 <org xml:id="wkfm__37941">
                      <orgName>Segalla und Bingingini, Segalla e Bigongini</orgName>
                   </org>
@@ -683,7 +681,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__42340">
                      <orgName>Beham und Hilleprand, Johann Beham und Martin Hilleprand</orgName>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__46532">Beham, Johann</persName></person></listPerson></org>
                 <org xml:id="wkfm__42526">
                      <orgName>Hilleprand und Isenflamm</orgName>
                   </org>
@@ -692,7 +690,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__43229">
                      <orgName>Johann Georg Grones &amp; Co.</orgName>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__5636">Rigotti, Hieronymus</persName></person></listPerson></org>
                 <org xml:id="wkfm__43410">
                      <orgName>Georg Hilleprand sel. Witwe</orgName>
                   </org>
@@ -734,16 +732,16 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__43850">
                      <orgName>Johann Jakob Pauminger sel. Witwe und Anton Oberleithner</orgName>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__43856">Oberleithner, Anton</persName></person></listPerson></org>
                 <org xml:id="wkfm__43867">
                      <orgName>Gervais Jenamy &amp; Sohn</orgName>
                   </org>
                 <org xml:id="wkfm__43869">
                      <orgName>Jakob Ingruber &amp; Co.</orgName>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__43868">Ingruber, Jakob</persName></person></listPerson></org>
                 <org xml:id="wkfm__43885">
                      <orgName>Johann Franz Prager sel. Witwe und Kleinrath</orgName>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__43887">Kleinrath, Franz</persName></person></listPerson></org>
                 <org xml:id="wkfm__43903">
                      <orgName>Karl Joseph Stark &amp; Co.</orgName>
                   </org>
@@ -755,7 +753,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__43930">
                      <orgName>Franz Beda</orgName>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__25660">Beda, Franz</persName></person></listPerson></org>
                 <org xml:id="wkfm__43933">
                      <orgName>Franz Beda sel. Witwe</orgName>
                   </org>
@@ -782,7 +780,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__44011">
                      <orgName>Karl Barbieri sel. Söhne und Erben, Barbieri sel. Söhne</orgName>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__44012">Barbieri, Anton</persName></person><person><persName key="#wkfm__44015">Barbieri, Ignaz</persName></person></listPerson></org>
                 <org xml:id="wkfm__44048">
                      <orgName>Zacharias Kriner, Schmidt &amp; Co.</orgName>
                   </org>
@@ -803,7 +801,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__44587">
                      <orgName>Joachim Negri &amp; Co., Gioacchino Negri &amp; Co.</orgName>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__4528">Patuzzi, Bartholomäus</persName></person></listPerson></org>
                 <org xml:id="wkfm__44785">
                      <orgName>Johann Christoph Haas &amp; Söhne</orgName>
                   </org>
@@ -830,7 +828,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__46114">
                      <orgName>Claudius Cheret &amp; Co.</orgName>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__8096">Cheret, Claudius</persName></person></listPerson></org>
                 <org xml:id="wkfm__46147">
                      <orgName>Peter Condray und Joseph Condray</orgName>
                   </org>
@@ -884,7 +882,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__46209">
                      <orgName>Johann Jakob Damian</orgName>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__8813">Damian, Johann Jakob</persName></person></listPerson></org>
                 <org xml:id="wkfm__46211">
                      <orgName>Franz Karl Deck</orgName>
                   </org>
@@ -923,7 +921,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__46231">
                      <orgName>Johann Georg Dietschi</orgName>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__37748">Dietschi, Johann</persName></person></listPerson></org>
                 <org xml:id="wkfm__46232">
                      <orgName>Kaspar Teibler</orgName>
                   </org>
@@ -986,7 +984,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__46272">
                      <orgName>Gilbert Anton Deschamps</orgName>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__46273">Merkl, Leopold</persName></person></listPerson></org>
                 <org xml:id="wkfm__46274">
                      <orgName>Johann Dietschi</orgName>
                   </org>
@@ -998,7 +996,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__46285">
                      <orgName>Johann Michael Traunfellner</orgName>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__46284">Traunfellner, Johann Michael</persName></person></listPerson></org>
                 <org xml:id="wkfm__46287">
                      <orgName>Joseph Leopold Diewald</orgName>
                   </org>
@@ -1025,7 +1023,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__46301">
                      <orgName>Franz Anton Geramb</orgName>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__8188">Visconti, Ludwig Anton</persName></person></listPerson></org>
                 <org xml:id="wkfm__46303">
                      <orgName>Peter Garnier</orgName>
                   </org>
@@ -1070,7 +1068,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__46322">
                      <orgName>Johann Michael Glück</orgName>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__46323">None, None</persName></person></listPerson></org>
                 <org xml:id="wkfm__46325">
                      <orgName>Johann Grosserbauer</orgName>
                   </org>
@@ -1115,7 +1113,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__46346">
                      <orgName>Franz Joseph Grämbsreither</orgName>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__10600">Härtl, Norbert</persName></person></listPerson></org>
                 <org xml:id="wkfm__46348">
                      <orgName>Johann Michael Gäbler</orgName>
                   </org>
@@ -1268,7 +1266,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__46453">
                      <orgName>Joseph Höcksteiner sel. Witwe und Sohn</orgName>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__46454">Höcksteiner, Franz Karl</persName></person></listPerson></org>
                 <org xml:id="wkfm__46457">
                      <orgName>Johann Jakob Hauzenberger</orgName>
                   </org>
@@ -1304,7 +1302,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__46478">
                      <orgName>Karl Höcksteiner</orgName>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__23505">Höcksteiner, Karl</persName></person></listPerson></org>
                 <org xml:id="wkfm__46479">
                      <orgName>Franz Huber</orgName>
                   </org>
@@ -1370,7 +1368,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__46524">
                      <orgName>Paul Herzog</orgName>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__46523">Herzog, Paul</persName></person></listPerson></org>
                 <org xml:id="wkfm__46525">
                      <orgName>Franz Joseph Hammer</orgName>
                   </org>
@@ -1412,7 +1410,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__46575">
                      <orgName>Norbert Härtl</orgName>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__46574">Härtl, Joseph</persName></person></listPerson></org>
                 <org xml:id="wkfm__46577">
                      <orgName>Marco Abandio</orgName>
                   </org>
@@ -1724,7 +1722,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__46716">
                      <orgName>Hieronymus Rigotti</orgName>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__10730">Mader, Anton</persName></person></listPerson></org>
                 <org xml:id="wkfm__46717">
                      <orgName>Bonaventura Riesch</orgName>
                   </org>
@@ -2234,10 +2232,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__47073">
                      <orgName>Joseph Förschl</orgName>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__1118">Förschl, Joseph</persName></person></listPerson></org>
                 <org xml:id="wkfm__47074">
                      <orgName>Joseph Karl Fuchs</orgName>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__1411">Fux, Joseph Karl</persName></person></listPerson></org>
                 <org xml:id="wkfm__47075">
                      <orgName>Michael Fieglmillner</orgName>
                   </org>
@@ -2435,7 +2433,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__47207">
                      <orgName>Anton Matthias Kircher</orgName>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__46108">Kircher, Joseph</persName></person><person><persName key="#wkfm__41599">Togniola, Johann Peter</persName></person></listPerson></org>
                 <org xml:id="wkfm__47208">
                      <orgName>Karl Joseph Krazer</orgName>
                   </org>
@@ -2453,7 +2451,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__47213">
                      <orgName>Anton Cleas</orgName>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__484">Cleas, Anton</persName></person></listPerson></org>
                 <org xml:id="wkfm__47214">
                      <orgName>Anton Cerletti</orgName>
                   </org>
@@ -2858,7 +2856,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__47357">
                      <orgName>Anton Pillitschotti</orgName>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__47624">Pillitschotti, Georg</persName></person></listPerson></org>
                 <org xml:id="wkfm__47358">
                      <orgName>Johann Ignaz Babitsch</orgName>
                   </org>
@@ -2900,7 +2898,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__47374">
                      <orgName>Johann Pohamb</orgName>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__43959">Hilleprand, Martin</persName></person></listPerson></org>
                 <org xml:id="wkfm__47375">
                      <orgName>Johann Adam Pieller</orgName>
                   </org>
@@ -3023,7 +3021,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__47433">
                      <orgName>Laurent Stass</orgName>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__8439">Stass, Lorenz Laurent Laurenz</persName></person></listPerson></org>
                 <org xml:id="wkfm__47435">
                      <orgName>Maria Magdalena Stockhammerin</orgName>
                   </org>
