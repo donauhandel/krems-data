@@ -13576,6 +13576,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 48549,39999,Wührer,Johann,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 48550,40000,Milholzer,Matthias,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 48551,40001,Greder,Martin,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+48553,40003,Mayrhofer,Tobias,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 9902,1927,,,Kapuziner,pn,1,,,,,,2,3,Katholisch,10,siu,"Personengruppen, die keine Körperschaft sind "
 13799,5972,,,2 Kapuziner,pn,1,,,,,,2,3,Katholisch,10,siu,"Personengruppen, die keine Körperschaft sind "
 18432,10883,,,2 Franziskaner,pn,1,,,,,,2,3,Katholisch,10,siu,"Personengruppen, die keine Körperschaft sind "
