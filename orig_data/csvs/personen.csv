@@ -1809,7 +1809,8 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,typ,geschle
 1838,,Gundacker,Jakob,,pi,9,1,,,,,1726,,1
 1840,,Günder,Johann Michael,,pi,9,1,,,,,1701,,1
 1841,,Günder,Johann Michael,,pi,9,1,,,,,1701,,1
-1842,,Gundian,Philipp,,pi,9,1,3,Handelsmann,,,"1681, 1692, 1694",,1
+1842,302,Gundian,Philipp,,pi,9,1,3,Handelsmann,,ca. 21.02.1710,"1681, 1692, 1694",,"1
+2"
 1843,,Gundian,Zacharias,,pi,9,1,,,,,1681,,1
 1844,,Gundlin,,,pn,9,2,,,,,1706,,1
 1845,,Guniath,Jakob,,pi,9,1,,,,,1642,,1
@@ -6674,9 +6675,9 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,typ,geschle
 6846,,Taugmann,Christoph,,pi,9,1,,,,,1737,,1
 6847,,Täutsch,Ferdinand,,pi,9,1,,,,,"1733, 1736",,1
 6848,,Taxberger,Johann,,pi,9,1,,,,,1642,,1
-6849,11163,Tech,Erdmann,,pi,9,1,,Handelsmann,,,"1736, 1737",,"3
+6849,11163,Tech,Erdmann,,pi,9,1,,Handelsmann,,1762,"1736, 1737",,"1
 2
-1"
+3"
 6850,,Teichhofer,Matthias,,pi,9,1,,,,,1737,,1
 6851,,Teisch,Jakob,,pi,9,1,1,,,,1661,,1
 6852,,Teischner,Zacharias,,pi,9,1,,,,,1662,,1
@@ -7079,7 +7080,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,typ,geschle
 7266,,Weißpeck,Wolf,,pi,9,1,,,,,1642,,1
 7267,,Weißpeck,Wolf,,pi,9,1,,,,,1647,,1
 7268,,Weiss,Niklas,,pi,9,1,,,,,"1661, 1663",,1
-7269,145,Weiss,Johann Jakob,,pi,9,1,3,Handelsmann,,,1710,,"1
+7269,145,Weiss,Johann Jakob,,pi,9,1,3,Handelsmann,28.06.1668,06.1734,1710,,"1
 2
 3
 4"
@@ -8017,7 +8018,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,typ,geschle
 8198,154,Reich,Bernhard,,,,,,,,,,,2
 8199,155,Wolfensberger,Paul,Bürger,,,,,,,,,,2
 8200,156,Vareille,Isaak,,,,,,,,,,,2
-8201,157,Löschenkohl,Johann Christoph,,,,,,,,,,,2
+8201,157,Löschenkohl,Johann Christoph,,pi,9,1,,,,,,,2
 8202,158,Stietga,Jakob,,pi,9,1,3,Handelsmann,,,,,"2
 3
 4"
@@ -8154,7 +8155,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,typ,geschle
 8325,300,Schweighauser,Rudolf,,pn,9,1,,,,,,,2
 8326,301,Weißenbeck,Matthias,,pi,9,1,3,Handelsmann,,1743,,,"2
 3"
-8327,302,Gundian,Philipp,,,,,,,,,,,2
 8328,303,Schmid,Anton,,,,,,,,,,,2
 8329,304,de Milpfort,,Monsieur,,,,,,,,,,2
 8331,306,Wellner,Thomas,,pi,9,1,3,Handelsmann,,1762,,,"2
@@ -8330,7 +8330,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,typ,geschle
 8484,466,Hell,Anton,,,,,,,,,,,2
 8485,467,Laurer,Heinrich,,,,,,,,,,,2
 8486,468,Seifert,Gottlieb,,,,,,,,,,,2
-8487,469,Schwarzleithner,Joseph,,pi,9,1,,Handelsmann,,07.1752,,,"2
+8487,469,Schwarzleithner,Joseph,,pi,9,1,3,Handelsmann,07.02.1698,15.07.1752,,,"2
 3"
 8488,470,Inhoff,Johann Jakob,,,,,,,,,,,2
 8489,471,Rössler,Paul,,pi,9,1,4,Handelsmann,,,,,"2
@@ -8484,7 +8484,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,typ,geschle
 8612,761,Senfter,Friedrich,,,,,,,,,,,2
 8613,9420,,,Dienerschaft (herrschaftlich),,,,,,,,,,2
 8614,610,Fehrner,Franz Joseph,,,,,,,,,,,2
-8615,611,Prenz,Georg,,pi,9,1,,Handelsmann,,,,,"2
+8615,611,Prenz,Georg,,pi,9,1,3,Handelsmann,,ca. 1743,,,"2
 3"
 8616,612,Salheim,Michael,,,,,,,,,,,2
 8617,613,Feichtinger,Johann Michael,,,,,,,,,,,2
@@ -9997,7 +9997,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,typ,geschle
 10010,2040,von Glandorf,Ernst Franz,,,,,,,,,,,2
 10011,2041,Lucatelli,Franz,,,,,,,,,,,2
 10012,2042,Laurer,,Herr,,,,,,,,,,2
-10013,2043,Bahn,Johann Christian,,pi,9,1,,Handelsmann,,,,,"2
+10013,2043,Bahn,Johann Christian,,pi,9,1,4,Handelsmann,,,,,"2
 3"
 10014,2044,von Sittmann,,Baron,,,,,,,,,,2
 10015,2045,von Blumenthal,,Freiherr,,,,,,,,,,2
@@ -10919,7 +10919,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,typ,geschle
 10897,2972,Zuana,,Herr,pn,9,1,,,,,,,2
 10898,2973,Delfino,Marco Antonio,,,,,,,,,,,2
 10899,21333,Vetrinelli,Peter,,,,,,,,,,,2
-10900,2976,,,Dohm und Ely,pi,2,,,Handelshaus,,,,,"2
+10900,2976,,,Dohm und Ely,pi,2,,4,Handelshaus,,,,,"2
 3"
 10901,2977,Stiermb,Anton Joseph,,pi,9,1,3,Handelsmann,,,,,"2
 3
@@ -13001,7 +13001,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,typ,geschle
 12928,5072,von Seeau,,Graf (jung),,,,,,,,,,2
 12929,5073,Plebstein,Johann,,,,,,,,,,,2
 12930,5074,Paur,Matthias,,pi,9,1,,,,,,,2
-12931,5075,von Schubarth,Christian,,,,,,,,,,,2
+12931,4314,von Schubarth,Christian,,pi,9,1,4,,,,,,2
 12932,5076,Mörfellner,Andreas,,,,,,,,,,,2
 12933,5077,Lorenz,Michael,,,,,,,,,,,2
 12934,5078,Hösser,Wolf Ferdinand,,,,,,,,,,,2
@@ -18639,7 +18639,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,typ,geschle
 18488,10950,Schlagnitweit,Michael,,,,,,,,,,,2
 18489,20785,Constantin,Johann Georg,,,,,,,,,,,2
 18490,10952,Vogl,Joseph,,,,,,,,,,,2
-18491,23065,Kern,,Matthias Kern sel. Witwe,pi,9,2,,Handelsfrau,,,,,"2
+18491,23065,Kern,,Matthias Kern sel. Witwe,pi,9,2,4,Handelsfrau,,,,,"2
 3"
 18492,10954,Vetter,Anton,,,,,,,,,,,2
 18493,10955,Schwandner,Georg,,,,,,,,,,,2
@@ -22880,7 +22880,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,typ,geschle
 22680,15515,Scherer,Thomas,,,,,,,,,,,2
 22681,24096,Lauterbacherin,Rosina,,,,,,,,,,,2
 22682,15517,,,Mautner,,,,,,,,,,2
-22683,15518,Ely,Johann Georg,,pi,9,1,,Handelsmann,,,,,"2
+22683,15518,Ely,Johann Georg,,pi,9,1,4,Handelsmann,,,,,"2
 3"
 22684,15519,Herg,Johann Erhard,,,,,,,,,,,2
 22685,15520,Paur,Bartholomäus,,,,,,,,,,,2
@@ -24920,7 +24920,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,typ,geschle
 24669,17702,Cescotti,Benedikt,,,,,,,,,,,2
 24670,17703,Mazzangoni,,Kammerdiener (ksl.),,,,,,,,,,2
 24671,20378,Madini,Joseph Anton,,,,,,,,,,,2
-24672,17705,Adam,Johann Georg,,,,,,,,,,,2
+24672,17705,Adam,Johann Georg,,pi,9,1,,,,,,,2
 24673,20960,Bartholomäi,Johann Georg,,,,,,,,,,,2
 24674,17707,Bertoni,Joseph,,,,,,,,,,,2
 24675,17708,Schwanesini,Johann Peter,,,,,,,,,,,2
@@ -30177,7 +30177,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,typ,geschle
 29845,23719,Daschner,Philipp,,,,,,,,,,,2
 29846,23720,Mayr,Matthias,,,,,,,,,,,2
 29847,23721,Höfler,Philipp,,,,,,,,,,,2
-29848,23722,Wöss,Karl,,,,,,,,,,,2
+29848,23722,Wöss,Karl,,pi,9,,,,,,,,2
 29849,23723,Jetschgo,Franz,,,,,,,,,,,2
 29850,23724,Kampmiller,Sebastian,,,,,,,,,,,2
 29851,23725,Gärtner,Johann,,,,,,,,,,,2
@@ -35499,7 +35499,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,typ,geschle
 35154,29373,,,Haas und Becker,,,,,,,,,,2
 35155,29374,,,Johann Daniel Steffer sel. Erben,,,,,,,,,,2
 35156,29375,,,Erasmus Pichler sel. Erben,,,,,,,,,,2
-35157,29376,Prenz,Georg,,,,,,,,,,,2
 35158,29377,,,Georg Lotter und Christoph Lotter,,,,,,,,,,2
 35159,29378,Weyr,Anton,,,,,,,,,,,2
 35160,29379,Pamberger,Johann,,,,,,,,,,,2
@@ -37109,7 +37108,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,typ,geschle
 36766,31066,Reisser,Joseph,,,,,,,,,,,2
 36767,31068,Weydachin,Ursula,,,,,,,,,,,2
 36768,31069,Peisser,Jakob,,,,,,,,,,,2
-36769,31070,,,Gebrüder Simtmer,,,,,,,,,,2
 36770,31072,Ringmayr,Gotthard,,,,,,,,,,,2
 36771,31073,Jäger,Franz Anton,,,,,,,,,,,2
 36772,31074,Glaiz,Andre,,,,,,,,,,,2
@@ -44109,7 +44107,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,typ,geschle
 43752,38470,,,1 Hauptmann (Regiment Alt-Daun),,,,,,,,,,2
 43753,38471,,,"Lukas Kern, Paul Freudenberger, Ruprecht  Höck, Christoph Pichler",,,,,,,,,,2
 43754,38472,Mensinger,Johann,,,,,,,,,,,2
-43755,38473,von Nedrost,Karl,,,,,,,,,,,2
 43756,38474,Zeltin,Anna Sabina,,,,,,,,,,,2
 43757,38475,von Taxheim,,General,,,,,,,,,,2
 43758,38476,von Berg,,1 Graf,,,,,,,,,,2
@@ -45824,7 +45821,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,typ,geschle
 46236,,,,Ruprecht Traunpauer,pi,2,,,Handelshaus,,,,,3
 46237,,Zwirner,Johann Joseph Karl,,pi,9,1,,Prokurist des Ruprecht Traunpauer,,,,,3
 46238,,,,Johann Dominik Dußl,pi,2,,,Handelshaus,,,,,3
-46239,,Dohm,Hermann Friedrich,,pi,9,1,,"Handelsmann, Wechsler",,,,,3
+46239,,Dohm,Hermann Friedrich,,pi,9,1,4,"Handelsmann, Wechsler",,,,,3
 46240,,,,Gebrüder von Dohm,pi,2,,,Handelshaus,,,,,3
 46241,,Dohm von Dohmkirchen,Johann Ludolph,,pi,9,1,,Handelsmann,,,,,3
 46242,,von Palm,Renata,,pi,9,2,,,,,,,3
@@ -46414,7 +46411,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,typ,geschle
 46761,,,,Georg Franz Razer,pi,2,,,Handelshaus,,,,,3
 46763,,Muthin,Eva Margaretha,,pi,9,2,,,,,,,3
 46764,,,,Matthias Anton Raindinger,pi,2,,,Handelshaus,,,,,3
-46765,,Raindinger,Matthias Anton,,pi,9,1,3,Handelsmann,,,,,
+46765,,Raindinger,Matthias Anton,,pi,9,1,3,Handelsmann,,,,,3
 46766,,Schinerer,Johann Georg,,pi,9,1,3,Handelsmann,,,,,3
 46767,26149,Pränkl,Matthias,,pi,9,1,3,Tuchhändler,,1757,,,"2
 3"
@@ -46639,7 +46636,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,typ,geschle
 46970,,Wiskoczillin,Franziska Margaretha,,pi,9,2,3,Handelsfrau,,,,,3
 46971,,,,Franziska Margaretha Wiskoczillin,pi,2,,,Handelshaus,,,,,3
 46972,,,,Joseph Wandaller,pi,2,,,Handelshaus,,,,,3
-46973,,,,Fabricius Wurmscher,pi,2,,,Handelshaus,,,,,3
+46973,,,,Fabricius Wurmseher,pi,2,,,Handelshaus,,,,,3
 46974,,,,Fabrizius Wurmscher sel. Witwe,pn,9,2,,Handelsfrau,,,,,3
 46975,,,,Augustin Wittiber,pi,2,,,Handelshaus,,,,,3
 46976,,,,Christoph Wider,pi,2,,,Handelshaus,,,,,3
@@ -46725,7 +46722,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,typ,geschle
 47046,,Conradt,Johann Baptist,,pi,9,1,,Handelsmann,,,,,3
 47047,,Wätzger,Johann Michael,,pi,9,1,3,Handelsmann,,,,,3
 47048,,Wätzger,Maria,,pi,9,2,,,,,,,3
-47049,,Wanner,Johann,,pi,9,1,,Handelsmann,,,,,3
+47049,,Wanner,Johann,,pi,9,1,4,Handelsmann,,,,,3
 47050,,,,Franz Joseph Ferner,pi,2,,,Tuchhandlung,,,,,3
 47051,,Dumreicher,Johann Georg,,pi,9,1,,Buchhalter und Prokurist bei Franz Joseph Ferner,,,,,3
 47052,,,,Johann Fuchs,pi,2,,,Tuchhandlung,,,,,3
@@ -47228,7 +47225,8 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,typ,geschle
 47510,,,,Franz Ignaz Sinabell,pi,2,,,Handelshaus,,,,,3
 47511,,,,Jakob Stockholzer (Stöckholzer),pi,2,,,Handelshaus,,,,,3
 47512,,Smitmer,Franz Michael,,pi,9,1,,"Hofjuwelier, Wechsler",,,,,3
-47513,,,,"Gebrüder Smitmer, Fratelli Smitmer (Smittmer)",pi,2,,,"Hofjuwelier, Wechselhaus, Bank",,,,,3
+47513,31070,,,"Gebrüder Smitmer, Fratelli Smitmer (Smittmer)",pi,2,,,"Hofjuwelier, Wechselhaus, Bank",,,,,"2
+3"
 47514,,Smitmer,Jakob Michael,,pi,9,1,,"Hofjuwelier, Wechsler/Bankier",,,,,3
 47515,,Smitmer,Maria Josepha,,pi,9,2,,,,,,,3
 47516,,Preisingerin,Maria Barbara,,pi,9,2,,,,,,,3
@@ -47259,7 +47257,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,typ,geschle
 47539,,,,Franz Strobl,pi,2,,,Handelshaus,,,,,3
 47540,,Schmalz,Peter,,pi,9,1,,,,,,,3
 47541,,,,Veit Joseph Schadt,pi,2,,,Handelshaus,,,,,3
-47542,,Siechheit,Franz Peter,,pi,9,1,3,Handelsmann,,1764,,,2
+47542,,Siechheit,Franz Peter,,pi,9,1,3,Handelsmann,,1764,,,3
 47543,,,,Franz Peter Siecheit,pi,2,,,Handelshaus,,,,,3
 47544,,Sensel,Martin,,pi,9,1,3,Handelsmann,,,,,3
 47545,,Jenamy,Maria Anna,,pi,9,2,,,,,,,3
@@ -48205,3 +48203,4 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,typ,geschle
 48551,40001,Greder,Martin,,pi,9,1,,,,,,,2
 48552,,Oberleithner,Anna Maria ,,pi,9,2,3,,,1777,,,
 48553,40003,Mayrhofer,Tobias,,pi,9,1,,,,,,,2
+48554,40004,Wöss,Karl,,pn,9,1,,,,,,,2
