@@ -33,7 +33,7 @@
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when="2024-05-12">2024-05-12</date>
+            <date when="2024-05-19">2024-05-19</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2024-05-12">template populated with script "create_listorg.py"</change>
+         <change who="pandorfer" when="2024-05-19">template populated with script "create_listorg.py"</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -267,7 +267,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__13208">
                      <orgName>Peisser und Rigotti</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__5636">Rigotti, Hieronymus</persName></person><person><persName key="#wkfm__4646">Peisser, Joseph</persName></person></listPerson></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__4646">Peisser, Joseph</persName></person><person><persName key="#wkfm__5636">Rigotti, Hieronymus</persName></person></listPerson></org>
                 <org xml:id="wkfm__13303">
                      <orgName>Paul Schedlberger sel. Erben</orgName>
                   </org>
@@ -540,7 +540,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__30445">
                      <orgName>Herculiano Amadei &amp; Co.</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__8591">Amadei, Herculiano Kilian</persName></person><person><persName key="#wkfm__43783">Spätl, Melchior</persName></person></listPerson></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__43783">Spätl, Melchior</persName></person><person><persName key="#wkfm__8591">Amadei, Herculiano Kilian</persName></person></listPerson></org>
                 <org xml:id="wkfm__30766">
                      <orgName>Vinzenz Joanelli und Benedikt Joanelli</orgName>
                   </org>
@@ -780,7 +780,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__44011">
                      <orgName>Karl Barbieri sel. Söhne und Erben, Barbieri sel. Söhne</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__44015">Barbieri, Ignaz</persName></person><person><persName key="#wkfm__44012">Barbieri, Anton</persName></person></listPerson></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__44012">Barbieri, Anton</persName></person><person><persName key="#wkfm__44015">Barbieri, Ignaz</persName></person></listPerson></org>
                 <org xml:id="wkfm__44048">
                      <orgName>Zacharias Kriner, Schmidt &amp; Co.</orgName>
                   </org>
@@ -2433,7 +2433,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__47207">
                      <orgName>Anton Matthias Kircher</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__46108">Kircher, Joseph</persName></person><person><persName key="#wkfm__41599">Togniola, Johann Peter</persName></person></listPerson></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__41599">Togniola, Johann Peter</persName></person><person><persName key="#wkfm__46108">Kircher, Joseph</persName></person></listPerson></org>
                 <org xml:id="wkfm__47208">
                      <orgName>Karl Joseph Krazer</orgName>
                   </org>
