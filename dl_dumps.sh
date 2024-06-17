@@ -1,7 +1,7 @@
 #!/bin/bash
 DB_NAME=donauhandj87mysql11
 DB_FILE=${DB_NAME}.sql
-URL=yxw8ZKJ4oxpz3xG
+URL=XcB4Ls69Sgf7Mca
 DATA_DIR=datadir/
 echo ${DB_FILE}
 echo ${DB_NAME}
