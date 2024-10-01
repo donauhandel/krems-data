@@ -487,11 +487,11 @@ personen_altNachnameId,personenId,altNachname
 497,1542,Jerm
 498,1571,Geymahn
 499,1571,Geyman
-500,1576,Gill
+500,1576,Güll
 501,1577,Gülln
 502,1578,Güll
-503,1579,Gill
-504,1580,Gill
+503,1579,Gillen
+504,1580,Gillen
 505,1587,Jullin
 506,8010,Jullini
 507,1588,Jullin
@@ -2544,7 +2544,6 @@ personen_altNachnameId,personenId,altNachname
 2608,46385,Grueber
 2609,28324,Krembsreitter
 2610,46388,Grämbsreither
-2611,46393,Haider
 2612,11600,Hukher
 2613,37974,Monss
 2614,24831,Haymerl
@@ -2718,7 +2717,7 @@ personen_altNachnameId,personenId,altNachname
 2792,47159,Fläschitz
 2793,47159,Stellmacher
 2794,47172,von Fuchs
-2795,1411,Fuchs
+2795,1411,Fux
 2797,47175,Favai
 2798,47177,Violand
 2799,47195,Seyerl
@@ -3004,7 +3003,7 @@ personen_altNachnameId,personenId,altNachname
 3081,46196,Thonelli
 3082,47089,Ferniz
 3083,46331,Vanderglocken
-3084,1402,Fuchs
+3084,1402,Fux
 3085,10083,Rotter
 3086,8326,Weißenböck
 3087,37039,Pertazzi
@@ -3118,3 +3117,36 @@ personen_altNachnameId,personenId,altNachname
 3196,34433,Heisser
 3197,34433,Heiser
 3198,34433,Heisserer
+3199,46393,von Haydern
+3200,8489,Rößler
+3201,9090,Vötter
+3202,1576,Gillen
+3203,43939,Staindl
+3204,20473,Rößlerin
+3205,32659,de Walpergen
+3206,32659,De Welpergen
+3207,12189,Schubert
+3208,43957,Bognerin
+3209,47519,Schönthann
+3210,27399,
+3211,1400,Fux
+3212,1401,Fux
+3213,1403,Fux
+3214,1405,Fux
+3215,1406,Fux
+3216,1407,Fux
+3217,1408,Fux
+3218,1409,Fux
+3219,1410,Fux
+3220,1412,Fux
+3221,1413,Fux
+3222,1414,Fux
+3223,1415,Fux
+3224,1416,Fux
+3225,1417,Fux
+3226,1418,Fux
+3227,8615,von Pränz
+3228,20532,Mill
+3229,23514,Kollmüntzer
+3230,8600,Dußl
+3231,829,Dusl
