@@ -2449,7 +2449,6 @@ personen_altNachnameId,personenId,altNachname
 2506,9731,Kyenmayr
 2507,46115,Kayser
 2508,46119,Cimmerman
-2509,8752,Kapler
 2510,8752,Kepler
 2511,46120,Winckhler
 2512,46121,Denkh
@@ -2659,7 +2658,7 @@ personen_altNachnameId,personenId,altNachname
 2733,46887,à Marcha
 2734,46891,Mayer
 2735,9611,Manßrieder
-2736,8413,Marci
+2736,8413,Marcei
 2737,46904,Keilhau
 2738,24852,Mannj
 2739,24852,Mani
@@ -3150,3 +3149,10 @@ personen_altNachnameId,personenId,altNachname
 3229,23514,Kollmüntzer
 3230,8600,Dußl
 3231,829,Dusl
+3232,8752,Kapler
+3233,8752,Kapeller
+3234,8266,Leggou
+3235,9053,Solderer
+3236,9053,Solterer
+3237,8333,Fehr
+3238,9744,Kutzer
