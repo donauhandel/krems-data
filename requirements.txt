@@ -1,10 +1,10 @@
-pandas==2.2.0
+pandas
 sqlalchemy
 acdh_tei_pyutils
-icecream==2.1.3
+icecream
 jinja2
 acdh-arche-assets
 flake8
 black
-mysqlclient
 python-slugify  
+PyMySQL
