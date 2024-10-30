@@ -3,7 +3,7 @@ organisationen_verknuepfungenId,organisationsId,verknuepfungsArtId,eintrag
 2,1,2,https://de.wikipedia.org/wiki/Kartause_Aggsbach
 3,1,3,https://goo.gl/maps/rmhm3EAtdLQ2
 4,1,4,http://www.geonames.org/maps/google_48.294_15.415.html
-5,1,5,"<iframe src=""https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2654.455510085028!2d15.422380015802144!3d48.29409014822569!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477262ef5bd4da55%3A0xe45af98d601c2c7b!2sKartause+Aggsbach!5e0!3m2!1sde!2sat!4v1501689747097"" width=""600"" height=""450"" frameborder=""0"" style=""border:0"" allowfullscreen></iframe>"
+5,1,5,
 6,2,1,http://d-nb.info/gnd/1068555912
 7,2,3,https://de.wikipedia.org/wiki/Burg_Albrechtsberg_an_der_Gro%C3%9Fen_Krems
 8,5,2,https://de.wikipedia.org/wiki/Liste_der_denkmalgesch%C3%BCtzten_Objekte_in_Altmelon
@@ -20,7 +20,7 @@ organisationen_verknuepfungenId,organisationsId,verknuepfungsArtId,eintrag
 19,33,1,http://d-nb.info/gnd/1063064279
 20,33,4,http://www.geonames.org/maps/google_48.65_14.95.html
 21,33,3,https://goo.gl/maps/JdZGVgNLt6y
-22,33,5,"<iframe src=""https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10545.564316719941!2d14.939185243675292!3d48.64063329710377!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47731e0fa0f25d23%3A0x3d888de2e34c7d26!2s3922+Engelstein!5e0!3m2!1sde!2sat!4v1507906820885"" width=""600"" height=""450"" frameborder=""0"" style=""border:0"" allowfullscreen></iframe>"
+22,33,5,
 23,39,2,https://de.wikipedia.org/wiki/Burg_B%C3%ADtov
 24,41,2,https://de.wikipedia.org/wiki/Wehrkirche_St._Michael
 25,43,6,http://swb.bsz-bw.de/DB=2.104/PPNSET?PPN=309194733&INDEXSET=1

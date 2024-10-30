@@ -1,6 +1,8 @@
 import os
+import re
 import shutil
 from datetime import date
+from bs4 import BeautifulSoup
 
 import pandas as pd
 from config import ORIG_DATA_CSVS
@@ -19,11 +21,19 @@ DB_HOST = os.environ.get("DB_HOST", "0.0.0.0")
 DB_PORT = os.environ.get("DB_PORT", "3307")
 
 db_connection_str = f"mysql+pymysql://{DB_USER}:{DB_PW}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
-print(db_connection_str)
 db_connection = create_engine(db_connection_str)
 insp = inspect(db_connection)
 
 tables = insp.get_table_names()
+
+
+def remove_all_tags(text):
+    if isinstance(text, str):
+        text = re.sub(r'<[^>]+>', '', text)
+        text = re.sub(r'[\n\t\s]+', ' ', text)
+        text.strip()
+    return text
+
 
 for i, x in enumerate(tables):
     i += 1
@@ -33,6 +43,8 @@ for i, x in enumerate(tables):
     df = pd.read_sql(query, db_connection).fillna("")
     file_name = os.path.join(ORIG_DATA_CSVS, f"{x}.csv")
     print(f"writing table: {x} to {file_name} {i}/{len(tables)}")
+    for col in df.select_dtypes(include='object').columns:
+        df[col] = df[col].apply(remove_all_tags)
     df.to_csv(file_name, index=False)
     with open(file_name, "r") as file:
         filedata = file.read()
