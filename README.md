@@ -22,3 +22,7 @@ https://webdatenbank-admin.univie.ac.at/index.php?route=/database/structure&serv
 ### KREMS
 https://webdatenbank-admin.univie.ac.at/index.php?route=/database/structure&server=1&db=donauhandj87mysql11
 * aemter | alphabet | bearbeitet | codesAktuell
+
+### upload to dumps to dropbox
+
+https://oeawcloud.oeaw.ac.at/index.php/apps/files/files/46277460?dir=/donauhandel
