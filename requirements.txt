@@ -8,3 +8,4 @@ flake8
 black
 python-slugify  
 PyMySQL
+beautifulsoup4
