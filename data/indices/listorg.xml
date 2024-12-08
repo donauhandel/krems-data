@@ -33,7 +33,7 @@
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when="2024-12-01">2024-12-01</date>
+            <date when="2024-12-08">2024-12-08</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2024-12-01">template populated with script "create_listorg.py"</change>
+         <change who="pandorfer" when="2024-12-08">template populated with script "create_listorg.py"</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -264,7 +264,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__13208">
                      <orgName>Peisser und Rigotti</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__4646">Peisser, Joseph</persName></person><person><persName key="#wkfm__5636">Rigotti, Hieronymus</persName></person></listPerson></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__5636">Rigotti, Hieronymus</persName></person><person><persName key="#wkfm__4646">Peisser, Joseph</persName></person></listPerson></org>
                 <org xml:id="wkfm__13303">
                      <orgName>Paul Schedlberger sel. Erben</orgName>
                   </org>
@@ -327,7 +327,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__17119">
                      <orgName>Gebrüder Orset</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__15430">Orset, Johann</persName></person><person><persName key="#wkfm__43854">Orset, Niklas Michael</persName></person></listPerson></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__43854">Orset, Niklas Michael</persName></person><person><persName key="#wkfm__15430">Orset, Johann</persName></person></listPerson></org>
                 <org xml:id="wkfm__17566">
                      <orgName>Martin und Raffeseder</orgName>
                   </org>
