@@ -3,6 +3,7 @@ import os
 ORIG_DATA_DIR = "./orig_data"
 ORIG_DATA_CSVS = os.path.join(ORIG_DATA_DIR, "csvs")
 ORIG_DATA_MERGED = os.path.join(ORIG_DATA_DIR, "merged")
+PERSONS_JSON = os.path.join(ORIG_DATA_MERGED, "persons.json")
 INDICES = os.path.join("./data", "indices")
 
 LISTPERSON = os.path.join(INDICES, "listperson.xml")
