@@ -67,7 +67,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
         <div>
             <listOrg>{% for x in objects %}
                 <org xml:id="{{ prefix }}{{ x.personenId }}">
-                     <orgName>{{ x.firma_bez_anonym }}</orgName>
+                     <orgName>{{ x.firma_bez_anonym }}</orgName>{% for y in x.orte %}
+                     <location type="located_in_place" n="{{ y.art }}">
+                        <placeName key="wkfm-place__{{ y.orts_id }}">{{ y.orts_name }}</placeName>
+                     </location>{% endfor %}
                   </org>{% endfor %}
             </listOrg>
         </div>
