@@ -2416,7 +2416,7 @@ personen_altNachnameId,personenId,altNachname
 2470,5173,Praestinari
 2471,8747,Baumgarthner
 2473,27912,Babisch
-2474,37039,Bertazzi
+2474,37039,Bertazi
 2475,43969,von Patuzzi
 2476,43979,Püchler
 2477,43982,Pertholdin
@@ -2786,7 +2786,7 @@ personen_altNachnameId,personenId,altNachname
 2865,47595,Sotscheck
 2866,44043,Gugenberger
 2867,47599,Simmerl
-2868,22079,Sörgel
+2868,22079,Sörgl
 2869,47606,Rosmarinin
 2870,47606,Schreiber
 2871,47608,Schenöckher
@@ -3156,3 +3156,21 @@ personen_altNachnameId,personenId,altNachname
 3236,9053,Solterer
 3237,8333,Fehr
 3238,9744,Kutzer
+3239,15534,Käpler
+3240,8752,Käpler
+3241,1864,Güßer
+3242,46830,Lanzer
+3243,46830,Lainser
+3244,42309,von Gundian
+3245,20532,von Mühl
+3246,41769,von Liedl
+3247,47638,Nedorost
+3248,47638,Nederost
+3249,5219,"""von Mohrnück"""
+3250,5219,"""von Mohrnick"""
+3251,6198,Schoiber von Engelstein
+3252,47517,Smittmer
+3253,47512,von Smitmer
+3254,38069,Bertazi
+3255,42236,Bertazi
+3256,41650,Sörgl
