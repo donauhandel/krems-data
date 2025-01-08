@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
    <teiHeader>
       <fileDesc>
         <titleStmt>
@@ -88,7 +86,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Adam und Valentin</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__131">Eibenschitz </placeName>
-                     </location>
+                     <geo>49.10138888888889 16.3775</geo></location>
                   </org>
                 <org xml:id="wkfm__47861">
                      <orgName>Lebl, Heinrich und Hirschl</orgName>
@@ -100,7 +98,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Simon und Jakob</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__341">Jamnitz</placeName>
-                     </location>
+                     <geo>49.01888888888889 15.569722222222222</geo></location>
                   </org>
                 <org xml:id="wkfm__47948">
                      <orgName>David Oberlender und Gespan</orgName>
@@ -127,7 +125,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Zacharias Isak und Gespan</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__71">Boskowitz</placeName>
-                     </location>
+                     <geo>49.487500000000004 16.65972222222222</geo></location>
                   </org>
                 <org xml:id="wkfm__48047">
                      <orgName>David Hirschl und Samuel Hirschl</orgName>
@@ -176,7 +174,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__47519">Schönthan, Johann Gottlieb Gottlieb</persName></person></listPerson></org>
                 <org xml:id="wkfm__8148">
                      <orgName>Rad und Hößlin</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
@@ -457,7 +455,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Bartholomäi &amp; Sohn</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__864">Ulm</placeName>
-                     </location>
+                     <geo>48.39833333333333 9.991388888888888</geo></location>
                   </org>
                 <org xml:id="wkfm__13048">
                      <orgName>Roux sel. Witwe</orgName>
@@ -473,7 +471,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__4646">Peisser, Joseph</persName></person><person><persName key="#wkfm__5636">Rigotti, Hieronymus</persName></person></listPerson></org>
                 <org xml:id="wkfm__13303">
                      <orgName>Paul Schedlberger sel. Erben</orgName>
                      <location type="located_in_place" n="Herkunft-Aschach">
@@ -517,7 +515,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Lorenz Vollmayr sel. Erben</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__920">Wels</placeName>
-                     </location>
+                     <geo>48.166666666666664 14.033333333333333</geo></location>
                   </org>
                 <org xml:id="wkfm__15206">
                      <orgName>Peter Vernay und Pörner</orgName>
@@ -581,7 +579,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__43854">Orset, Niklas Michael</persName></person><person><persName key="#wkfm__15430">Orset, Johann</persName></person></listPerson></org>
                 <org xml:id="wkfm__17566">
                      <orgName>Martin und Raffeseder</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
@@ -592,7 +590,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Schedlberger sel. Witwe</orgName>
                      <location type="located_in_place" n="Herkunft-Aschach">
                         <placeName key="wkfm-place__583">Ottensheim</placeName>
-                     </location>
+                     <geo>48.33222222222223 14.174166666666666</geo></location>
                   </org>
                 <org xml:id="wkfm__17743">
                      <orgName>Gebrüder Auracher</orgName>
@@ -613,7 +611,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Fabrik (ksl.)</orgName>
                      <location type="located_in_place" n="Herkunft-Aschach">
                         <placeName key="wkfm-place__1028">Langhalsen</placeName>
-                     </location>
+                     <geo>48.48861111111111 13.995</geo></location>
                   </org>
                 <org xml:id="wkfm__18158">
                      <orgName>Wiesenhüter &amp; Co.</orgName>
@@ -695,7 +693,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__43895">Krazer, Michael Justus</persName></person></listPerson></org>
                 <org xml:id="wkfm__20612">
                      <orgName>Veit Müllnitsch sel. Erben</orgName>
                   </org>
@@ -713,7 +711,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__13222">Saliet, Niklas Nikolaus</persName></person></listPerson></org>
                 <org xml:id="wkfm__21676">
                      <orgName>Bäumler und Lothes</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
@@ -799,7 +797,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Matthias Kern &amp; Co.</orgName>
                      <location type="located_in_place" n="Herkunft-Aschach">
                         <placeName key="wkfm-place__1194">Ortenburg</placeName>
-                     </location>
+                     <geo>48.545833333333334 13.2225</geo></location>
                   </org>
                 <org xml:id="wkfm__24272">
                      <orgName>Paul Rössler sel. Erben</orgName>
@@ -827,7 +825,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__23505">Höcksteiner, Karl</persName></person></listPerson></org>
                 <org xml:id="wkfm__25501">
                      <orgName>Briffant &amp; Co.</orgName>
                   </org>
@@ -907,7 +905,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Fabrik (ksl.)</orgName>
                      <location type="located_in_place" n="Herkunft-Aschach">
                         <placeName key="wkfm-place__1644">Schwechat</placeName>
-                     </location>
+                     <geo>48.13333333333333 16.466666666666665</geo></location>
                   </org>
                 <org xml:id="wkfm__29618">
                      <orgName>Patuzzi sel. Erben</orgName>
@@ -934,7 +932,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Gebrüder Wiesenhüter</orgName>
                      <location type="located_in_place" n="Herkunft-Aschach">
                         <placeName key="wkfm-place__1569">Frankfurt am Main</placeName>
-                     </location>
+                     <geo>50.11527777777778 8.684166666666666</geo></location>
                   </org>
                 <org xml:id="wkfm__29947">
                      <orgName>Hindemann und Kreidemann</orgName>
@@ -974,7 +972,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__43783">Spätl, Melchior</persName></person><person><persName key="#wkfm__8591">Amadei, Herculiano Kilian</persName></person></listPerson></org>
                 <org xml:id="wkfm__30766">
                      <orgName>Vinzenz Joanelli und Benedikt Joanelli</orgName>
                   </org>
@@ -1070,7 +1068,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__27912">Babitsch, Johann Ignaz</persName></person></listPerson></org>
                 <org xml:id="wkfm__37941">
                      <orgName>Segalla und Bingingini, Segalla e Bigongini</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
@@ -1114,7 +1112,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Mayrhofer und Kriegner</orgName>
                      <location type="located_in_place" n="Herkunft-Aschach">
                         <placeName key="wkfm-place__1109">Rohrbach (in Oberösterreich)</placeName>
-                     </location>
+                     <geo>48.572500000000005 13.988333333333333</geo></location>
                   </org>
                 <org xml:id="wkfm__39338">
                      <orgName>Volkamer und Münch</orgName>
@@ -1181,7 +1179,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__46532">Beham, Johann</persName></person></listPerson></org>
                 <org xml:id="wkfm__42526">
                      <orgName>Hilleprand und Isenflamm</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
@@ -1196,7 +1194,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__5636">Rigotti, Hieronymus</persName></person></listPerson></org>
                 <org xml:id="wkfm__43410">
                      <orgName>Georg Hilleprand sel. Witwe</orgName>
                   </org>
@@ -1271,7 +1269,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__43856">Oberleithner, Anton</persName></person></listPerson></org>
                 <org xml:id="wkfm__43867">
                      <orgName>Gervais Jenamy &amp; Sohn</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
@@ -1283,13 +1281,13 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__43868">Ingruber, Jakob</persName></person></listPerson></org>
                 <org xml:id="wkfm__43885">
                      <orgName>Johann Franz Prager sel. Witwe und Kleinrath</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__43887">Kleinrath, Franz</persName></person></listPerson></org>
                 <org xml:id="wkfm__43903">
                      <orgName>Karl Joseph Stark &amp; Co.</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
@@ -1313,7 +1311,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__25660">Beda, Franz</persName></person></listPerson></org>
                 <org xml:id="wkfm__43933">
                      <orgName>Franz Beda sel. Witwe</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
@@ -1370,7 +1368,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__44012">Barbieri, Anton</persName></person><person><persName key="#wkfm__44015">Barbieri, Ignaz</persName></person></listPerson></org>
                 <org xml:id="wkfm__44048">
                      <orgName>Zacharias Kriner, Schmidt &amp; Co.</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
@@ -1412,7 +1410,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__4528">Patuzzi, Bartholomäus</persName></person></listPerson></org>
                 <org xml:id="wkfm__44785">
                      <orgName>Johann Christoph Haas &amp; Söhne</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
@@ -1454,7 +1452,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__8096">Cheret, Claudius</persName></person></listPerson></org>
                 <org xml:id="wkfm__46147">
                      <orgName>Peter Condray und Joseph Condray</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
@@ -1551,7 +1549,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
                      <location type="located_in_place" n="Wohnort">
-                        <placeName key="wkfm-place__"></placeName>
+                        <placeName key="wkfm-place__"/>
                      </location>
                   </org>
                 <org xml:id="wkfm__46207">
@@ -1571,7 +1569,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__8813">Damian, Johann Jakob</persName></person></listPerson></org>
                 <org xml:id="wkfm__46211">
                      <orgName>Franz Karl Deck</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
@@ -1655,7 +1653,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__37748">Dietschi, Johann</persName></person></listPerson></org>
                 <org xml:id="wkfm__46232">
                      <orgName>Kaspar Teibler</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
@@ -1784,7 +1782,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__46273">Merkl, Leopold</persName></person></listPerson></org>
                 <org xml:id="wkfm__46274">
                      <orgName>Johann Dietschi</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
@@ -1808,7 +1806,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__46284">Traunfellner, Johann Michael</persName></person></listPerson></org>
                 <org xml:id="wkfm__46287">
                      <orgName>Joseph Leopold Diewald</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
@@ -1862,7 +1860,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__8188">Visconti, Ludwig Anton</persName></person></listPerson></org>
                 <org xml:id="wkfm__46303">
                      <orgName>Peter Garnier</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
@@ -1952,7 +1950,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__46323">None, None</persName></person></listPerson></org>
                 <org xml:id="wkfm__46325">
                      <orgName>Johann Grosserbauer</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
@@ -2042,7 +2040,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__10600">Härtl, Norbert</persName></person></listPerson></org>
                 <org xml:id="wkfm__46348">
                      <orgName>Johann Michael Gäbler</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
@@ -2345,7 +2343,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__46454">Höcksteiner, Franz Karl</persName></person></listPerson></org>
                 <org xml:id="wkfm__46457">
                      <orgName>Johann Jakob Hauzenberger</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
@@ -2417,7 +2415,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__23505">Höcksteiner, Karl</persName></person></listPerson></org>
                 <org xml:id="wkfm__46479">
                      <orgName>Franz Huber</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
@@ -2549,7 +2547,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__46523">Herzog, Paul</persName></person></listPerson></org>
                 <org xml:id="wkfm__46525">
                      <orgName>Franz Joseph Hammer</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
@@ -2633,7 +2631,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__46574">Härtl, Joseph</persName></person></listPerson></org>
                 <org xml:id="wkfm__46577">
                      <orgName>Marco Abandio</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
@@ -3266,7 +3264,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__10730">Mader, Anton</persName></person></listPerson></org>
                 <org xml:id="wkfm__46717">
                      <orgName>Bonaventura Riesch</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
@@ -4289,13 +4287,13 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__1118">Förschl, Joseph</persName></person></listPerson></org>
                 <org xml:id="wkfm__47074">
                      <orgName>Joseph Karl Fuchs</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__1411">Fuchs, Joseph Karl</persName></person></listPerson></org>
                 <org xml:id="wkfm__47075">
                      <orgName>Michael Fieglmillner</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
@@ -4691,7 +4689,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__41599">Togniola, Johann Peter</persName></person><person><persName key="#wkfm__46108">Kircher, Joseph</persName></person></listPerson></org>
                 <org xml:id="wkfm__47208">
                      <orgName>Karl Joseph Krazer</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
@@ -4727,7 +4725,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__484">Cleas, Anton</persName></person></listPerson></org>
                 <org xml:id="wkfm__47214">
                      <orgName>Anton Cerletti</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
@@ -5537,7 +5535,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__47624">Pillitschotti, Georg</persName></person></listPerson></org>
                 <org xml:id="wkfm__47358">
                      <orgName>Johann Ignaz Babitsch</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
@@ -5627,7 +5625,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__43959">Hilleprand, Martin</persName></person></listPerson></org>
                 <org xml:id="wkfm__47375">
                      <orgName>Johann Adam Pieller</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
@@ -5873,7 +5871,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      </location>
-                  </org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__8439">Stass, Lorenz Laurent Laurenz</persName></person></listPerson></org>
                 <org xml:id="wkfm__47435">
                      <orgName>Maria Magdalena Stockhammerin</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
@@ -6565,7 +6563,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Anton Zili &amp; Co.</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__457">Linz</placeName>
-                     </location>
+                     <geo>48.30638888888888 14.286111111111111</geo></location>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__792">St. Gallen</placeName>
                      </location>
@@ -6670,7 +6668,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Johann Georg Friedrich Graf und Martin Graf</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__688">Ravelsbach</placeName>
-                     </location>
+                     <geo>48.55 15.85</geo></location>
                   </org>
                 <org xml:id="wkfm__47719">
                      <orgName>Strodt und Gebrüder</orgName>
@@ -6742,7 +6740,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Anton Hoda sel. Witwe</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__640">Potschatek</placeName>
-                     </location>
+                     <geo>49.26 15.239999999999998</geo></location>
                   </org>
                 <org xml:id="wkfm__47739">
                      <orgName>Carone und Bordollo</orgName>
@@ -6886,7 +6884,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      </location>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__810">Steinseiffen</placeName>
-                     </location>
+                     <geo>50.78861111111111 15.778611111111111</geo></location>
                   </org>
                 <org xml:id="wkfm__47767">
                      <orgName>Strobl &amp; Co.</orgName>
@@ -7015,7 +7013,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Johann Georg Müller und Gespan</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__708">Riedenthal</placeName>
-                     </location>
+                     <geo>48.483333333333334 15.866666666666667</geo></location>
                   </org>
                 <org xml:id="wkfm__47795">
                      <orgName>Lorenz Tucci und Johann Baptista Facineti</orgName>
@@ -7030,7 +7028,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      </location>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__511">Memmingen</placeName>
-                     </location>
+                     <geo>47.98361111111111 10.185277777777777</geo></location>
                   </org>
                 <org xml:id="wkfm__47798">
                      <orgName>Georg Embser sel. Erben</orgName>
@@ -7066,7 +7064,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Johann Favre und Andre Caille</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__198">Genf</placeName>
-                     </location>
+                     <geo>46.202222222222225 6.145555555555556</geo></location>
                   </org>
                 <org xml:id="wkfm__47804">
                      <orgName>Johann Baptista Flanderini sel. Erben</orgName>
@@ -7240,7 +7238,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Daniel Gutschi und Andreas Jon</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__1019">Braunau (in Böhmen)</placeName>
-                     </location>
+                     <geo>50.58555555555556 16.331666666666667</geo></location>
                   </org>
                 <org xml:id="wkfm__47843">
                      <orgName>Flanderini und Bartholomäus Mueterach sel. Erben</orgName>
@@ -7252,7 +7250,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Anna Huberin &amp; Co.</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__178">Freistadt (im Mühlviertel)</placeName>
-                     </location>
+                     <geo>48.51083333333333 14.504444444444445</geo></location>
                   </org>
                 <org xml:id="wkfm__47845">
                      <orgName>Andre Leb und Johann Ramler</orgName>
@@ -7282,7 +7280,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Matthias Friesacher und Johann Lenepeck</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__195">Gars (am Kamp)</placeName>
-                     </location>
+                     <geo>48.58888888888889 15.653611111111111</geo></location>
                   </org>
                 <org xml:id="wkfm__47853">
                      <orgName>Jakob Pollner und Johann Pollner</orgName>
@@ -7291,13 +7289,13 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Jakob Müllner und Kriegl</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__703">Retz</placeName>
-                     </location>
+                     <geo>48.75694444444444 15.954722222222221</geo></location>
                   </org>
                 <org xml:id="wkfm__47860">
                      <orgName>Georg Langer, Christoph Huphmann und Urban Schall</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__714">Römerstadt</placeName>
-                     </location>
+                     <geo>49.931666666666665 17.271666666666665</geo></location>
                   </org>
                 <org xml:id="wkfm__47863">
                      <orgName>Michael de la Foga und Johann de la Foga</orgName>
@@ -7318,7 +7316,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Jörg Hiemayr und Gallus Mayrhofer</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__111">Donauwörth</placeName>
-                     </location>
+                     <geo>48.717777777777776 10.779166666666667</geo></location>
                   </org>
                 <org xml:id="wkfm__47872">
                      <orgName>Kielmann</orgName>
@@ -7456,7 +7454,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Gelb und Mächerl</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__238">Graz</placeName>
-                     </location>
+                     <geo>47.06666666666667 15.45</geo></location>
                   </org>
                 <org xml:id="wkfm__47905">
                      <orgName>Haignet und Freneau</orgName>
@@ -7492,7 +7490,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Moser und Ernst</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__827">Straßwalchen</placeName>
-                     </location>
+                     <geo>47.97944444444445 13.255277777777778</geo></location>
                   </org>
                 <org xml:id="wkfm__47914">
                      <orgName>Löschenkohl und Dallensteiner</orgName>
@@ -7534,7 +7532,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      </location>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__570">Oberhollabrunn</placeName>
-                     </location>
+                     <geo>48.55 16.083333333333332</geo></location>
                   </org>
                 <org xml:id="wkfm__47922">
                      <orgName>Warnberger und Mayr</orgName>
@@ -7552,7 +7550,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Johann Schweikhard Pürkl sel. Söhne</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__690">Regensburg</placeName>
-                     </location>
+                     <geo>49.015 12.101388888888888</geo></location>
                   </org>
                 <org xml:id="wkfm__47925">
                      <orgName>Verget und Meinberger</orgName>
@@ -7564,7 +7562,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Johann Kaspar Fries und Johann Konrad Fries</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__983">Zürich</placeName>
-                     </location>
+                     <geo>47.36666666666667 8.55</geo></location>
                   </org>
                 <org xml:id="wkfm__47927">
                      <orgName>Georg Pock &amp; Co.</orgName>
@@ -7576,7 +7574,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Kaspar Schulz und Kaspar Herzog</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__962">Wünschelburg</placeName>
-                     </location>
+                     <geo>50.50416666666667 16.400555555555552</geo></location>
                   </org>
                 <org xml:id="wkfm__47929">
                      <orgName>Zacharias Kriner &amp; Co.</orgName>
@@ -7633,16 +7631,16 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Johann Jakob Albrecht Schobinger und Johann Kaspar Zili</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__792">St. Gallen</placeName>
-                     </location>
+                     <geo>47.42388888888889 9.374722222222223</geo></location>
                   </org>
                 <org xml:id="wkfm__47939">
                      <orgName>Johann Siebenhaar und Georg Siebenhaar</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__418">Landeshut</placeName>
-                     </location>
+                     <geo>50.783055555555556 16.030277777777776</geo></location>
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__752">Schmiedeberg</placeName>
-                     </location>
+                     <geo>50.793055555555554 15.835555555555556</geo></location>
                   </org>
                 <org xml:id="wkfm__47941">
                      <orgName>Manfrezani und Peterzoll</orgName>
@@ -7675,7 +7673,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Silvester Pino sel. Witwe und Erben</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__840">Teschen</placeName>
-                     </location>
+                     <geo>49.75111111111111 18.631944444444446</geo></location>
                   </org>
                 <org xml:id="wkfm__47952">
                      <orgName>Wendenzweig &amp; Co.</orgName>
@@ -7741,7 +7739,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Weißgärber &amp; Co.</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__564">Nixdorf</placeName>
-                     </location>
+                     <geo>50.965 14.36361111111111</geo></location>
                   </org>
                 <org xml:id="wkfm__47969">
                      <orgName>Wildenser und Posquet</orgName>
@@ -7780,7 +7778,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Dominico Della Seda und Alberto Della Seda</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__874">Venedig</placeName>
-                     </location>
+                     <geo>45.43694444444444 12.3325</geo></location>
                   </org>
                 <org xml:id="wkfm__47984">
                      <orgName>Kaspar Mayr und Georg Mayr</orgName>
@@ -7831,13 +7829,13 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Wolf Mahlknecht &amp; Co.</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__75">Braunau (am Inn)</placeName>
-                     </location>
+                     <geo>48.25611111111111 13.043333333333333</geo></location>
                   </org>
                 <org xml:id="wkfm__47998">
                      <orgName>Samuel Parofsky und Heinrich Plagezky</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__855">Trebitsch</placeName>
-                     </location>
+                     <geo>49.21472222222223 15.881666666666668</geo></location>
                   </org>
                 <org xml:id="wkfm__47999">
                      <orgName>Niklas Wollwein sel. Sohn</orgName>
@@ -7921,7 +7919,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Leonhardt Scharer, Georg Zaller und Elexius Ecker</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__40">Augsburg</placeName>
-                     </location>
+                     <geo>48.37138888888889 10.898333333333333</geo></location>
                   </org>
                 <org xml:id="wkfm__48026">
                      <orgName>Marin Scheunäst sel. Erben</orgName>
@@ -7933,7 +7931,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Ludwig Meyer und Gottfried Zauner</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__706">Ried</placeName>
-                     </location>
+                     <geo>48.211111111111116 13.488333333333333</geo></location>
                   </org>
                 <org xml:id="wkfm__48031">
                      <orgName>Heinrich Olivet &amp; Co.</orgName>
@@ -7951,13 +7949,13 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Löwl Hirschl und Gespan</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__404">Mährisch Kromau</placeName>
-                     </location>
+                     <geo>49.04888888888889 16.311666666666667</geo></location>
                   </org>
                 <org xml:id="wkfm__48036">
                      <orgName>Jakob Löwl und Gespan</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__657">Proßnitz</placeName>
-                     </location>
+                     <geo>49.47166666666667 17.111666666666668</geo></location>
                   </org>
                 <org xml:id="wkfm__48037">
                      <orgName>Georg Schlosser und Daniel Müllner</orgName>
@@ -8011,7 +8009,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Johann Fuchs sel. Erben</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__597">Passau</placeName>
-                     </location>
+                     <geo>48.56638888888889 13.431111111111111</geo></location>
                   </org>
                 <org xml:id="wkfm__48059">
                      <orgName>Melßheimer und Gill</orgName>
@@ -8023,7 +8021,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Johann Wilhelm Pögl sel. Witwe</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__926">Wiener Neustadt</placeName>
-                     </location>
+                     <geo>47.80472222222222 16.231944444444444</geo></location>
                   </org>
                 <org xml:id="wkfm__48061">
                      <orgName>Johann Ferdinand Paur sel. Witwe</orgName>
@@ -8035,7 +8033,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Balthasar Vogl und Gespan</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__249">Groß Ullersdorf</placeName>
-                     </location>
+                     <geo>50.03194444444444 17.040555555555557</geo></location>
                   </org>
                 <org xml:id="wkfm__48063">
                      <orgName>Manfre Zuana sel. Erben</orgName>
@@ -8047,37 +8045,37 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Georg Illing und Gottfried Gruner</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__26">Annaberg(-Buchholz)</placeName>
-                     </location>
+                     <geo>51.54694444444444 6.586944444444444</geo></location>
                   </org>
                 <org xml:id="wkfm__48065">
                      <orgName>Zacharias Kriner und Schmidt</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__566">Nürnberg</placeName>
-                     </location>
+                     <geo>49.45416666666667 11.0775</geo></location>
                   </org>
                 <org xml:id="wkfm__48066">
                      <orgName>Speck und Ullich</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__93">Chemnitz</placeName>
-                     </location>
+                     <geo>50.83555555555556 12.929166666666665</geo></location>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__167">Frankenberg</placeName>
-                     </location>
+                     <geo>50.91277777777778 13.04</geo></location>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__441">Leipzig</placeName>
-                     </location>
+                     <geo>51.339444444444446 12.371111111111112</geo></location>
                   </org>
                 <org xml:id="wkfm__48067">
                      <orgName>Florentin und Tausch</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__333">Innsbruck</placeName>
-                     </location>
+                     <geo>47.2625 11.394444444444444</geo></location>
                   </org>
                 <org xml:id="wkfm__48068">
                      <orgName>Zacharias Gretzl sel. Witwe</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__546">Neuhaus (Böhmen)</placeName>
-                     </location>
+                     <geo>49.14388888888889 15.002777777777778</geo></location>
                   </org>
                 <org xml:id="wkfm__48069">
                      <orgName>Paur und Gabelier</orgName>
@@ -8089,25 +8087,25 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Orlando und Zondonati</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__163">Fiume</placeName>
-                     </location>
+                     <geo>45.32666666666667 14.442222222222222</geo></location>
                   </org>
                 <org xml:id="wkfm__48072">
                      <orgName>Johann Michael Wolf sel. Witwe</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__800">St. Pölten</placeName>
-                     </location>
+                     <geo>48.2 15.633333333333333</geo></location>
                   </org>
                 <org xml:id="wkfm__48073">
                      <orgName>Johann Jäckisch und Adam Sailer</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__314">Hollabrunn</placeName>
-                     </location>
+                     <geo>48.55 16.083333333333332</geo></location>
                   </org>
                 <org xml:id="wkfm__48079">
                      <orgName>Elias Georgio sel. Erben</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__581">Olmütz</placeName>
-                     </location>
+                     <geo>49.59527777777778 17.251666666666665</geo></location>
                   </org>
                 <org xml:id="wkfm__48080">
                      <orgName>Kueffartische Erben und Molterer</orgName>
@@ -8137,25 +8135,25 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Johann Georg Mitterer sel. Witwe</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__887">Waidhofen an der Ybbs</placeName>
-                     </location>
+                     <geo>47.96 14.773611111111112</geo></location>
                   </org>
                 <org xml:id="wkfm__48085">
                      <orgName>Andre Trunzer und Gespan</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__245">Gerungs</placeName>
-                     </location>
+                     <geo>48.57416666666667 14.957777777777777</geo></location>
                   </org>
                 <org xml:id="wkfm__48086">
                      <orgName>Johann Georg Köck und Gespan</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__980">Zöbing</placeName>
-                     </location>
+                     <geo>48.483333333333334 15.683333333333334</geo></location>
                   </org>
                 <org xml:id="wkfm__48087">
                      <orgName>Andre Fromwald sel. Witwe</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__960">Wullersdorf</placeName>
-                     </location>
+                     <geo>48.62777777777778 16.100833333333334</geo></location>
                   </org>
                 <org xml:id="wkfm__48088">
                      <orgName>Fossato und Borgin</orgName>
@@ -8173,19 +8171,19 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Leonhard Moser sel. Witwe</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__647">Prag</placeName>
-                     </location>
+                     <geo>50.08777777777778 14.420555555555556</geo></location>
                   </org>
                 <org xml:id="wkfm__48091">
                      <orgName>Ignaz Näzer sel. Witwe</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__101">Datschitz</placeName>
-                     </location>
+                     <geo>49.081388888888895 15.437222222222223</geo></location>
                   </org>
                 <org xml:id="wkfm__48092">
                      <orgName>Michael Würfl sel. Witwe</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__563">Nikolsburg</placeName>
-                     </location>
+                     <geo>48.80555555555555 16.637777777777778</geo></location>
                   </org>
                 <org xml:id="wkfm__48093">
                      <orgName>Johann Michael Gedon und Gespan</orgName>
@@ -8197,7 +8195,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Wilhelm Orsetti, Zacherla, Bottini &amp; Co.</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__400">Krakau</placeName>
-                     </location>
+                     <geo>50.061388888888885 19.93638888888889</geo></location>
                   </org>
                 <org xml:id="wkfm__48096">
                      <orgName>Martin Grienseisen sel. Witwe</orgName>
@@ -8209,7 +8207,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Wolf Koller sel. Erben</orgName>
                      <location type="located_in_place" n="unklar">
                         <placeName key="wkfm-place__376">Kirchdorf (an der Krems)</placeName>
-                     </location>
+                     <geo>47.90555555555555 14.122222222222224</geo></location>
                      <location type="located_in_place" n="unklar">
                         <placeName key="wkfm-place__816">Steyr</placeName>
                      </location>
@@ -8218,7 +8216,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Courtet und Abrie</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__144">Erlangen</placeName>
-                     </location>
+                     <geo>49.590833333333336 11.007777777777777</geo></location>
                   </org>
                 <org xml:id="wkfm__48099">
                      <orgName>Christian Puzer und Gespan</orgName>
@@ -8236,13 +8234,13 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Matthias Hölzl sel. Erben</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__401">Krems</placeName>
-                     </location>
+                     <geo>48.409166666666664 15.613888888888889</geo></location>
                   </org>
                 <org xml:id="wkfm__48102">
                      <orgName>Balthasar Läck und Gespan</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__224">Goldenstein</placeName>
-                     </location>
+                     <geo>50.153055555555554 17.011388888888888</geo></location>
                   </org>
                 <org xml:id="wkfm__48103">
                      <orgName>Jeremias Gämauff und Gespan</orgName>
@@ -8254,13 +8252,13 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Zacharias Joseph Deitmayr sel. Witwe</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__745">Scheibbs</placeName>
-                     </location>
+                     <geo>48.00472222222222 15.168055555555554</geo></location>
                   </org>
                 <org xml:id="wkfm__48106">
                      <orgName>Peter Schwalli und Paul Schwalli</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__819">Stockerau</placeName>
-                     </location>
+                     <geo>48.38333333333333 16.216666666666665</geo></location>
                   </org>
                 <org xml:id="wkfm__48107">
                      <orgName>Matthias Pautisch und Gespan</orgName>
@@ -8278,19 +8276,19 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Franz Ertl sel. Witwe</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__985">Zwettl (Niederösterreich)</placeName>
-                     </location>
+                     <geo>48.60722222222223 15.166944444444443</geo></location>
                   </org>
                 <org xml:id="wkfm__48110">
                      <orgName>Replinski und Weillandt</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__858">Troppau</placeName>
-                     </location>
+                     <geo>49.93861111111111 17.9025</geo></location>
                   </org>
                 <org xml:id="wkfm__48111">
                      <orgName>Martin Strobl &amp; Co.</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__79">Brünn</placeName>
-                     </location>
+                     <geo>49.19499999999999 16.60777777777778</geo></location>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__813">Sterzing</placeName>
                      </location>
@@ -8299,19 +8297,19 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Elias Berndonner sel. Witwe</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__661">Pulkau</placeName>
-                     </location>
+                     <geo>48.70944444444445 15.86</geo></location>
                   </org>
                 <org xml:id="wkfm__48116">
                      <orgName>Steyrer Eisenkompanie</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__816">Steyr</placeName>
-                     </location>
+                     <geo>48.0425 14.421111111111111</geo></location>
                   </org>
                 <org xml:id="wkfm__48117">
                      <orgName>Matthias Kropfberger und Thomas Wagner</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__965">Ybbsitz</placeName>
-                     </location>
+                     <geo>47.947222222222216 14.891666666666666</geo></location>
                   </org>
                 <org xml:id="wkfm__48118">
                      <orgName>Bartholomäus Strobl &amp; Co.</orgName>
@@ -8323,7 +8321,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Stephan Knoll &amp; Co.</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__925">Wien</placeName>
-                     </location>
+                     <geo>48.208333333333336 16.371944444444445</geo></location>
                   </org>
                 <org xml:id="wkfm__48121">
                      <orgName>Georg Wilhelm Pellham sel. Witwe</orgName>
@@ -8335,19 +8333,19 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Georg Matthias Strasser sel. Witwe</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__809">Steinbach (an der Steyr)</placeName>
-                     </location>
+                     <geo>47.970555555555556 14.269166666666667</geo></location>
                   </org>
                 <org xml:id="wkfm__48123">
                      <orgName>Wolf Stephan Gsellhofer sel. Witwe und Samuel Goßke</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__77">Breslau</placeName>
-                     </location>
+                     <geo>51.1 17.033333333333335</geo></location>
                   </org>
                 <org xml:id="wkfm__48124">
                      <orgName>Johann Laiminger und Martin Laiminger</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__273">Hallein</placeName>
-                     </location>
+                     <geo>47.68333333333333 13.1</geo></location>
                   </org>
                 <org xml:id="wkfm__48126">
                      <orgName>Leopold Prändl und Gespan</orgName>
@@ -8359,31 +8357,31 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Simon Zöhrer sel. Witwe</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__143">Enns</placeName>
-                     </location>
+                     <geo>48.21333333333334 14.476111111111111</geo></location>
                   </org>
                 <org xml:id="wkfm__48131">
                      <orgName>Stephan Gevatter und Ferdinand Sigmundt</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__861">Tulln</placeName>
-                     </location>
+                     <geo>48.32805555555556 16.058333333333334</geo></location>
                   </org>
                 <org xml:id="wkfm__48132">
                      <orgName>Johann Andre Feyrtag sel. Witwe</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__326">Iglau</placeName>
-                     </location>
+                     <geo>49.395833333333336 15.591111111111111</geo></location>
                   </org>
                 <org xml:id="wkfm__48133">
                      <orgName>Elias Näzer sel. Witwe</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__977">Zlabings</placeName>
-                     </location>
+                     <geo>48.9975 15.351388888888888</geo></location>
                   </org>
                 <org xml:id="wkfm__48134">
                      <orgName>Dominikus Kaufmann sel. Erben</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__735">Salzburg</placeName>
-                     </location>
+                     <geo>47.799166666666665 13.043888888888889</geo></location>
                   </org>
                 <org xml:id="wkfm__48135">
                      <orgName>Melchior Liebhardt &amp; Co.</orgName>
@@ -8395,25 +8393,25 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Bartholomäus Strobl, Weiß &amp; Co.</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__813">Sterzing</placeName>
-                     </location>
+                     <geo>46.893055555555556 11.429444444444444</geo></location>
                   </org>
                 <org xml:id="wkfm__48137">
                      <orgName>Johann Michael Grueber und Ignaz Grußmayr</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__319">Horn</placeName>
-                     </location>
+                     <geo>48.6625 15.65638888888889</geo></location>
                   </org>
                 <org xml:id="wkfm__48139">
                      <orgName>Franz Meyr und Gespan</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__423">Langenlois</placeName>
-                     </location>
+                     <geo>48.46666666666667 15.666666666666666</geo></location>
                   </org>
                 <org xml:id="wkfm__48142">
                      <orgName>Niklas Seidl und Gespan</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__296">Herzogenburg</placeName>
-                     </location>
+                     <geo>48.28111111111111 15.694166666666668</geo></location>
                   </org>
                 <org xml:id="wkfm__48143">
                      <orgName>Franz Lisson und Gespan</orgName>
@@ -8425,25 +8423,25 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <orgName>Leopold Promberger und Gespan</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__934">Wilhelmsburg</placeName>
-                     </location>
+                     <geo>48.09666666666667 15.612499999999999</geo></location>
                   </org>
                 <org xml:id="wkfm__48145">
                      <orgName>Ferdinand Jas und Gespan</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__265">Hadersdorf</placeName>
-                     </location>
+                     <geo>48.45 15.716666666666667</geo></location>
                   </org>
                 <org xml:id="wkfm__48146">
                      <orgName>Johann Pfeiffer und Gespan</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__537">Nachod</placeName>
-                     </location>
+                     <geo>50.416666666666664 16.162777777777777</geo></location>
                   </org>
                 <org xml:id="wkfm__48147">
                      <orgName>Franz Schaccomo und Gespan</orgName>
                      <location type="located_in_place" n="Herkunft-Krems">
                         <placeName key="wkfm-place__991">Savoyen</placeName>
-                     </location>
+                     <geo>45.4 6.5</geo></location>
                   </org>
                 <org xml:id="wkfm__48149">
                      <orgName>Johann Pursch und Ambros Paur</orgName>
