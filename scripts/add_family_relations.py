@@ -16,14 +16,19 @@ for key, value in data.items():
     verwandt = value["verwandtschaft"]
     if isinstance(verwandt, dict):
         for rel_key, rel_value in verwandt.items():
-            node = ET.Element("{http://www.tei-c.org/ns/1.0}relation")
-            node.attrib["name"] = rel_value["verwandtschaftsverhaeltnis"]
-            node.attrib["active"] = f"{prefix}{source}"
-            node.attrib["passiv"] = f'{prefix}{rel_value["person_id"]}'
-            node.attrib["n"] = (
-                f'{source_name} — {rel_value["verwandtschaftsverhaeltnis"]} — {rel_value["person_name"]}'
-            )
-            listrelation.append(node)
+            target_id = str(rel_value["person_id"])
+            if target_id.startswith("<NA"):
+                print("HALLO")
+                continue
+            else:
+                node = ET.Element("{http://www.tei-c.org/ns/1.0}relation")
+                node.attrib["name"] = rel_value["verwandtschaftsverhaeltnis"]
+                node.attrib["active"] = f"{prefix}{source}"
+                node.attrib["passiv"] = f'{prefix}{rel_value["person_id"]}'
+                node.attrib["n"] = (
+                    f'{source_name} — {rel_value["verwandtschaftsverhaeltnis"]} — {rel_value["person_name"]}'
+                )
+                listrelation.append(node)
 
 doc = TeiReader(LISTPERSON)
 for bad in doc.any_xpath(".//tei:listRelation"):
