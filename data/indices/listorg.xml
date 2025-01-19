@@ -33,7 +33,7 @@
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when="2025-01-12">2025-01-12</date>
+            <date when="2025-01-19">2025-01-19</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2025-01-12">template populated with script "create_listorg.py"</change>
+         <change who="pandorfer" when="2025-01-19">template populated with script "create_listorg.py"</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -579,7 +579,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      <geo>48.208333333333336 16.371944444444445</geo></location>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__43854">Orset, Niklas Michael</persName></person><person><persName key="#wkfm__15430">Orset, Johann</persName></person></listPerson></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__15430">Orset, Johann</persName></person><person><persName key="#wkfm__43854">Orset, Niklas Michael</persName></person></listPerson></org>
                 <org xml:id="wkfm__17566">
                      <orgName>Martin und Raffeseder</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
@@ -972,7 +972,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      <geo>48.208333333333336 16.371944444444445</geo></location>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__8591">Amadei, Herculiano Kilian</persName></person><person><persName key="#wkfm__43783">Spätl, Melchior</persName></person></listPerson></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__43783">Spätl, Melchior</persName></person><person><persName key="#wkfm__8591">Amadei, Herculiano Kilian</persName></person></listPerson></org>
                 <org xml:id="wkfm__30766">
                      <orgName>Vinzenz Joanelli und Benedikt Joanelli</orgName>
                   </org>
@@ -1368,7 +1368,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      <geo>48.208333333333336 16.371944444444445</geo></location>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__44015">Barbieri, Ignaz</persName></person><person><persName key="#wkfm__44012">Barbieri, Anton</persName></person></listPerson></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__44012">Barbieri, Anton</persName></person><person><persName key="#wkfm__44015">Barbieri, Ignaz</persName></person></listPerson></org>
                 <org xml:id="wkfm__44048">
                      <orgName>Zacharias Kriner, Schmidt &amp; Co.</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
@@ -4689,7 +4689,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      <geo>48.208333333333336 16.371944444444445</geo></location>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__41599">Togniola, Johann Peter</persName></person><person><persName key="#wkfm__46108">Kircher, Joseph</persName></person></listPerson></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__46108">Kircher, Joseph</persName></person><person><persName key="#wkfm__41599">Togniola, Johann Peter</persName></person></listPerson></org>
                 <org xml:id="wkfm__47208">
                      <orgName>Karl Joseph Krazer</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
@@ -5871,7 +5871,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      <geo>48.208333333333336 16.371944444444445</geo></location>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__8439">Stass, Lorenz Laurent Laurenz</persName></person></listPerson></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__8439">Stass, Lorenz Laurenz Laurent</persName></person></listPerson></org>
                 <org xml:id="wkfm__47435">
                      <orgName>Maria Magdalena Stockhammerin</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
