@@ -65,6 +65,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 12290,4417,,,Fingerlin und Brandhofer,pi,,Handelshaus,,,,,2,,,2,kif,Firmen (ab Januar 2016) 
 12321,4448,,,Fuchs und Leypold,pi,,,,,"1729, 1730, 1733",267,1 2,,,2,kif,Firmen (ab Januar 2016) 
 12421,4549,,,Isenflamm und Küner,pi,,Handelshaus,,,,,2 3,,,2,kif,Firmen (ab Januar 2016) 
+12460,4589,,,Passy und Decret,pi,,,,,,,2,,,2,kif,Firmen (ab Januar 2016) 
 12698,4838,,,"Michael Schick sel. Erben, Johann Michael Schick sel. Erben",pi,,Handelshaus,,,,,2 3,,,2,kif,Firmen (ab Januar 2016) 
 12708,4848,,,Sebastian Vetter sel. Erben,pi,,Tuchhandlung,,,,,2 3,,,2,kif,Firmen (ab Januar 2016) 
 12787,4929,,,Bartholomäi & Sohn,pi,,,,,,,2,,,2,kif,Firmen (ab Januar 2016) 
@@ -523,7 +524,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 46649,,,,Johann Sebastian Orban,pi,,Handelshaus,,,,,3,,,2,kif,Firmen (ab Januar 2016) 
 46650,,,,Joseph Christoph Naller,pi,,Handelshaus,,,,,3,,,2,kif,Firmen (ab Januar 2016) 
 46651,,,,Christoph Jakob Nickl (Niggl) sel. Witwe,pi,,Handelshaus,,,,,3,,,2,kif,Firmen (ab Januar 2016) 
-46653,,,,Dominicus de S. Nicola,pi,,Handelshaus,,,,,3,,,2,kif,Firmen (ab Januar 2016) 
+46653,,,,Dominicus de S. Nicolo,pi,,Handelshaus,,,,,3,,,2,kif,Firmen (ab Januar 2016) 
 46654,,,,Wolf Karl von Nideröst (Nedorost),pi,,Handelshaus,,,,,3,,,2,kif,Firmen (ab Januar 2016) 
 46655,,,,Alexander Niller,pi,,Handelshaus,,,,,3,,,2,kif,Firmen (ab Januar 2016) 
 46657,,,,Anton Albrecht Naubig,pi,,Handelshaus,,,,,3,,,2,kif,Firmen (ab Januar 2016) 
@@ -535,7 +536,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 46666,,,,Matthias Neuhauser sel. Witwe und Sohn,pi,,Handelshaus,,,,,3,,,2,kif,Firmen (ab Januar 2016) 
 46667,,,,"Joachim Negri, Gioacchino Negri",pi,,Handelshaus,,,,,3,,,2,kif,Firmen (ab Januar 2016) 
 46669,,,,Sebastian Peter Naperth,pi,,Handelshaus,,,,,3,,,2,kif,Firmen (ab Januar 2016) 
-46672,,,,Johann de S. Nicola,pi,,Handelshaus,,,,,3,,,2,kif,Firmen (ab Januar 2016) 
+46672,,,,Johann de S. Nicolo,pi,,Handelshaus,,,,,3,,,2,kif,Firmen (ab Januar 2016) 
 46675,,,,Wolf Anton Nägerl,pi,,Handelshaus,,,,,3,,,2,kif,Firmen (ab Januar 2016) 
 46678,,,,Johann Zacharias Rohrwürth,pi,,Handelshaus,,,,,3,,,2,kif,Firmen (ab Januar 2016) 
 46679,,,,Johann Friedrich Rottmann,pi,,Handelshaus,,,,,3,,,2,kif,Firmen (ab Januar 2016) 
@@ -2697,8 +2698,8 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 48409,,,,1 Jude,pn,1,,,,1660,,1,1,Jüdisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 279,27400,Bergin,Jakob,,pi,1,Handelsmann,,,1711,,1 2 3,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 460,,Cedroni,Peter,,pi,1,,,,1694,,1,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
-484,4551,Cleas,Anton,,pi,1,Handelsmann,1665?,1729,"1694, 1699",,1 2 3,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
-626,582,de S. Nicola,Dominicus,,pi,1,Handelsmann,10.01.1680,05.1734,"1720, 1729, 1730, 1733",,1 2 3,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+484,4551,Cleas,Anton,,pi,1,Handelsmann,Ca. 1665,26.04.1729,"1694, 1699",,1 2 3,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+626,582,de S. Nicolo,Dominicus,,pi,1,Handelsmann,10.01.1680,05.1734,"1720, 1729, 1730, 1733",,1 2 3,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 628,,Debelack,Andre,,pi,1,Färber,um 1664,ca. 17.02.1734,1699,,1,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 633,28002,Dehner,Georg,,pi,1,Kürschner,,,"1710, 1720",,1 2,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 638,6993,Deiß,Ulrich Anton,,pi,1,Handelsmann,,,1720,,1 2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -2707,6 +2708,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 870,,Eder,Christoph,,pi,1,Handelsmann,,,"1710, 1711",,1,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 1115,35,Feroni,Johann Baptist,,pi,1,Handelsmann,Ca. 1685,12.1731,"1720, 1726, 1729, 1730",,1 2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 1118,388,Förschl,Joseph,,pi,1,Handelsmann,Ca. 1685,11.1755,1720,,1 2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+1279,,Fraunberger,Thomas,,pi,1,,,,1720,,1,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 1321,7934,Friedrich,Elias,,pi,1,Handelsmann,,,1726,,1 2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 1411,64,Fuchs,Joseph Karl,,pi,1,"Handelsmann, Materialist",Ca. 1681,07.1747,"1692, 1694, 1699",,1 2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 1511,4267,Jenamy,Joseph,,pi,1,Handelsmann,1686,1740,"1710, 1720, 1726",,1 2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -2742,7 +2744,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 5384,,Pust,Johann,,pi,1,Gürtlermeister,,,1647,,1,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 5498,,Regita,Lukas,,pi,1,,,,1627,,1,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 5547,,Reisinger,Johann Jakob,,pi,1,Tuchhändler,,1742,1710,,1,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
-5563,227,Resch,Johann Friedrich,,pi,1,Handelsmann,,,1699,,2 1 4 3,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+5563,227,Resch,Johann Friedrich,,pi,1,Handelsmann,,,1699,,1 2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 5593,27678,Richter,Matthias Joseph,,pi,1,,,,1706,,2 1,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 5636,755,Rigotti,Hieronymus,,pi,1,Handelsmann,,1769,"1736, 1737",,1 2 3,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 5853,,Sandtner,Franz,,pi,1,Handelsmann,,,1694,,1,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -2759,7 +2761,11 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 7269,145,Weiss,Johann Jakob,,pi,1,Handelsmann,28.06.1668,06.1734,1710,,1 2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 7310,,Wendlerin,Eva Maria,,pi,2,Kauffrau,,,1710,,1,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 7421,,Wimber,Franz Gottlieb,,pi,1,Handelsmann,,,1720,,1,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+7469,,Wißhey,Johann Adam,,pi,1,,,,"1692, 1694, 1699, 1701, 1706, 1711, 1720",,1,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 7607,305,Zacher,Johann,,pi,1,Handelsmann,01.1683,04.1734,1720,,1 2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+7659,,Zernotter,Johann Franz,,pi,1,,,,1710,,1,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+7660,,Zernotter,Franz,,pi,1,,,,1699,,1,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+7661,127,Zernotter,Johann Christoph,,pi,1,,,,1710,,1 2,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 7775,,Zwilling,Franz,,pi,1,,09.08.1689,13.07.1769,1733,,1,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 7776,79,Zwilling,Veit,,pi,1,Handelsmann,,,"1729, 1733, 1737",,1 2,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8008,,Gerometti,Dominicus Franz,,pi,1,,,,"1710, 1711",,1,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -2773,8 +2779,8 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 8109,58,Niller,Johann Michael,,pi,1,Handelsmann,Ca. 1695,17.12.1780,,,2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8116,65,Beham,Matthias,,pi,1,Handelsmann,,,,,2 3,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8119,68,Saliet,Johann Niklas,,pi,1,,,1757,,,2,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+8132,81,Prunner,Johann Adam,,pi,1,Handelsmann,22.06.1672,07.02.1734,,,2,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8168,119,Dellmor,Franz,,pi,1,Handelsmann,Ca. 1710,06.1771,,,2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
-8174,127,Zernotter,Johann Christoph,,pi,1,,,,,,2,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8186,139,Höcksteiner,Joseph,,pi,1,"Handelsmann, Materialist",Ca. 1678,05.1737,,,2 3,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8188,141,Visconti,Ludwig Anton,,pi,1,Handelsmann,Ca. 1686,18.05.1755,,,2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8191,146,Andre,Lorenz,,pi,1,"Tuchhändler, Tuchlaubenverwandter",,,,,2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -2792,9 +2798,9 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 8367,344,Schedlberger,Paul,,pi,1,,,,,,2,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8400,378,Lenz,Reichard,,pi,1,,,,,,2,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8405,383,Munier,Michael,,pi,1,Handelsmann,Ca. 1678,03.1750,,,2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
-8411,389,Vanossi,Dominicus,,pi,1,"Prokurist des Anton Cerletti, Handelsmann",,06.08.1768,,,2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+8411,389,Vanossi,Dominicus,,pi,1,"Prokurist des Anton Cerletti, Handelsmann",Ca. 1701,06.08.1768,,,2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8412,390,Prunner,Georg,,pi,1,"Handelsmann, Wechsler",,,,,2 3,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
-8418,396,Strauß,Tobias,,pi,1,Handelsmann,,1757,,,2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+8418,396,Strauß,Tobias,,pi,1,Handelsmann,Ca. 1675,18.08.1754,,,2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8419,397,Moser,Georg,,pi,1,Handelsmann,Ca. 1678,30.12.1736,,,2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8421,399,Geramb,Franz Anton,,pi,1,Handelsmann,Ca. 1691,12.1770,,,2 3,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8423,401,Bidermann,Matthias,,pi,1,Handelsmann,,,,,2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -2832,7 +2838,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 8771,9749,Eggendorfer,Franz,,pi,1,Handelsmann,,,,,2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8799,799,Carignani,Pompeo,,pi,1,"Handelsmann, Prokurist des Joseph Bolza",,,,,2 3,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8801,801,Fries,Anton,,pi,1,Handelsmann,,,,,2 3,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
-8802,802,Setti,Lukas Joseph,,pi,1,Handelsmann,,1763,,,2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+8802,802,Setti,Lukas Joseph,,pi,1,Handelsmann,Ca. 1684,05.1763,,,2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8811,811,Le Comte,Peter,,pi,1,Handelsmann,,,,,2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8812,812,Maiz,Johann Michael,,pi,1,Handelsmann,,,,,2 3,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8813,813,Damian,Johann Jakob,,pi,1,Handelsmann,,1730,,,2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -2919,7 +2925,8 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 10559,2622,Bergin,Joseph,,pi,1,Handelsmann,,1738,,,2 3,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 10574,2639,Samuelli,Johann Anton,,pi,1,Handelsmann,,,,,2 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 10599,2666,Weidinger,Simon,,pi,1,Handelsmann,,1747,,,2 3,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
-10600,2667,Härtl,Norbert,,pi,1,Handelsmann,,,,,2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+10600,2667,Härtl,Norbert,,pi,1,Handelsmann,,06.1748,,,2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+10628,2695,von Radiff,Johann Baptist,,pi,1,,,,,,2,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 10641,2709,Moser,Karl Joseph,,pi,1,Handelsmann,,,,,2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 10643,2711,Schwanner,Martin,,pi,1,Handelsmann,Ca. 1667,26.11.1747,,,2 3,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 10645,2713,Wohlgut,Matthias,,pi,1,Handelsmann,,1722/23,,,2,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -2938,6 +2945,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 11264,3355,Gengl,Johann Georg,,pi,1,Handelsmann,Ca. 1676,18.03.1732,,,2 3,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 11356,3450,Unger,Matthias,,pi,1,,,1750,,,2,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 11358,3452,Courtin,Leopold,,pi,1,Handelsmann,,,,,2,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+11368,3462,Strasser,Ernst,,pi,1,,,,,,2,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 11516,3618,Lehrpaumer,Matthias,,pi,1,Handelsmann,,1721,,,2,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 11538,32748,Lenz,Michael,,pi,1,,,,,,2,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 11689,3795,Bassardi,Karl,,pi,1,Handelsmann,,,,,2,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -3006,6 +3014,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 16042,8303,Bandian,Johann Georg,,pi,1,Handelsmann,,1724,,,2,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 16050,8311,,,1 Kapuzinerprovinzial,pn,1,,,,,,2,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 16200,8465,Pacher,Georg,,pi,1,,,,,,2,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+16216,8482,Plaz,Bartholomäus,,pi,1,,,,,,2,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 16312,8586,Burger,Franz,,pi,1,,,,,,2,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 16482,8766,Schick,Cornelius Daniel,,pi,1,Handelsmann,,1748,,,2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 16488,14801,Schreyer,Franz Adam,,pi,1,Handelsmann,,1780,,,2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -3032,7 +3041,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 18243,10672,Höfler,Niklas,,pi,1,Handelsmann,,,,,2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 18270,10702,Strempfl,Johann Georg,,pi,1,Handelsmann,,,,,2 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 18378,10821,Edlmann,Franz,,pi,1,,,,,,2,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
-18406,19604,de S. Nicola,Johann,,pi,1,"Handelsmann, Prokurist bei Dominicus de S. Nicola",1691,02.1764,,,2 3,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+18406,19604,de S. Nicolo,Johann,,pi,1,"Handelsmann, Prokurist bei Dominicus de S. Nicola",1691,02.1764,,,2 3,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 18440,10892,Aichinger,Johann,,pi,1,Schiffmeister,,,,,2,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 18443,10895,Kalbenhuber,Georg,,pi,1,,,,,,2,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 18459,10916,Kalbenhofer,Johann,,pi,1,,,,,,2,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -3076,7 +3085,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 22215,15002,Grimaldi,,,pn,1,,,,,,2,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 22232,15021,Doria,Klemens,,pi,1,,,,,,2,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 22393,15197,von Gotteschnig,Wenzel Franz,,pi,1,Handelsmann,,,,,2 3,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
-22433,15245,Vanossi,Matthias,,pi,1,Handelsmann,,1722,,,2,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+22433,15245,Vanossi,Matthias,,pi,1,Handelsmann,Ca. 1687,12.09.1722,,,2,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 22485,15298,Piller,Matthias,,pi,1,Handelsmann,,,,,2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 22544,15366,Rögler,Franz Zacharias,,pi,1,Handelsmann,,1757,,,2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 22573,15396,Schedlberger,Paul,,pi,1,,,,,,2,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -3134,6 +3143,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 26262,19409,Veth,Johann Theodor,,pi,1,Tuchhändler,,1753,,,2,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 26303,20863,Sartori,Johann Georg,,pi,1,Handelsmann,,1770,,,2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 26325,19475,Negri,Joachim,,pi,1,Handelsmann,,08.1743,,,2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+26327,19477,Setti,Franz,,pi,1,Handelsmann,,1777,,,2 3,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 26346,19497,Zeillner,Joseph Karl,,pi,1,Handelsmann,,,,,2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 26956,20168,Kalhuber,Bartholomäus,,pi,1,,,,,,2,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 26963,20175,Auer,Ferdinand,,pi,1,Handelsmann,,,,,2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -3204,6 +3214,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 36435,30724,Decker,Johann Georg,,pi,1,,,1732,,,2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 36452,30742,Wolf,Johann Anton,,pi,1,Eisenhändler,,,,,2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 36461,30751,Kalbenhuber,Matthias,,pi,1,,,,,,2,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+36524,30816,Wührer,Leopold,,pi,1,,,,,,2,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 36606,30902,Diewald,Johann Georg,,pi,1,Handelsmann,,1748,,,2 3,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 36936,31243,Schadt,Veit Joseph,,pi,1,Handelsmann,,,,,2 3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 36967,31276,Burgermeister,Jakob,,pi,1,,,,,,2,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -3637,7 +3648,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 47293,,,,Matthias Beham sel. Witwe,pn,2,Handelsfrau,,,,,3,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 47306,,Bittoni,Joseph,,pi,1,Handelsmann,,,,,3,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 47327,,Pöck,Johann Michael,,pi,1,Handelsmann,,,,,3,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
-47366,,Preisinger,Leopold,,pi,1,Leinwandhändler,10.1708,1764?,,,3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+47366,,Preisinger,Leopold,,pi,1,Leinwandhändler,10.1708,10.1767,,,3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 47370,,Perger,Johann Anton,,pi,1,Handelsmann,,,,,3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 47405,,Vincent,Peter,,pi,1,Handelsmann,,1744,,,3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 47406,,Saliet,Joseph Niklas,,pi,1,Handelsmann,,,,,3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -3687,7 +3698,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 47574,,Scharnagl,Joseph,,pi,1,Handelsmann,,,,,3 4,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 47576,,Schwarzleithner,Franz,,pi,1,Handelsmann,,,,,3,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 47577,,Simmerl,Johann,,pi,1,Handelsmann,,1763,,,3,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
-47580,,Setti,Franz,,pi,1,Handelsmann,,1777,,,3,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 47582,,Staudinger,Joseph,,pi,1,Handelsmann,,1780,,,3,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 47586,,Schwitzer,Johann,,pi,1,Handelsmann,,15.11.1778,,,3,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 47588,,Schwitzerin,Theresia,,pi,2,Handelsfrau,,,,,3,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -3709,8 +3719,8 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 47623,,Laimgruber,Georg,,pi,1,Handelsmann,,,,,,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 47624,,Pillitschotti,Georg,,pi,1,Handelsmann,,1779,,,,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 47625,,Gottscheck,Franz Karl,,pi,1,Handelsmann,,,,,,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
-47626,,Wührer,Leopold,,pi,1,Handelsmann,,1776,,,,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
-47627,,Wührer,Franz,,pi,1,Handelsmann,,,,,,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+47626,,Wührer,Leopold,,pi,1,Handelsmann,09.1712,07.1776,,,,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+47627,,Wührer,Franz,,pi,1,Handelsmann,12.1718,,,,,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 47628,,Saliet,Joseph,,pi,1,Handelsmann,,1757,,,,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 47629,,Gschwandner,Daniel,,pi,1,Handelsmann,,,,,,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 47630,,Gerardi,Peter,,pi,1,Handelsmann,,,,,,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -3748,6 +3758,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 48490,,,,Pfarrer von Wilhelmsburg,pn,1,Pfarrer,,,1706,,1,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 48548,,Moser,Karl Joseph,,pi,1,Handelsmann,,1779,,,3,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 48552,,Oberleithner,Anna Maria ,,pi,2,,,1777,,,,3,Katholisch,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+88,,Allius,Johann Heinrich,,pi,1,,1666,1728,"1720, 1726, 1730, 1733",,1,4,Evangelisch A.C. ,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 237,,Pauernfeind,Wolf,,pi,1,Handelsmann,,,"1660, 1661, 1662, 1663",,1,4,Evangelisch A.C. ,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 941,,Endter,Michael,,pi,1,Buchdrucker,1613,1682,1641,,1,4,Evangelisch A.C. ,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 942,393,Endter,Martin,,pi,1,Buchhändler,1653,1741,"1692, 1694, 1699, 1701",,2 1,4,Evangelisch A.C. ,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -3766,10 +3777,11 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 6849,11163,Tech,Erdmann,,pi,1,Handelsmann,Ca. 1693,06.1762,"1736, 1737",,1 2 3,4,Evangelisch A.C. ,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8024,,Löschenkohl,Martin,,pi,1,,1645,08.1683,1681,,1,4,Evangelisch A.C. ,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8097,46,Fels,Lorenz,,pi,1,Handelsmann,,,,,2 3,4,Evangelisch A.C. ,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+8121,70,Reinhard,Friedrich,,pi,1,"Handelsmann, Lederhändler",23.11.1682,1734,,,2,4,Evangelisch A.C. ,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8263,225,Monath,Peter Konrad,,pi,1,"Handelsmann, Buchhändler, Verleger",05.1683,22.02.1747,,,2 3,4,Evangelisch A.C. ,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8266,228,Le Goux,Philipp,,pi,1,Handelsmann,Ca. 1686,09.1732,,,2 3,4,Evangelisch A.C. ,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8324,299,Isenflamm,Johann Jakob,,pi,1,Handelsmann,18.03.1681 (Taufe),1752,,,2 3,4,Evangelisch A.C. ,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
-8333,308,Föhr,Jakob,,pi,1,Handelsmann,27.01.1686,05.1747,,,2 3,4,Evangelisch A.C. ,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+8333,308,Föhr,Jakob,,pi,1,Handelsmann,16.03.1687,16.03.1746,,,2 3,4,Evangelisch A.C. ,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8413,391,Marci,Johann Cornelius,,pi,1,Handelsmann,,1726,,,2 3,4,Evangelisch A.C. ,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8489,471,Rössler,Paul,,pi,1,Handelsmann,ca. 1663,09.1728,,,2 3,4,Evangelisch A.C. ,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8682,678,Krochmann,Heinrich,,pi,1,Handelsmann,,1749,,,2,4,Evangelisch A.C. ,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -3835,6 +3847,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 38097,32496,Sulzer,Leonhard Daniel,,pi,1,Handelsmann,1680,1762,,,2,4,Evangelisch A.C. ,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 39018,33482,Würth,Michael Gottfried,,pi,1,,,,,,2,4,Evangelisch A.C. ,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 41601,8336,Kircheisen,Christian,,pi,1,Handelsmann,ca. 1683,1742,,,2 3,4,Evangelisch A.C. ,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+41715,36323,Reinhard,Georg Friedrich,,pi,1,,8.21.1710,13.10.1740,,,2,4,Evangelisch A.C. ,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 41796,36409,Conradi,Christoph Martin,,pi,1,"Buchhalter und Prokurist des Johann Baptist Bolza, Kassier und Prokurist des Joseph Bolza",,,,,2 3,4,Evangelisch A.C. ,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 41827,36443,Scheidlin,David,,pi,1,Handelsmann,1699,1767,,,2,4,Evangelisch A.C. ,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 41865,36485,Castelmur,Gaudenz,,pi,1,Handelsmann,,,,,2 3,4,Evangelisch A.C. ,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -3858,6 +3871,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 47178,,Volkmar,Adam Christian,,pi,1,Handelsmann,,,,,3,4,Evangelisch A.C. ,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 47181,,Tittel,Karl Heinrich,,pi,1,Handelsmann,,,,,3,4,Evangelisch A.C. ,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 47182,,Scholz,Balthasar Sigmund,,pi,1,Handelsmann,ca. 1686,1749,,,3,4,Evangelisch A.C. ,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+48567,41701,Zieger,Johann,,pi,1,Buchhändler,1646,1711,,,2,4,Evangelisch A.C. ,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 331,,Blommart,Wilhelm,,pi,1,Handelsmann,1623,1686,"1660, 1661, 1662, 1663",,1,5,Evangelisch H.C.,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 332,,Blommart,Jakob,,pi,1,Handelsmann,1618,1697,"1660, 1661, 1662, 1663, 1681",,1,5,Evangelisch H.C.,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 437,2670,Capieu,Stephan,,pi,1,Handelsmann,ca. 1655,11.1723,"1710, 1711, 1720, 1726",,1 2,5,Evangelisch H.C.,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -3917,7 +3931,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 84,,Albrecht,Karl,,pi,1,,,,1663,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 85,,Aleberto,Adam,,pi,1,,,,1641,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 87,,Allaperger,Johann,,pi,1,,,,1624,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
-88,,Allius,Johann Heinrich,,pi,1,,1666,1728,"1720, 1726, 1730, 1733",,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 89,,Allius,Johann Heinrich,,pi,1,,,,"1720, 1730",,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 90,,Allius,Heinrich,,pi,1,,,,1730,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 91,,Allius,Heinrich,,pi,1,,,,1730,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -4500,7 +4513,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 793,,Dressel,Heinrich,,pi,1,,,,"1699, 1706, 1710, 1711",,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 794,,Dresl,Georg,,pi,1,,,,1737,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 795,,Dressel,Christian,,pi,1,,,,1706,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
-796,,Dressel,Johann Georg,,pi,1,,,,1720,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+796,1155,Dressel,Johann Georg,,pi,1,,,,1720,,1 2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 797,,Dresl,Johann Heinrich,,pi,1,,,,1720,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 798,,Dressel,Johann Heinrich,,pi,1,,,,1720,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 799,,Dressel,Georg,,pi,1,,,,1720,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -4942,7 +4955,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 1276,,Frasch,Georg,,pi,1,,,,1710,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 1277,,Fraunberger,Celestin,,pi,1,,,,1710,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 1278,,Fraunberger,Sebastian,,pi,1,,,,"1694, 1701",,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
-1279,,Fraunberger,Thomas,,pi,1,,,,1720,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 1280,,Freber,Johann,,pi,1,,,,1681,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 1281,,Frech,Urban,,pi,1,,,,"1692, 1694",,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 1282,,Freinstötter,Paul,,pi,1,,,,1720,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -6338,7 +6350,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 2968,,Kneblin,Elisabeth,,pn,2,,,,1640,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 2969,,Knell,Johann,,pi,1,,,,1710,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 2970,,Knell,Johann Georg,,pi,1,,,,1710,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
-2971,2403,Knoll,Stephan,,pi,1,,,,"1706, 1710, 1711, 1720",,3 2 1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+2971,2403,Knoll,Stephan,,pi,1,,,,"1706, 1710, 1711, 1720",,1 2 3,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 2972,,Knoll,Sebastian,,pi,1,,,,1711,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 2973,,Knollmann,Johann,,pi,1,,,,1720,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 2974,,Knopf,Johann Jakob,,pi,1,,,,1660,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -9695,7 +9707,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 6951,,Trenkmüllner,Michael,,pi,1,,,,1720,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 6952,,Trenzer,David,,pn,1,,,,1660,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 6953,,Trezinski,Augustin,,pi,1,,,,1641,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
-6954,,Triebenbacher,Georg,,pi,1,,,,1706,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+6954,41749,Triebenbacher,Georg,,pi,1,,,,1706,,1 2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 6955,,Triebin,Sophia,,pi,2,,,,1720,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 6956,,Trinckl,Jakob,,pi,1,,,,1737,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 6957,,Trinkhein,Johann,,pi,1,,,,1726,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -10152,7 +10164,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 7466,,Wisbaur,Stephan,,pi,1,,,,"1711, 1726, 1729, 1733",,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 7467,,Wisbergerin,Magdalena,,pi,2,,,,1720,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 7468,,Wißgill,Jakob,,pi,1,,,,1720,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
-7469,,Wißhey,Johann Adam,,pi,1,,,,"1692, 1694, 1699, 1701, 1706, 1711, 1720",,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 7471,,Wisl,Andreas,,pi,1,,,,1737,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 7472,,Wißmayr,Jakob,,pi,1,,,,1710,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 7473,,Wisner,Georg,,pi,1,,,,1641,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -10320,9 +10331,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 7656,,Zeppan,Thomas,,pi,1,,,,1720,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 7657,,Zeppan,Zacharias,,pi,1,,,,"1710, 1720",,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 7658,,Zerboni,Bernhard,,pi,1,,,,1720,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
-7659,,Zernother,Johann Franz,,pi,1,,,,1710,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
-7660,,Zernother,Franz,,pi,1,,,,1699,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
-7661,,Zernother,Johann Christoph,,pi,1,,,,1710,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 7662,,Zeschka,Johann,,pi,1,,,,1737,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 7663,,Zeschky,Jakob,,pi,1,,,,1660,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 7664,,Zeschnan,Joseph,,pi,1,,,,1730,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -10486,7 +10494,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 8053,,Perklofski,Paul,,pi,1,,,,"1681, 1684",,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8054,,Wickhardt,Andreas,,pi,1,,,,1737,,1,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8055,17268,Weingartner,Simon,,pi,,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
-8056,2,Pflieger,Wolfgang,,,1,Handelsmann,,1722,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+8056,2,Pflieger,Wolfgang,,pi,1,Handelsmann,,1722,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8057,3,Stephani,Bernhard,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8059,5,Allius,Johann Heinrich,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8060,6,Zimmermann,Christoph,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -10497,6 +10505,8 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 8075,21,Ainkäs,Georg,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8112,61,Stephani,Johann Bernhard,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8118,67,Ritter,Elias,,pi,1,Eisenhändler,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+8122,71,Mayrhofer,Johann Jakob,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+8126,75,Toscano,Karl,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8159,109,Kunzmann,Rudolf,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8175,128,Viztom,Johann,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8185,138,Rezer,Tobias,,pn,,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -10515,6 +10525,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 8407,385,Kienmayr,Michael,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8409,387,Deiß,Anton,,,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8414,392,Gärtner,Adam Christoph,,pi,1,Handelsmann,,,,,2 3,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+8420,398,Trautner,Sebastian,,pi,1,Buchhändler,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8438,417,Würth,Kaspar,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8448,563,Hilleprand,Emanuel,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8461,442,Bartels,Johann Andre,,pi,1,Tuchkrämer,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -10523,6 +10534,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 8495,477,Schwarzenberger,Johann Heinrich,,pi,1,Handelsmann,,,,,2 3,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8505,12977,Schallhard,Ignaz,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8508,490,Hoffmann,Isidor,,pi,1,"Handelsmann, Wechsler",,,,,2 3,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+8536,518,Knilling,Anna,,pn,2,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8559,545,Wallnbeck,Paul,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8570,556,Schwanser,Martin,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8585,21007,Kießling,Georg Jakob,,pi,1,Handelsmann,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -10537,6 +10549,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 8701,698,Frohn,Johann Heinrich,,pi,1,Eisenhändler,10.04.1699,26.07.1772,,,2 3,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8704,701,Leypold,Johann Georg,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8714,711,Vienne,David,,pn,1,Eisenhändler,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+8720,717,Haglauer,Johann Salomon,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8750,749,Rohrwürth,Zacharias,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8765,765,Schwarz,Konrad,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 8808,808,Grindler,Johann Georg,,pi,1,,,,,,2 3,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -10577,6 +10590,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 9394,1413,Burger,Franz Joseph,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 9398,1417,Hölzl,Anton,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 9419,15882,Buirette,Wilhelm,,pi,1,,,,,,2 3,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+9451,1471,Knilling,Matthias,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 9472,22788,Zellner,Balthasar,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 9474,1495,Paur,Matthias,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 9487,1508,Fetzer,Franz Stephan,,pi,1,,,,,,2 3,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -10607,6 +10621,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 9918,1943,Moser,Franz Joseph,,pi,1,Handelsmann,,,,,2 3,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 9926,1951,Hilmayr,Georg,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 9930,22469,Serz,Marx Ludwig,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+9932,1957,Knilling,Jakob,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 9949,1974,Naller,Joseph,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 9962,1988,Herzog,Jakob,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 9972,2000,Jaccoud,Johann,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -10628,6 +10643,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 10241,2286,Degeler,Johann Jakob,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 10295,2347,Wagner,Erasmus,,pi,1,Handelsmann,1650,1719,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 10296,2348,Kalbenhuber,Sebastian,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+10313,2365,Staudenhechtl,Matthias,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 10346,2400,Abandio,Marco,,pi,1,Hofbefreiter Handelsmann,,,,,2 3,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 10362,23426,Moriz,Johann Christoph,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 10366,2421,Stallmayr,Philipp,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -10644,6 +10660,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 10580,2645,Pichler,Johann,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 10586,2652,Peinagl,Ferdinand,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 10592,4758,Schwarzmayr,Georg,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+10667,2736,von Luidl,Sebastian,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 10668,2737,Apfel,Johann,,pi,1,"Handelsmann, Kattundrucker",1659,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 10683,2753,Stark,Karl Joseph,,pi,1,Handelsmann,,,,,2 3,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 10691,2761,Chini,Andre,,pi,1,Handelsmann,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -10651,6 +10668,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 10703,2773,Hilleprand,Wolfgang,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 10731,2803,von Prunner,Georg,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 10752,14769,Dehner,Johann,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+10799,2871,Haglauer,Salomon,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 10819,2891,Mayrhofer,Franz,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 10829,2901,Fynn,Wolfgang Moritz,,pi,1,Handelsmann,1674,1725,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 10830,2902,Zimmermann,Johann Christoph,,pi,,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -10671,9 +10689,11 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 11161,3247,Bolza,Johann Baptist,,pi,1,Handelsmann,,,,,2 3,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 11163,3249,Montecuccoli,,General,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 11178,3265,Barachino,,Herr,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+11186,3273,Fels,Johann,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 11189,3277,Duboin,,d. J.,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 11196,3286,Wibmer,Andre,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 11248,15376,Salpacher,,Herr,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+11271,3362,de S. Nicolo,,Herr,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 11301,3393,Wittmann,Joseph Ignaz,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 11305,3398,Fizes,Johann Kaspar,,pi,1,Handelsmann,,,,,2 3,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 11308,3401,Laßgallner,Matthias,,pi,1,"Prokurist bei Zacharias Kriner, Schmidt & Co., Handelsmann",,,,,2 3,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -10702,6 +10722,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 11771,3880,Neuhofer,Georg,,pi,1,"Handelsmann, Kattunhändler und Kattunfabrikant",,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 11776,20619,Pacher,,Herr,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 11800,3911,Pauernfeind,Johann Georg,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+11808,3920,Seidl,Johann Zacharias,,pi,,Buchhändler,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 11844,3957,Mayrhofer,Anton,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 11847,3960,Matsberger,Johann Marx,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 11855,3969,Zwickl,Matthias,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -10719,6 +10740,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 12140,4264,Schedlberger,Leopold,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 12152,4277,Sturm,Joseph Anton,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 12155,4280,Heiss,Michael,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+12180,4305,Spring,Johann Adam,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 12221,4346,Zwiesler,Bernhard,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 12241,4366,Ehemann,Wolfgang,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 12251,4376,Holzmayr,Johann,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -10732,12 +10754,15 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 12383,4511,Kiblböck,Philipp,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 12387,4515,Heiss,Sebastian,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 12388,4516,Heiss,Georg,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+12389,4517,Knilling,Johann,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 12402,4530,Heiss,Franz,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+12437,4565,Julivat,Philipp,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 12475,4604,Fuchs,Joseph,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 12541,4675,Hummelberger,Johann Adam,,pn,1,,,,,,2 4,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 12542,4676,Wöss,Karl,,pi,1,Handelsmann,,,,,2 3,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 12544,4905,von Hartung,,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 12547,4681,von Cranz,Johann Karl,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+12612,4749,Dietrich,Tobias,,pi,1,Handelsmann,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 12616,4753,Holzapfel,Johann,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 12636,4774,Wolf,Franz Anton,,pi,1,Spiegelhändler,,,,,2 3,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 12664,4803,Schick,Johann Michael,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -10754,6 +10779,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 12822,4966,Will,Johann Wolfgang,,pi,1,Handelsmann,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 12834,4978,Zellner,Georg,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 12930,5074,Paur,Matthias,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+12938,5082,Knilling,Maria,,pn,2,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 12986,5132,Recknagel,Konrad,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 12993,5139,Mangold,Michael,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 13001,5147,Wibmer,Andreas,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -10873,6 +10899,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 15993,8252,Gruber,Joseph,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 16016,8276,de Fiali,Joseph,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 16148,8412,Feyrtag,Johann,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+16168,8433,Knilling,Matthias,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 16173,8438,Paur,Johann Martin,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 16181,22588,Winkler,Johann,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 16221,8487,,,Gundian sel. Erben,pn,,,,,,,2 3,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -10882,6 +10909,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 16282,8554,Schedlberger,,Herr,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 16300,8574,Dunant,Johann Franz,,pi,1,Taffetfabrikant,,ca. 1725,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 16301,8575,Fantini,J.,,pn,,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+16318,8592,Knilling,Sebastian,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 16392,8669,Schweyer,Georg Magnus,,pi,1,Handelsmann,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 16416,8693,Wittmann,Leonhard,,pi,,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 16480,8764,Wittmann,Johann Philipp,,pn,,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -10947,6 +10975,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 17924,10634,Holzhauser,Johann Friedrich,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 17990,10403,Hilleprand,Georg,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 18048,10464,Frank,Franz Karl,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+18057,16388,Knilling,Ursula,,pn,2,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 18081,10499,Hilleprand,,Herr,pn,,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 18086,10504,Wittmann,Joseph,,pi,1,Tuchhändler,,,,,2 3,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 18088,10506,Rossmann,Christoph,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -11149,6 +11178,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 24199,17206,Ständl,Joseph,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 24203,17210,Christophori,Elias,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 24221,17230,Wittmann,Joseph,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+24325,17338,Knilling,Jakob,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 24361,17377,Köpf,Christian Georg,,pi,1,Handelsmann,1699,1758,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 24453,18463,Grahl,Johann Karl,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 24457,17479,Stephani,Jakob,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -11214,7 +11244,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 26273,19421,Wallnbeck,Johann,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 26314,19464,Lüders,Johann,,pi,1,Handelsmann,,,,,2 3,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 26317,19467,Hammerschmied,Matthias,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
-26327,19477,Setti,Franz,,pi,1,Handelsmann,,,,,2 3,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 26356,20952,Holzmayr,Adam,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 26357,22697,Pacher,Johann Michael,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 26399,19552,Frank,Abraham,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -11222,6 +11251,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 26426,19579,Wallnbeck,Augustin,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 26434,19592,von Pöllern,Heinrich,,pi,1,Handelsmann,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 26446,19615,Doser,Johann,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+26463,19635,de S. Nicolo,Joseph,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 26477,19653,Heiss,Joseph,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 26641,19828,Bürglend,Johann Leonhard,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 26728,19916,Heiss,Johann Gottlieb,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -11406,7 +11436,9 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 32450,26477,Chini,Ciprian,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 32455,26482,Allegri,Nicolo,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 32465,26492,Schanternell,Christoph,,pi,1,Juwelier,,24.07.1712,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+32519,26546,Triebenbacher,Georg,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 32522,26549,Gerhardinger,Matthias,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+32530,26557,Trienbacher,Marx,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 32563,26592,Kießling,Georg,,,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 32581,26610,Kießling,Johann,,pi,1,,,1722,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 32598,26629,Gnädl,Bartholomäus,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -11487,6 +11519,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 35107,29323,Gerhardinger,Marx,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 35152,29371,Allegri,,Herr,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 35189,29409,Mayrhofer,,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+35227,29450,Triebenbacher,Georg,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 35232,29455,Caminati,Anton,,pi,1,Handelsmann,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 35255,29479,Lindner,Johann Matthias,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 35280,29505,Ainkäs,Ignaz,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -11510,6 +11543,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 35763,30029,,,1 Mensch,pn,,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 35854,30121,Gruber,Andre,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 35859,30126,Pacher,Matthias,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+35921,30189,von Sandraut,Jakob,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 35924,30192,Rück,Johann David,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 35983,30252,Kampmiller,Zacharias Mariophilus,Hofkriegsrat,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 35985,30254,Wallnbeck,Johann,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -11844,6 +11878,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 44881,39224,Schanternell,Johann Baptist,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 44886,39230,Hölbmer,Johann,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 44898,39247,Orrio,Johann Joseph,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+44902,39254,Knilling,Sebastian,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 44925,39296,Bormastini,Albert Anton,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 44943,39315,Gerhardinger,Matthias,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 44960,39357,Wundsam,Christoph,,pi,,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -11973,7 +12008,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 46665,,,,Sohn des Matthias Neuhauser,pn,1,Handelsmann,,,,,3,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 46668,,Salvini,,,pn,1,,,,,,3,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 46671,,Festlin,Maria Elisabeth,,pi,2,,,,,,3,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
-46673,,Kuperianin,Maria Carolina,Witwe des Johann de S. Nicola,pi,2,Handelsfrau,,,,,3,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+46673,,Kuperianin,Maria Carolina,Witwe des Johann de S. Nicolo,pi,2,Handelsfrau,,,,,3,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 46677,,Pelser,Johann Joseph,,pn,1,,,,,,3,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 46682,,Rausch,Anton Joseph,,pi,1,Handelsmann,,,,,3,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 46683,,Lang,Matthias,,pi,1,Handelsmann,,,,,3,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
@@ -12432,6 +12467,18 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 48551,40001,Greder,Martin,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 48553,40003,Mayrhofer,Tobias,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 48554,40004,Wöss,Karl,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+48556,41690,Langmayr,Johann,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+48557,41691,Kiblböck,Matthias,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+48558,41692,Windsteiger,Matthias,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+48560,,Wißhey,Adam,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+48561,,Zeller,Johann,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+48562,41696,Falkner,Michael,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+48563,41697,Schwab,Reichard,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+48564,41698,von Harrach,,,pi,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+48565,41699,Pillabinger,Stephan,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+48566,41700,Davia,Johann Baptist,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+48568,41702,Behrens,,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
+48569,41703,Ott,Simon,,pn,1,,,,,,2,,,9,piz,"Personennamen, die keinem anderen speziellen Entitätentyp zugehören "
 9902,1927,,,Kapuziner,pn,1,,,,,,2,3,Katholisch,10,siu,"Personengruppen, die keine Körperschaft sind "
 13799,5972,,,2 Kapuziner,pn,1,,,,,,2,3,Katholisch,10,siu,"Personengruppen, die keine Körperschaft sind "
 18432,10883,,,2 Franziskaner,pn,1,,,,,,2,3,Katholisch,10,siu,"Personengruppen, die keine Körperschaft sind "
@@ -12588,7 +12635,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 8093,41,,,Aufschläger zu Engelhartszell,,,,,,,,2,,,,,
 8094,42,Perger,Sigmund Ehrenreich,,,,,,,,,2,,,,,
 8099,20623,Kochmayr,Zacharias,,,,,,,,,2,,,,,
-8101,50,Riehl,Niklas,,,,,,,,,2,,,,,
+8101,50,Riehl,Niklas,,,1,,,,,,2,,,,,
 8102,51,Hailbronner,Friedrich Karl,,,,,,,,,2,,,,,
 8103,15883,Friedrich,Johann Georg,,,,,,,,,2,,,,,
 8104,53,Schreiber,Franz,,,,,,,,,2,,,,,
@@ -12600,14 +12647,10 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 8114,63,Dallensteiner,Johann Christoph,,,,,,,,,2,,,,,
 8117,66,Berquin,Joseph,,,,,,,,,2,,,,,
 8120,69,Messel,,Monsieur,,,,,,,,2,,,,,
-8121,70,Reinhard,Friedrich,,,,,,,,,2,,,,,
-8122,71,Mayrhofer,Johann Jakob,,,,,,,,,2,,,,,
 8123,72,Paumgartner,Ferdinand,,,,,,,,,2,,,,,
 8124,73,Steyrer,Balthasar,,,,,,,,,2,,,,,
-8126,75,Toscano,Karl,,,,,,,,,2,,,,,
 8127,76,Föhr,Gabriel,,,,,,,,,2,,,,,
 8128,3774,von Keil,,Herr,,,,,,,,2,,,,,
-8132,81,Prunner,Johann Adam,,,,,,,,,2,,,,,
 8133,82,Isinger,Johann Jakob,,,,,,,,,2,,,,,
 8134,84,Aichmayr,Andreas,,,,,,,,,2,,,,,
 8135,11458,Paumgartner,Simon,,,,,,,,,2,,,,,
@@ -12828,7 +12871,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 8406,384,Kempter,Jakob,,,,,,,,,2,,,,,
 8408,386,Jungwirt,Johann,,,,,,,,,2,,,,,
 8417,395,de Lennes,,Monsieur,,,,,,,,2,,,,,
-8420,398,Trautner,Sebastian,,,,,,,,,2,,,,,
 8422,400,Premlechner,Anton,,,,,,,,,2,,,,,
 8424,402,Sporn,Michael,,,,,,,,,2,,,,,
 8426,404,Obermiller,Anton,,,,,,,,,2,,,,,
@@ -12921,7 +12963,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 8533,515,Hornsteiner,Georg,,,,,,,,,2,,,,,
 8534,9565,,,Stadtsyndikus von Passau,,,,,,,,2,,,,,
 8535,517,Krümer,Johannes,,,,,,,,,2,,,,,
-8536,518,Knölin,Anna,,,,,,,,,2,,,,,
 8537,519,Prünstinger,Bernhard,,,,,,,,,2,,,,,
 8538,520,Heindl,Andre,,,,,,,,,2,,,,,
 8539,568,Gori,Ferdinand,,,,,,,,,2,,,,,
@@ -13066,7 +13107,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 8717,714,Christian,Wolf Jakob,,,,,,,,,2,,,,,
 8718,715,,,Primier Witwe & Co.,,,,,,,,2,,,,,
 8719,716,Pachner,Johann Michael,,,,,,,,,2,,,,,
-8720,717,Haglauer,Johann Salomon,,,,,,,,,2,,,,,
 8721,718,Maret,Georg,,,,,,,,,2,,,,,
 8722,719,Sandreither,Emanuel,,,,,,,,,2,,,,,
 8723,720,Gössner,David,,,,,,,,,2,,,,,
@@ -13414,7 +13454,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 9142,1152,Minolli,Joseph,,,,,,,,,2,,,,,
 9143,1153,Fagerer,Georg,,,,,,,,,2,,,,,
 9144,1154,Stöger,Johann Georg,,,,,,,,,2,,,,,
-9145,1155,Dressel,Johann Georg,,,,,,,,,2,,,,,
 9146,1157,Laiminger,Joseph,,,,,,,,,2,,,,,
 9147,1158,Pettenkofer,Johann,,,,,,,,,2,,,,,
 9148,1159,Ringer,Peter,,,,,,,,,2,,,,,
@@ -13458,7 +13497,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 9192,1207,Engelschall,Wolfgang,,,,,,,,,2,,,,,
 9193,18460,Pöltl,Bartholomäus,,,,,,,,,2,,,,,
 9195,1210,Tiefenhofer,Samuel,,,,,,,,,2,,,,,
-9196,1211,Riehl,Georg Ludwig,,,,,,,,,2,,,,,
+9196,1211,Riehl,Georg Ludwig,,,1,,,,,,2,,,,,
 9197,1212,Schlesinger,Daniel,,,,,,,,,2,,,,,
 9198,1213,Lorenz,Gottfried Heinrich,,,,,,,,,2,,,,,
 9199,1214,,,Bosquet und Abria,,,,,,,,2,,,,,
@@ -13466,7 +13505,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 9202,1217,Engler,Jakob,,,,,,,,,2,,,,,
 9203,1218,Wenzl,Johann Kaspar,,,,,,,,,2,,,,,
 9204,1219,Henkl,Gottfried,,,,,,,,,2,,,,,
-9205,1220,Weber,Johann Christian,,,,,,,,,2,,,,,
+9205,1220,Weber,Johann Christian,,,1,,,,,,2,,,,,
 9206,1221,Dinebruck,Wilhelm,,,,,,,,,2,,,,,
 9207,1222,Schlesinger,Michael,,,,,,,,,2,,,,,
 9208,1223,Lorenz,Heinrich,,,,,,,,,2,,,,,
@@ -13684,7 +13723,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 9447,1467,Küffler,Ignaz,,,,,,,,,2,,,,,
 9448,1468,Scheucher,Georg,,,,,,,,,2,,,,,
 9450,1470,,,Kloster Schlägl,,,,,,,,2,,,,,
-9451,1471,Knölin,Matthias,,,,,,,,,2,,,,,
 9452,1472,Redlich,Christoph,,,,,,,,,2,,,,,
 9453,1473,Körner,Johann,,,,,,,,,2,,,,,
 9454,1474,Sattler,Thomas,,,,,,,,,2,,,,,
@@ -14093,7 +14131,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 9928,1953,Käser,Joseph,,,,,,,,,2,,,,,
 9929,1954,,,1 Prinz,,,,,,,,2,,,,,
 9931,1956,Pittl,Matthias,,,,,,,,,2,,,,,
-9932,1957,Knölin,Jakob,,,,,,,,,2,,,,,
 9933,1958,Neuner,Jakob,,,,,,,,,2,,,,,
 9934,1959,Eckenrieder,Korbinian,,,,,,,,,2,,,,,
 9935,1960,Fütterin,Maria,,,,,,,,,2,,,,,
@@ -14431,7 +14468,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 10309,2361,Prenner,Anton,,,,,,,,,2,,,,,
 10311,2363,Hacker,Simon,,,,,,,,,2,,,,,
 10312,2364,Patscheider,Johann,,,,,,,,,2,,,,,
-10313,2365,Staudenhechtl,Matthias,,,,,,,,,2,,,,,
 10314,2366,,,2 Hafnerweiber,,,,,,,,2,,,,,
 10315,2367,Mitterreither,Georg,,,,,,,,,2,,,,,
 10316,2368,Oberlechner,Georg,,,,,,,,,2,,,,,
@@ -14710,7 +14746,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 10624,2691,Buchriemer,Ferdinand,,,,,,,,,2,,,,,
 10625,2692,Steinlechner,Joseph,,,,,,,,,2,,,,,
 10627,2694,Täsch,Christoph,,,,,,,,,2,,,,,
-10628,2695,von Radiff,Johann Baptist,,,,,,,,,2,,,,,
 10629,2696,Greill,Melchior,,,,,,,,,2,,,,,
 10630,2697,Scheurecker,Johann,,,,,,,,,2,,,,,
 10631,2698,Traydmayr,Veit,,,,,,,,,2,,,,,
@@ -14746,7 +14781,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 10664,2733,Saphieri,Georgius,,,,,,,,,2,,,,,
 10665,2734,,,Bischof von Madrid,,,,,,,,2,,,,,
 10666,2735,Conver,Stephan,,,,,,,,,2,,,,,
-10667,2736,von Luidl,Sebastian,,,,,,,,,2,,,,,
 10669,2738,Brentano Griante,Andre,,,,,,,,,2,,,,,
 10670,2739,,,Georg Dempf sel. Erben,,,,,,,,2,,,,,
 10671,2740,Lanzellini,Anton,,,,,,,,,2,,,,,
@@ -14861,7 +14895,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 10796,2868,Panholzer,Thomas,,,,,,,,,2,,,,,
 10797,2869,Kopfhammer,Simon,,,,,,,,,2,,,,,
 10798,2870,Kopp,Jakob,,,,,,,,,2,,,,,
-10799,2871,Haglauer,Salomon,,,,,,,,,2,,,,,
 10800,2872,Haas,Michael,,,,,,,,,2,,,,,
 10801,2873,,,Wernberger und Geiger,,,,,,,,2,,,,,
 10802,2874,,,Johann Pöhr und Simon Pöhr,,,,,,,,2,,,,,
@@ -15213,7 +15246,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 11183,9960,Rost,Michael,,,,,,,,,2,,,,,
 11184,3271,Schwarzmann,Johann Werner,,,,,,,,,2,,,,,
 11185,3272,Gadner,Kaspar Balthasar,,,,,,,,,2,,,,,
-11186,3273,Fels,Johann,,,,,,,,,2,,,,,
 11187,3274,Veit,Johann,,,,,,,,,2,,,,,
 11188,3275,Perinet,Jakob Prosper,,,,,,,,,2,,,,,
 11190,3278,Paur,Philipp,,,,,,,,,2,,,,,
@@ -15291,7 +15323,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 11268,3359,von Koch,,Kriegsagent,,,,,,,,2,,,,,
 11269,3360,Kircher,,Herr,,,,,,,,2,,,,,
 11270,14414,von Menshengen,Franz Friedrich,Reichshofrat,,,,,,,,2,,,,,
-11271,3362,de S. Nicola,,Herr,,,,,,,,2,,,,,
 11272,3363,Bolza,,Herr,,,,,,,,2,,,,,
 11273,3364,Primier,Bartholomäus,,,,,,,,,2,,,,,
 11274,3365,Scheibenbogen,Franz,,,,,,,,,2,,,,,
@@ -15378,7 +15409,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 11364,3458,von Thürheim,Franz Joseph,,,,,,,,,2,,,,,
 11365,3459,Weißmann,Franz Joseph,,,,,,,,,2,,,,,
 11366,3460,Prädler,Johann Martin,,,,,,,,,2,,,,,
-11368,3462,Strasser,Ernst,,,,,,,,,2,,,,,
 11369,14644,Ußner,Martin,,,,,,,,,2,,,,,
 11370,3464,Wisinger,Karl Joseph,,,,,,,,,2,,,,,
 11371,3465,Voggerreuther,Andre,Bürger,,,,,,,,2,,,,,
@@ -15780,7 +15810,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 11805,4721,Chini,,Herr,,,,,,,,2,,,,,
 11806,3918,,,Göschl und Gläser,,,,,,,,2,,,,,
 11807,3919,Mayr,Johann Leopold,,,,,,,,,2,,,,,
-11808,3920,Seidl,Johann Zacharias,,,,,,,,,2,,,,,
 11809,3921,,,Husarenregiment Graf Esterhazy,,,,,,,,2,,,,,
 11810,3922,,,Zeughaus (ksl.),,,,,,,,2,,,,,
 11811,3923,,,Regiment Bayreuth,,,,,,,,2,,,,,
@@ -16114,7 +16143,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 12177,4302,Kopp,Johann Jakob,Bürger,,,,,,,,2,,,,,
 12178,4303,Pläß,Wolfgang,,,,,,,,,2,,,,,
 12179,4304,Eisenmann,Johann Georg,,,,,,,,,2,,,,,
-12180,4305,Spring,Johann Adam,,,,,,,,,2,,,,,
 12181,29609,Kracher,Johann,,,,,,,,,2,,,,,
 12182,4307,Knöbl,Eberhard Friedrich,,,,,,,,,2,,,,,
 12183,4308,,,Leopold Lechner sel. Witwe,,,,,,,,2,,,,,
@@ -16297,7 +16325,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 12382,4510,von Prunner,Johann Georg,,,,,,,,,2,,,,,
 12384,4512,Ziferreiner,Franz,,,,,,,,,2,,,,,
 12386,4514,Strohhammer,Bartholomäus,Bürger,,,,,,,,2,,,,,
-12389,4517,Knölin,Johann,,,,,,,,,2,,,,,
 12390,4518,Rissmann,Valentin,,,,,,,,,2,,,,,
 12391,4519,Wisinger,,Herr,,,,,,,,2,,,,,
 12392,4520,Üblacker,Leonhard,,,,,,,,,2,,,,,
@@ -16338,7 +16365,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 12434,4562,,,1 Obristleutnant (ksl.),,,,,,,,2,,,,,
 12435,4563,Rapp,Johann,,,,,,,,,2,,,,,
 12436,4564,Vahner,Johann,,,,,,,,,2,,,,,
-12437,4565,Julivat,Philipp,,,,,,,,,2,,,,,
 12438,4566,Koller,Thomas,,,,,,,,,2,,,,,
 12439,23342,Harer,Michael,,,,,,,,,2,,,,,
 12440,4568,,,Wirt zu Aichberg & Co.,,,,,,,,2,,,,,
@@ -16357,7 +16383,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 12457,4585,,,Merz und Mayr,,,,,,,,2,,,,,
 12458,4586,Thanner,Christoph,,,,,,,,,2,,,,,
 12459,4588,Perinet,Jakob,,,,,,,,,2,,,,,
-12460,4589,,,Passy und Decret,,,,,,,,2,,,,,
 12461,4590,Ghezzi,Johann,,,,,,,,,2,,,,,
 12462,4591,,,Gregor Peck & Co.,,,,,,,,2,,,,,
 12463,4592,Eisenreither,Kaspar,,,,,,,,,2,,,,,
@@ -16497,7 +16522,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 12609,4746,Holzinger,Georg,,,,,,,,,2,,,,,
 12610,4747,Stachel,Balthasar,,,,,,,,,2,,,,,
 12611,4748,Weigart,Johann,,,,,,,,,2,,,,,
-12612,4749,Dietrich,Tobias,,,,,,,,,2,,,,,
 12613,4750,Schoißwohl,Johann Niklas,,,,,,,,,2,,,,,
 12614,4751,von Kehding,,Freiherr,,,,,,,,2,,,,,
 12615,4752,Delz,Matthias,,,,,,,,,2,,,,,
@@ -16792,7 +16816,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 12935,5079,Naimer,Ludwig,,,,,,,,,2,,,,,
 12936,5080,Mann,Johann,,,,,,,,,2,,,,,
 12937,9615,von Königsegg,,Graf,,,,,,,,2,,,,,
-12938,5082,Knölin,Maria,,,,,,,,,2,,,,,
 12939,5083,Höckin,Agnes,,,,,,,,,2,,,,,
 12940,5084,Pach,Franz,,,,,,,,,2,,,,,
 12941,5085,Eggenrieder,Matthias,,,,,,,,,2,,,,,
@@ -19785,7 +19808,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 16165,9715,Dürer,Balthasar,,,,,,,,,2,,,,,
 16166,8431,Hornsteiner,Valentin,,,,,,,,,2,,,,,
 16167,8432,Krüner,Johann,,,,,,,,,2,,,,,
-16168,8433,Knölin,Matthias,,,,,,,,,2,,,,,
 16169,8434,Kölin,Johann,,,,,,,,,2,,,,,
 16170,8435,Karn,Johann,,,,,,,,,2,,,,,
 16171,8436,Riedl,Leonhard,,,,,,,,,2,,,,,
@@ -19830,7 +19852,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 16213,8478,Lofin,Peter Franz,,,,,,,,,2,,,,,
 16214,8480,Naimer,Christoph Daniel,,,,,,,,,2,,,,,
 16215,14961,Greff,Claudius,,,,,,,,,2,,,,,
-16216,8482,Plaz,Bartholomäus,,,,,,,,,2,,,,,
 16217,8483,,,3 Kavaliere (niederländisch),,,,,,,,2,,,,,
 16218,8484,,,1 Auditor (ksl.),,,,,,,,2,,,,,
 16219,8485,Protti,Ferdinand,,,,,,,,,2,,,,,
@@ -19923,7 +19944,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 16315,8589,Gerschl,Markus,,,,,,,,,2,,,,,
 16316,8590,Gilg,Christian,,,,,,,,,2,,,,,
 16317,8591,,,Regiment Alexander von Württemberg,,,,,,,,2,,,,,
-16318,8592,Knölin,Sebastian,,,,,,,,,2,,,,,
 16319,9278,Trost,Matthias,,,,,,,,,2,,,,,
 16320,8594,,,Pfleger zu Eferding,,,,,,,,2,,,,,
 16321,8595,Fäschl,,,,,,,,,,2,,,,,
@@ -21541,7 +21561,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 18054,12674,Humerl,Philipp,,,,,,,,,2,,,,,
 18055,10472,Hauzenberger,Jakob,,,,,,,,,2,,,,,
 18056,10473,Mohr,Leopold,,,,,,,,,2,,,,,
-18057,16388,Knölin,Ursula,,,,,,,,,2,,,,,
 18058,10475,,,Bäcker,,,,,,,,2,,,,,
 18059,14473,Friedl,Kaspar,,,,,,,,,2,,,,,
 18060,10477,,,100 Leute (oberländisch),,,,,,,,2,,,,,
@@ -27273,7 +27292,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 24169,17175,,,Doktor,,,,,,,,2,,,,,
 24170,17176,Eggersdorfer,Johann,,,,,,,,,2,,,,,
 24171,17177,Fuchs,Johann Georg,,,,,,,,,2,,,,,
-24172,17178,,,Fleischhacker,,,,,,,,2,,,,,
 24173,17179,Pogner,Lorenz,,pi,1,Schiffmeister?,,,,,2,,,,,
 24174,21819,Miller,Lorenz,,,,,,,,,2,,,,,
 24175,20953,Ellegast,Paul,,,,,,,,,2,,,,,
@@ -27417,7 +27435,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 24321,17334,Wagner,Ernst Emanuel,,,,,,,,,2,,,,,
 24322,17335,Peciadies,,Monsieur,,,,,,,,2,,,,,
 24323,17336,Proneka,Kaspar,,,,,,,,,2,,,,,
-24325,17338,Knölin,Jakob,,,,,,,,,2,,,,,
 24327,22106,,,Abraham Schmid & Co.,,,,,,,,2,,,,,
 24328,17343,Thuldner,Johann Baptist,,,,,,,,,2,,,,,
 24329,17344,Prax,Georg,,,,,,,,,2,,,,,
@@ -29425,7 +29442,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 26460,19632,Bermelder,Paul,,,,,,,,,2,,,,,
 26461,20856,Elers,Peter,,,,,,,,,2,,,,,
 26462,19634,von Margutti,,Tabakadministrator in Wien,,,,,,,,2,,,,,
-26463,19635,de S. Nicola,Joseph,,,,,,,,,2,,,,,
 26464,19637,,,Weiss sel. Erben,,,,,,,,2,,,,,
 26465,19639,Lampersdorfer,Georg,,,,,,,,,2,,,,,
 26466,19641,Degenberger,Klemens,,,,,,,,,2,,,,,
@@ -35170,7 +35186,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 32516,26543,Wackerbarth,,General,,,,,,,,2,,,,,
 32517,26544,Höfler,Johann,,,,,,,,,2,,,,,
 32518,26545,Huber,Daniel,,,,,,,,,2,,,,,
-32519,26546,Diernbacher,Georg,,,,,,,,,2,,,,,
 32520,26547,Pehr,Johann,Ordinari Nürnberger Bote,,,,,,,,2,,,,,
 32521,26548,Penger,Johann,,,,,,,,,2,,,,,
 32523,27468,Mordener,Mornetus,,,,,,,,,2,,,,,
@@ -35179,7 +35194,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 32527,26554,Schaibinger,Matthias,,,,,,,,,2,,,,,
 32528,26555,Ott,Franz,,,,,,,,,2,,,,,
 32529,26556,Krücher,Georg,,,,,,,,,2,,,,,
-32530,26557,Diernbacher,Marx,,,,,,,,,2,,,,,
 32531,26558,Fetschovits,,Cameralcommissar in Bayern (ksl.),,,,,,,,2,,,,,
 32532,26559,,,1 Graf (sächsisch),,,,,,,,2,,,,,
 32533,26560,Gstattenstadter,Melchior,,,,,,,,,2,,,,,
@@ -35238,7 +35252,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 32593,26624,von Ruesenstein,,Baron,,,,,,,,2,,,,,
 32594,26625,Heber,N.,,,,,,,,,2,,,,,
 32595,26626,Sautermaister,Augustin,,,,,,,,,2,,,,,
-32597,26628,Ludwig,Christoph,,,,,,,,,2,,,,,
+32597,26628,Ludwig,Christoph,,,1,,,,,,2,,,,,
 32599,26630,Carl,Simon,,,,,,,,,2,,,,,
 32600,26631,Kaiser,Daniel,,,,,,,,,2,,,,,
 32601,26632,Funk,Sigmund Theopholus,,,,,,,,,2,,,,,
@@ -35793,7 +35807,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 33173,27235,Bomord,Johann Georg,,,,,,,,,2,,,,,
 33174,28401,,,Leutnant,,,,,,,,2,,,,,
 33175,27237,,,Kriner und Schmidhammer,,,,,,,,2,,,,,
-33176,27238,Diernbacher,Georg,,,,,,,,,2,,,,,
 33177,27239,Gözinger,Niklas,,,,,,,,,2,,,,,
 33178,27240,Hofer,Thomas,,,,,,,,,2,,,,,
 33179,27241,Stockreither,Paul,,,,,,,,,2,,,,,
@@ -36967,7 +36980,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 34403,28559,,,Wildner und Mayr,,,,,,,,2,,,,,
 34404,28560,Aichhammer,Georg,,,,,,,,,2,,,,,
 34405,28561,Hördl,Martin,,,,,,,,,2,,,,,
-34406,28562,Trübenbacher,Georg,,,,,,,,,2,,,,,
 34407,28563,Rämblmayr,Kaspar,,,,,,,,,2,,,,,
 34408,29079,Strassner,Stephan,,,,,,,,,2,,,,,
 34409,28565,von Harrach,Bonaventura,,,,,,,,,2,,,,,
@@ -37742,7 +37754,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 35224,29447,Kranzbichler,Balthasar,,,,,,,,,2,,,,,
 35225,29448,Paumgartner,Georg,,,,,,,,,2,,,,,
 35226,29449,Erhard,Johann,,,,,,,,,2,,,,,
-35227,29450,Trübenbacher,Georg,,,,,,,,,2,,,,,
 35229,29452,Erhard,Bernhard,,,,,,,,,2,,,,,
 35230,29453,Seeberger,David,,,,,,,,,2,,,,,
 35231,29454,Däschlerin,Maria,,,,,,,,,2,,,,,
@@ -38400,7 +38411,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 35918,30186,Haslbeck,Bartholomäus,,,,,,,,,2,,,,,
 35919,30187,Kaster,Martin,,,,,,,,,2,,,,,
 35920,30188,Puxleitner,Andre,,,,,,,,,2,,,,,
-35921,30189,von Sandraut,Jakob,,,,,,,,,2,,,,,
 35922,30190,,,Franziskaner,,,,,,,,2,,,,,
 35923,30191,Weber,Johann Christ.,,,,,,,,,2,,,,,
 35925,30193,Wolfart,Johann Leonhard,,,,,,,,,2,,,,,
@@ -38975,7 +38985,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 36521,30813,,,Verwalterin,,,,,,,,2,,,,,
 36522,30814,Dessel,Johann Kaspar,,,,,,,,,2,,,,,
 36523,30815,Oberndorfer,Tobias,,,,,,,,,2,,,,,
-36524,30816,Wührer,Leopold,,,,,,,,,2,,,,,
 36525,30817,Brunnersdorfer,Johann,,,,,,,,,2,,,,,
 36526,30818,Koblinger,Johann,,,,,,,,,2,,,,,
 36527,30819,Mayr,Zacharias,,,,,,,,,2,,,,,
@@ -41364,7 +41373,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 39052,33516,Voit,Johann Urban,,,,,,,,,2,,,,,
 39053,33517,,,Johann Rehrer sel. Witwe,,,,,,,,2,,,,,
 39054,33518,,,Vizedomamt,,,,,,,,2,,,,,
-39055,33519,,,Georg Diernbacher sel. Witwe,,,,,,,,2,,,,,
+39055,33519,,,Georg Triebenbacher sel. Witwe,,,,,,,,2,,,,,
 39057,33521,Kremer,Johann,,,,,,,,,2,,,,,
 39058,33522,Seidl,Johann Georg,,,,,,,,,2,,,,,
 39059,33523,Prandmayr,Johann,,,,,,,,,2,,,,,
@@ -43317,7 +43326,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 41120,35672,Scheck,Korbinian,,,,,,,,,2,,,,,
 41121,35673,Wilhelm,,Herr,,,,,,,,2,,,,,
 41122,35674,Schwab,Christian,,,,,,,,,2,,,,,
-41123,35675,,,Wagner und Weyling,,,,,,,,2,,,,,
 41124,35676,Wengel,Michael,,,,,,,,,2,,,,,
 41125,35677,Haslinger,Thomas,,,,,,,,,2,,,,,
 41126,35678,Helli,Johann,,,,,,,,,2,,,,,
@@ -43467,7 +43475,7 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 41280,35839,von Gschwendtner,Christian Caietan,,,,,,,,,2,,,,,
 41281,35840,Uttendorfer,Anton,,,,,,,,,2,,,,,
 41282,35841,Wöss,Johann,,,,,,,,,2,,,,,
-41283,35842,,,Georg Binder & Co,,,,,,,,2,,,,,
+41283,21239,,,Georg Binder & Co.,,,,,,,,2,,,,,
 41284,35845,Rendling,Anton,,,,,,,,,2,,,,,
 41285,35846,Kirmayr,Matthias,,,,,,,,,2,,,,,
 41286,35847,Scherer,Michael,,,,,,,,,2,,,,,
@@ -43875,7 +43883,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 41712,36320,Griesmann,Karl,,,,,,,,,2,,,,,
 41713,36321,Kienhofer,Johann Jakob,,,,,,,,,2,,,,,
 41714,36322,Kindervater,Paul,,,,,,,,,2,,,,,
-41715,36323,Reinhard,Georg Friedrich,,,,,,,,,2,,,,,
 41716,36324,Benjamin,Johann,,,,,,,,,2,,,,,
 41717,36325,Schoißwohl,Johann Michael,,,,,,,,,2,,,,,
 41718,36326,Riehl,Johann Valentin,,,,,,,,,2,,,,,
@@ -44408,7 +44415,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 42279,36936,Stokham,Paul,,,,,,,,,2,,,,,
 42280,36937,Fynn,Moritz,,,,,,,,,2,,,,,
 42281,36938,Forster,Johann Matthias,,,,,,,,,2,,,,,
-42282,36939,,,Wagner und Stayling,,,,,,,,2,,,,,
 42284,36941,,,Kloster St. Nikola,,,,,,,,2,,,,,
 42285,36942,,,Bancal-Hofgubernium (ksl.),,,,,,,,2,,,,,
 42286,36943,,,Obristquartiermeister (Regiment Württemberg),,,,,,,,2,,,,,
@@ -45475,7 +45481,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 43404,38096,Enderlich,Augustin,,,,,,,,,2,,,,,
 43405,38097,Gläzl,Franz Ignaz,,,,,,,,,2,,,,,
 43406,38098,Ruprecht,Peter,,,,,,,,,2,,,,,
-43407,38099,,,Wagner und Pozling,,,,,,,,2,,,,,
 43408,38100,Rihalm,Johann Elias,,,,,,,,,2,,,,,
 43409,38102,Jammer,Franz Joseph,,,,,,,,,2,,,,,
 43411,38104,Tozler,Paul,,,,,,,,,2,,,,,
@@ -46406,7 +46411,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 44662,38858,Kreuter,Johann,,,,,,,,,2,,,,,
 44663,38865,Dewanger,Paul,,,,,,,,,2,,,,,
 44664,39216,Pichler,Simon,,,,,,,,,2,,,,,
-44665,38867,Diernbacher,Georg,,,,,,,,,2,,,,,
 44666,38868,,,Leinwandhändler,,,,,,,,2,,,,,
 44667,38870,Bischoff,Johann,,,,,,,,,2,,,,,
 44668,38877,,,Dienerschaft des Kurfürsten von Bayern,,,,,,,,2,,,,,
@@ -46621,7 +46625,6 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 44899,39248,Gmainer,Sebastian,,,,,,,,,2,,,,,
 44900,39249,Albrothus,Johann Matthias,,,,,,,,,2,,,,,
 44901,39251,Schäbl,Matthias,,,,,,,,,2,,,,,
-44902,39254,Knölin,Sebastian,,,,,,,,,2,,,,,
 44903,39255,Föll,Balthasar,,,,,,,,,2,,,,,
 44904,39256,Preuer,Simon,,,,,,,,,2,,,,,
 44905,39257,Gerbl,Sebastian,,,,,,,,,2,,,,,
@@ -46975,3 +46978,4 @@ personenId,aschachId,nachname,vorname,firma_bez_anonym,identifiziert,geschlecht,
 47988,,,,Seiler,,,,,,,347,1,,,,,
 48399,39996,,,Kaiserhof,pn,,,,,,,,,,,,
 48555,41638,Polwisch,Michael,,,1,,,,,,2,,,,,
+48559,41693,Memony,Franz,,pi,1,,,,,,2,,,,,

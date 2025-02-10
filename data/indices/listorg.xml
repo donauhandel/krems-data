@@ -33,7 +33,7 @@
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when="2025-02-09">2025-02-09</date>
+            <date when="2025-02-10">2025-02-10</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2025-02-09">template populated with script "create_listorg.py"</change>
+         <change who="pandorfer" when="2025-02-10">template populated with script "create_listorg.py"</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -439,6 +439,12 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                         <placeName key="wkfm-place__925">Wien</placeName>
                      <geo>48.208333333333336 16.371944444444445</geo></location>
                   </org>
+                <org xml:id="wkfm__12460">
+                     <orgName>Passy und Decret</orgName>
+                     <location type="located_in_place" n="Geschäftsniederlassung">
+                        <placeName key="wkfm-place__40">Augsburg</placeName>
+                     <geo>48.37138888888889 10.898333333333333</geo></location>
+                  </org>
                 <org xml:id="wkfm__12698">
                      <orgName>Michael Schick sel. Erben, Johann Michael Schick sel. Erben</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
@@ -471,7 +477,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      <geo>48.208333333333336 16.371944444444445</geo></location>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__4646">Peisser, Joseph</persName></person><person><persName key="#wkfm__5636">Rigotti, Hieronymus</persName></person></listPerson></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__5636">Rigotti, Hieronymus</persName></person><person><persName key="#wkfm__4646">Peisser, Joseph</persName></person></listPerson></org>
                 <org xml:id="wkfm__13303">
                      <orgName>Paul Schedlberger sel. Erben</orgName>
                      <location type="located_in_place" n="Herkunft-Aschach">
@@ -972,7 +978,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      <geo>48.208333333333336 16.371944444444445</geo></location>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__43783">Spätl, Melchior</persName></person><person><persName key="#wkfm__8591">Amadei, Herculiano Kilian</persName></person></listPerson></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__8591">Amadei, Herculiano Kilian</persName></person><person><persName key="#wkfm__43783">Spätl, Melchior</persName></person></listPerson></org>
                 <org xml:id="wkfm__30766">
                      <orgName>Vinzenz Joanelli und Benedikt Joanelli</orgName>
                   </org>
@@ -1368,7 +1374,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      <geo>48.208333333333336 16.371944444444445</geo></location>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__44012">Barbieri, Anton</persName></person><person><persName key="#wkfm__44015">Barbieri, Ignaz</persName></person></listPerson></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__44015">Barbieri, Ignaz</persName></person><person><persName key="#wkfm__44012">Barbieri, Anton</persName></person></listPerson></org>
                 <org xml:id="wkfm__44048">
                      <orgName>Zacharias Kriner, Schmidt &amp; Co.</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
@@ -3056,7 +3062,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <geo>48.208333333333336 16.371944444444445</geo></location>
                   </org>
                 <org xml:id="wkfm__46653">
-                     <orgName>Dominicus de S. Nicola</orgName>
+                     <orgName>Dominicus de S. Nicolo</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      <geo>48.208333333333336 16.371944444444445</geo></location>
@@ -3128,7 +3134,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <geo>48.208333333333336 16.371944444444445</geo></location>
                   </org>
                 <org xml:id="wkfm__46672">
-                     <orgName>Johann de S. Nicola</orgName>
+                     <orgName>Johann de S. Nicolo</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      <geo>48.208333333333336 16.371944444444445</geo></location>
@@ -4689,7 +4695,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <location type="located_in_place" n="Geschäftsniederlassung">
                         <placeName key="wkfm-place__925">Wien</placeName>
                      <geo>48.208333333333336 16.371944444444445</geo></location>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__41599">Togniola, Johann Peter</persName></person><person><persName key="#wkfm__46108">Kircher, Joseph</persName></person></listPerson></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__46108">Kircher, Joseph</persName></person><person><persName key="#wkfm__41599">Togniola, Johann Peter</persName></person></listPerson></org>
                 <org xml:id="wkfm__47208">
                      <orgName>Karl Joseph Krazer</orgName>
                      <location type="located_in_place" n="Geschäftsniederlassung">
