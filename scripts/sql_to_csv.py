@@ -28,10 +28,16 @@ tables = insp.get_table_names()
 
 
 def remove_all_tags(text):
+    patterns = [
+        ("&#34;"), ("»"),
+        ("&#34;"), ("«")
+    ]
     if isinstance(text, str):
         text = re.sub(r'<[^>]+>', '', text)
         text = re.sub(r'[\n\t\s]+', ' ', text)
         text.strip()
+        for x in patterns:
+            text = text.replace(x[0], x[1])
     return text
 
 
