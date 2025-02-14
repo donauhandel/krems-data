@@ -39,6 +39,7 @@ jobs:
           python scripts/add_coords_to_places_in_listorg.py
           python scripts/denormalize.py
           python scripts/add_family_relations.py
+          python scripts/fix_encoding.py
       - name: Commit data
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
