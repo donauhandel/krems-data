@@ -1,4 +1,4 @@
-name: Dump Entities from Baserow
+name: Fetch and process data
 
 on:
   schedule:
