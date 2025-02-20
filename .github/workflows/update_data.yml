@@ -40,6 +40,7 @@ jobs:
           python scripts/denormalize.py
           python scripts/add_family_relations.py
           python scripts/fix_encoding.py
+          python scripts/add_iso_dates.py
       - name: Commit data
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
