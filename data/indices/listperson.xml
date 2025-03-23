@@ -33,7 +33,7 @@
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when="2025-03-16">2025-03-16</date>
+            <date when="2025-03-23">2025-03-23</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2025-03-16">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2025-03-23">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -3581,8 +3581,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Abraham</forename>
                         <surname>Nabatschko</surname>
-                        <surname type="alt">Näbatschkho</surname>
                         <surname type="alt">Nabatschkho</surname>
+                        <surname type="alt">Näbatschkho</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__4228">
@@ -4284,16 +4284,16 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Ries</surname>
-                        <surname type="alt">Ryss</surname>
                         <surname type="alt">Ryß</surname>
+                        <surname type="alt">Ryss</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__5628" sameAs="#wkfm__5623 ">
                      <persName>
                         <forename>Jakob</forename>
                         <surname>Ries</surname>
-                        <surname type="alt">Riß</surname>
                         <surname type="alt">Riss</surname>
+                        <surname type="alt">Riß</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__5703">
@@ -6597,8 +6597,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                 <person xml:id="wkfm__8146">
                      <persName>
                         <forename>Leb</forename>
-                        <forename type="alt">Löb b. Chajjim ha-Levi</forename>
                         <forename type="alt">Jehuda Efraim</forename>
+                        <forename type="alt">Löb b. Chajjim ha-Levi</forename>
                         <surname>Sinzheim</surname>
                         <surname type="alt">Sünzheimb</surname>
                      </persName>
@@ -6813,8 +6813,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                 <person xml:id="wkfm__16033">
                      <persName>
                         <forename>Marx Lion</forename>
-                        <forename type="alt">Markus Löw</forename>
                         <forename type="alt">Markus Lion</forename>
+                        <forename type="alt">Markus Löw</forename>
                         <surname>Gumpertz</surname>
                      </persName>
                      <residence type="Wohnort">
@@ -6983,9 +6983,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Abraham</forename>
                         <surname>Ulmo</surname>
+                        <surname type="alt">Ulmer</surname>
                         <surname type="alt">Ulman</surname>
                         <surname type="alt">Ulm</surname>
-                        <surname type="alt">Ulmer</surname>
                      </persName>
                      <death><date notBefore="1740-01-01" notAfter="1740-12-31">05.04.1740</date></death>
                      <residence type="Geschäftsniederlassung">
@@ -7423,8 +7423,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                         <forename>Georg</forename>
                         <surname>Dehner</surname>
                         <surname type="alt">Dehner</surname>
-                        <surname type="alt">Deinner</surname>
                         <surname type="alt">Dember</surname>
+                        <surname type="alt">Deinner</surname>
                      </persName>
                      <residence type="Herkunft-Aschach">
                         <placeName key="#wkfm-place__597">Passau</placeName>
@@ -7438,8 +7438,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Ulrich Anton</forename>
                         <surname>Deiß</surname>
-                        <surname type="alt">Deyß</surname>
                         <surname type="alt">Deyss</surname>
+                        <surname type="alt">Deyß</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Goldenen Rössel in der Kärntnerstraße (Calender 1723)</placeName>
@@ -8883,8 +8883,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Beham</surname>
-                        <surname type="alt">Böheimb</surname>
                         <surname type="alt">Pehamb</surname>
+                        <surname type="alt">Böheimb</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Goldenen Brunnen auf dem Kohlmarkt (Calender 1723)</placeName>
@@ -9575,9 +9575,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Lindner</surname>
-                        <surname type="alt">Lintner</surname>
                         <surname type="alt">Linttner</surname>
                         <surname type="alt">Lindtner</surname>
+                        <surname type="alt">Lintner</surname>
                      </persName>
                      <death><date notBefore="1765-01-01" notAfter="1765-12-31">1765?</date></death>                    
                      <residence type="Geschäftsadresse">
@@ -9922,9 +9922,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Dusel</surname>
-                        <surname type="alt">Dußell</surname>
                         <surname type="alt">Dußl</surname>
                         <surname type="alt">Dussel</surname>
+                        <surname type="alt">Dußell</surname>
                      </persName>
                      <birth><date notBefore="1682-01-01" notAfter="1682-12-31">02.1682</date></birth>
                      <death><date notBefore="1759-01-01" notAfter="1759-12-31">05.1759</date></death>                    
@@ -9959,10 +9959,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Georg</forename>
                         <surname>Prenz</surname>
-                        <surname type="alt">von Pränz</surname>
                         <surname type="alt">Pränz</surname>
                         <surname type="alt">Pranz</surname>
                         <surname type="alt">Prantz</surname>
+                        <surname type="alt">von Pränz</surname>
                      </persName>
                      <birth><date notBefore="1671-01-01" notAfter="1671-12-31">Ca. 1671</date></birth>
                      <death><date notBefore="1743-01-01" notAfter="1743-12-31">27.07.1743</date></death>
@@ -10106,11 +10106,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann Peter</forename>
                         <surname>Kappler</surname>
-                        <surname type="alt">Kepler</surname>
-                        <surname type="alt">Kapler</surname>
-                        <surname type="alt">Käppler</surname>
-                        <surname type="alt">Käpler</surname>
                         <surname type="alt">Kapeller</surname>
+                        <surname type="alt">Käpler</surname>
+                        <surname type="alt">Kepler</surname>
+                        <surname type="alt">Käppler</surname>
+                        <surname type="alt">Kapler</surname>
                      </persName>
                      <death><date notBefore="1768-01-01" notAfter="1768-12-31">1768</date></death>
                      <residence type="Geburtsort">
@@ -10204,8 +10204,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Anton</forename>
                         <surname>Fries</surname>
-                        <surname type="alt">Früeß</surname>
                         <surname type="alt">Frins</surname>
+                        <surname type="alt">Früeß</surname>
                      </persName>
                      <residence type="Bürgerrecht">
                         <placeName key="#wkfm-place__925">Wien</placeName>
@@ -11644,8 +11644,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann Franz</forename>
                         <surname>Strecker</surname>
-                        <surname type="alt">Ströcker</surname>
                         <surname type="alt">Streker</surname>
+                        <surname type="alt">Ströcker</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Heiligen Geist auf dem Graben (Calender 1723)</placeName>
@@ -12727,8 +12727,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Michael</forename>
                         <surname>Schweifer</surname>
-                        <surname type="alt">Schaifer</surname>
                         <surname type="alt">Schweiffer</surname>
+                        <surname type="alt">Schaifer</surname>
                      </persName>
                      <death><date notBefore="1731-01-01" notAfter="1731-12-31">1731</date></death>                    
                      <residence type="Geschäftsadresse">
@@ -12905,8 +12905,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                         <forename>Andreas</forename>
                         <surname>Neumaister</surname>
                         <surname type="alt">Neumeister</surname>
-                        <surname type="alt">Neymayster</surname>
                         <surname type="alt">Neymaister</surname>
+                        <surname type="alt">Neymayster</surname>
                      </persName>
                      <death><date notBefore="1766-01-01" notAfter="1766-12-31">1766</date></death>
                      <residence type="Geburtsort">
@@ -13674,8 +13674,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Lorenz</forename>
                         <surname>Kreitter</surname>
-                        <surname type="alt">Kreidter</surname>
                         <surname type="alt">Kreiter</surname>
+                        <surname type="alt">Kreidter</surname>
                      </persName>
                      <death><date notBefore="1727-01-01" notAfter="1727-12-31">1727</date></death>                    
                      <residence type="Geschäftsadresse">
@@ -13888,8 +13888,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                 <person xml:id="wkfm__17087">
                      <persName>
                         <forename>Kaspar</forename>
-                        <forename type="alt">Gasparo</forename>
                         <forename type="alt">Kaspar Melichor Balthasar</forename>
+                        <forename type="alt">Gasparo</forename>
                         <surname>Consoni</surname>
                      </persName>
                      <residence type="Geschäftsniederlassung">
@@ -14957,10 +14957,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Wenzel Franz</forename>
                         <surname>von Gotteschnig</surname>
-                        <surname type="alt">von Gotsching</surname>
                         <surname type="alt">von Gotesching</surname>
-                        <surname type="alt">Goteschnig</surname>
                         <surname type="alt">Gotesching</surname>
+                        <surname type="alt">Goteschnig</surname>
+                        <surname type="alt">von Gotsching</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Im Margarethenhof auf dem alten Bauernmarkt (Calender 1723)</placeName>
@@ -15271,8 +15271,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Ankerl</surname>
-                        <surname type="alt">Ancker</surname>
                         <surname type="alt">Anckherl</surname>
+                        <surname type="alt">Ancker</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Goldenen Kranz auf der Brandstatt (Calender 1758)</placeName>
@@ -16082,8 +16082,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann Gregor</forename>
                         <surname>Grindler</surname>
-                        <surname type="alt">Gründler</surname>
                         <surname type="alt">Grindtler</surname>
+                        <surname type="alt">Gründler</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Goldenen Pfau nächst dem Kärtnertor in eigener Behausung (Calender 1758), Zum Pfauen nächst dem Kärntnertor (Calender 1723)</placeName>
@@ -16662,8 +16662,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Franz Anton</forename>
                         <surname>Gräsl</surname>
-                        <surname type="alt">Grässl</surname>
                         <surname type="alt">Graßl</surname>
+                        <surname type="alt">Grässl</surname>
                      </persName>
                      <death><date notBefore="1778-01-01" notAfter="1778-12-31">1778</date></death>                    
                      <residence type="Geschäftsadresse">
@@ -17147,8 +17147,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Kutzilinger</surname>
-                        <surname type="alt">Kutzillinger</surname>
                         <surname type="alt">Kuttinger</surname>
+                        <surname type="alt">Kutzillinger</surname>
                         <surname type="alt">Kutzlinger</surname>
                      </persName>
                      <death><date notBefore="1742-01-01" notAfter="1742-12-31">1742</date></death>                    
@@ -17391,8 +17391,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                         <forename>Johann Franz</forename>
                         <forename type="alt">Franz</forename>
                         <surname>Bertazzi</surname>
-                        <surname type="alt">Pertazzi</surname>
                         <surname type="alt">Bertazi</surname>
+                        <surname type="alt">Pertazzi</surname>
                      </persName>
                      <birth><date notBefore="1705-01-01" notAfter="1705-12-31">Ca. 1705</date></birth>
                      <death><date notBefore="1755-01-01" notAfter="1755-12-31">05.1755</date></death>                    
@@ -19454,8 +19454,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Maria Anna</forename>
                         <surname>Mayerin</surname>
-                        <surname type="alt">Praunschmid</surname>
                         <surname type="alt">Staindl</surname>
+                        <surname type="alt">Praunschmid</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__43940" sameAs="#wkfm__17290 ">
@@ -20318,8 +20318,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Franz Wilhelm</forename>
                         <surname>Kunerth</surname>
-                        <surname type="alt">Kunath</surname>
                         <surname type="alt">Kunert</surname>
+                        <surname type="alt">Kunath</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Goldenen Bären auf dem alten Fleischmarkt (Calender 1723)</placeName>
@@ -20722,8 +20722,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Franz Karl</forename>
                         <surname>Kriner</surname>
-                        <surname type="alt">Krüner</surname>
                         <surname type="alt">Krinner</surname>
+                        <surname type="alt">Krüner</surname>
                      </persName>
                      <residence type="Bürgerrecht">
                         <placeName key="#wkfm-place__925">Wien</placeName>
@@ -20797,8 +20797,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Adamo</forename>
                         <surname>Chiocino</surname>
-                        <surname type="alt">Ciochino</surname>
                         <surname type="alt">Chiochino</surname>
+                        <surname type="alt">Ciochino</surname>
                      </persName>
                      <death><date notBefore="1772-01-01" notAfter="1772-12-31">1772</date></death>                    
                      <residence type="Geschäftsadresse">
@@ -20975,9 +20975,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Franz Joseph</forename>
                         <surname>Kannigießer</surname>
+                        <surname type="alt">Kanngießer</surname>
                         <surname type="alt">Kanniggiesser</surname>
                         <surname type="alt">Kannegiesser</surname>
-                        <surname type="alt">Kanngießer</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Beim Guten Hirten zu Mariahilf (Calender 1758)</placeName>
@@ -21216,9 +21216,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Duvillard</surname>
-                        <surname type="alt">Duwilard</surname>
                         <surname type="alt">Dovillar</surname>
                         <surname type="alt">Duvullard</surname>
+                        <surname type="alt">Duwilard</surname>
                      </persName>
                      <death><date notBefore="1739-01-01" notAfter="1739-12-31">1739/40</date></death>                    
                      <residence type="Geschäftsadresse">
@@ -21265,8 +21265,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann Karl</forename>
                         <surname>Della Roverre</surname>
-                        <surname type="alt">Della Rovere</surname>
                         <surname type="alt">Dela Rofere</surname>
+                        <surname type="alt">Della Rovere</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum 3. König am Stock am Eisen (Calender 1723)</placeName>
@@ -21523,8 +21523,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Leopold</forename>
                         <surname>Merkl</surname>
-                        <surname type="alt">Merkhl</surname>
                         <surname type="alt">Märkhl</surname>
+                        <surname type="alt">Merkhl</surname>
                      </persName>
                      <death><date notBefore="1744-01-01" notAfter="1744-12-31">1744</date></death>
                      <affiliation>
@@ -21653,8 +21653,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Joseph Leopold</forename>
                         <surname>Diewald</surname>
-                        <surname type="alt">Diewalt</surname>
                         <surname type="alt">Diwalt</surname>
+                        <surname type="alt">Diewalt</surname>
                      </persName>
                      <death><date notBefore="1773-01-01" notAfter="1773-12-31">1773</date></death>                    
                      <residence type="Geschäftsadresse">
@@ -21677,8 +21677,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                         <forename>Johann Adam</forename>
                         <forename type="alt">Adam</forename>
                         <surname>Traunwieser</surname>
-                        <surname type="alt">Traunwiser</surname>
                         <surname type="alt">Traunwißer</surname>
+                        <surname type="alt">Traunwiser</surname>
                      </persName>
                      <death><date notBefore="1770-01-01" notAfter="1770-12-31">1770</date></death>                    
                      <residence type="Geschäftsadresse">
@@ -22005,8 +22005,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann</forename>
                         <surname>Gunrisch</surname>
-                        <surname type="alt">Günrisch</surname>
                         <surname type="alt">Gürisch</surname>
+                        <surname type="alt">Günrisch</surname>
                      </persName>
                      <residence type="Bürgerrecht">
                         <placeName key="#wkfm-place__925">Wien</placeName>
@@ -22419,8 +22419,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Andre</forename>
                         <surname>Erwart</surname>
-                        <surname type="alt">Erwarth</surname>
                         <surname type="alt">Erbarth</surname>
+                        <surname type="alt">Erwarth</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Goldenen Cameel nächst den Fleischbänken (Calender 1723)</placeName>
@@ -23097,8 +23097,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann</forename>
                         <surname>Beham</surname>
-                        <surname type="alt">Pöhamb</surname>
                         <surname type="alt">Pehamb</surname>
+                        <surname type="alt">Pöhamb</surname>
                      </persName>
                      <death><date notBefore="1779-01-01" notAfter="1779-12-31">1779?</date></death>
                      <affiliation>
@@ -23140,8 +23140,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Franz</forename>
                         <surname>Hackl</surname>
-                        <surname type="alt">Hackell</surname>
                         <surname type="alt">Hakel</surname>
+                        <surname type="alt">Hackell</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum König in England auf dem Graben (Calender 1758)</placeName>
@@ -24379,8 +24379,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann</forename>
                         <surname>Lölly</surname>
-                        <surname type="alt">Lolly</surname>
                         <surname type="alt">Lelli</surname>
+                        <surname type="alt">Lolly</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Goldenen Pfauen nächst dem Kärtnertor (Calender 1758)</placeName>
@@ -24756,9 +24756,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Müllner</surname>
-                        <surname type="alt">Millner</surname>
-                        <surname type="alt">Mülner</surname>
                         <surname type="alt">Müller</surname>
+                        <surname type="alt">Mülner</surname>
+                        <surname type="alt">Millner</surname>
                      </persName>
                      <death><date notBefore="1779-01-01" notAfter="1779-12-31">1779?</date></death>                    
                      <residence type="Geschäftsadresse">
@@ -24916,8 +24916,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann Sebastian</forename>
                         <surname>Wittmann</surname>
-                        <surname type="alt">Widmann</surname>
                         <surname type="alt">Widtmann</surname>
+                        <surname type="alt">Widmann</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zur Grünen Weintraube nächst dem Eisgrübel (Calender 1723)</placeName>
@@ -25580,8 +25580,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                         <forename>Eva Barbara</forename>
                         <surname>Peisserin</surname>
                         <surname type="alt">Peisser von Wertenau</surname>
-                        <surname type="alt">Schuller</surname>
                         <surname type="alt">Puthon</surname>
+                        <surname type="alt">Schuller</surname>
                      </persName>
                      <birth><date notBefore="1723-01-01" notAfter="1723-12-31">26.10.1723</date></birth>
                      <death><date notBefore="1803-01-01" notAfter="1803-12-31">29.10.1803</date></death>
@@ -25813,8 +25813,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann Peter</forename>
                         <surname>Fläschitz</surname>
-                        <surname type="alt">Flatschitz</surname>
                         <surname type="alt">Flaschitz</surname>
+                        <surname type="alt">Flatschitz</surname>
                      </persName>
                      <death><date notBefore="1766-01-01" notAfter="1766-12-31">1766</date></death>                    
                      <residence type="Geschäftsadresse">
@@ -26680,8 +26680,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                         <forename>Johann Gottlieb</forename>
                         <forename type="alt">Gottlieb</forename>
                         <surname>Schönthan</surname>
-                        <surname type="alt">Schönthann</surname>
                         <surname type="alt">Schenthan</surname>
+                        <surname type="alt">Schönthann</surname>
                         <surname type="alt">Schönthan von Pernwaldt</surname>
                      </persName>
                      <death><date notBefore="1772-01-01" notAfter="1772-12-31">1772</date></death>
@@ -28199,8 +28199,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Achaz</forename>
                         <surname>Gill</surname>
-                        <surname type="alt">Gillen</surname>
                         <surname type="alt">Güll</surname>
+                        <surname type="alt">Gillen</surname>
                      </persName>
                      <birth><date notBefore="1660-01-01" notAfter="1660-12-31">Ca. 1660</date></birth>
                      <death><date notBefore="1719-01-01" notAfter="1719-12-31">05.1719</date></death>
@@ -28257,10 +28257,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Zacharias</forename>
                         <surname>Kriner</surname>
-                        <surname type="alt">Krener</surname>
+                        <surname type="alt">Krinner</surname>
                         <surname type="alt">Khriener</surname>
                         <surname type="alt">Kriener</surname>
-                        <surname type="alt">Krinner</surname>
+                        <surname type="alt">Krener</surname>
                      </persName>
                      <death><date notBefore="1697-01-01" notAfter="1697-12-31">1697</date></death>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
@@ -29123,8 +29123,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann Friedrich</forename>
                         <surname>von Wiesenhüter</surname>
-                        <surname type="alt">Wiesenhüter</surname>
                         <surname type="alt">von Wiesenhütten</surname>
+                        <surname type="alt">Wiesenhüter</surname>
                      </persName>
                      <death><date notBefore="1742-01-01" notAfter="1742-12-31">1742</date></death>
                      <residence type="Wohnort">
@@ -30228,9 +30228,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                         <forename>Wilhelm</forename>
                         <surname>Blommart</surname>
                         <surname type="alt">Blomart</surname>
-                        <surname type="alt">Blomardt</surname>
                         <surname type="alt">Plumardt</surname>
                         <surname type="alt">Plumart</surname>
+                        <surname type="alt">Blomardt</surname>
                      </persName>
                      <birth><date notBefore="1623-01-01" notAfter="1623-12-31">1623</date></birth>
                      <death><date notBefore="1686-01-01" notAfter="1686-12-31">1686</date></death>
@@ -30445,8 +30445,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                 <person xml:id="wkfm__47283">
                      <persName>
                         <forename>Johann Noah (I.)</forename>
-                        <forename type="alt">Noe</forename>
                         <forename type="alt">Johann Noe</forename>
+                        <forename type="alt">Noe</forename>
                         <surname>Buirette</surname>
                      </persName>
                      <birth><date notBefore="1682-01-01" notAfter="1682-12-31">1682</date></birth>
@@ -30554,10 +30554,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Adam</forename>
                         <surname>Achtmark</surname>
+                        <surname type="alt">Achtmarck</surname>
                         <surname type="alt">Achtmarckt</surname>
                         <surname type="alt">Achtmarkt</surname>
                         <surname type="alt">Achtmarckht</surname>
-                        <surname type="alt">Achtmarck</surname>
                      </persName>
                      <listBibl>
                         <bibl>Pantz, Gewerken, 9.</bibl>
@@ -30574,18 +30574,18 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Ignaz</forename>
                         <surname>Ackermann</surname>
-                        <surname type="alt">Ackherman</surname>
                         <surname type="alt">Ackhermann</surname>
+                        <surname type="alt">Ackherman</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__50">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Ackhorn</surname>
-                        <surname type="alt">Ackharn</surname>
-                        <surname type="alt">Akhorn</surname>
-                        <surname type="alt">Achkhorn</surname>
                         <surname type="alt">Ackhorn</surname>
+                        <surname type="alt">Achkhorn</surname>
+                        <surname type="alt">Akhorn</surname>
+                        <surname type="alt">Ackharn</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__53">
@@ -30993,9 +30993,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Adam</forename>
                         <surname>Andrisco</surname>
+                        <surname type="alt">Andriseckh</surname>
                         <surname type="alt">Andrisia</surname>
                         <surname type="alt">Antriseckh</surname>
-                        <surname type="alt">Andriseckh</surname>
                         <surname type="alt">Andrisca</surname>
                      </persName>
                </person>
@@ -31035,8 +31035,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Andre</forename>
                         <surname>Anker</surname>
-                        <surname type="alt">Anckhner</surname>
                         <surname type="alt">Anckher</surname>
+                        <surname type="alt">Anckhner</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__123">
@@ -31242,8 +31242,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Balthasar</forename>
                         <surname>Arneth</surname>
-                        <surname type="alt">Arnedt</surname>
                         <surname type="alt">Arnoldt</surname>
+                        <surname type="alt">Arnedt</surname>
                      </persName>
                      <residence type="Herkunft-Krems">
                         <placeName key="#wkfm-place__401">Krems</placeName>
@@ -31823,9 +31823,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Christoph</forename>
                         <surname>Bergmann</surname>
+                        <surname type="alt">Berckhman</surname>
                         <surname type="alt">Perkhman</surname>
                         <surname type="alt">Perckhman</surname>
-                        <surname type="alt">Berckhman</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__286">
@@ -31932,8 +31932,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Bernätski</surname>
-                        <surname type="alt">Bernäskhi</surname>
                         <surname type="alt">Bernäskhy</surname>
+                        <surname type="alt">Bernäskhi</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__299" sameAs="#wkfm__300 ">
@@ -31941,8 +31941,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                         <forename>Elias</forename>
                         <surname>Berndonner</surname>
                         <surname type="alt">Perndonner</surname>
-                        <surname type="alt">Perndanner</surname>
                         <surname type="alt">Berndanner</surname>
+                        <surname type="alt">Perndanner</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__300">
@@ -32293,8 +32293,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Balthasar</forename>
                         <surname>Braunbäck</surname>
-                        <surname type="alt">Braunbäckh</surname>
                         <surname type="alt">Praunpöckh</surname>
+                        <surname type="alt">Braunbäckh</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__359">
@@ -32503,8 +32503,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Barbara</forename>
                         <surname>Budinskin</surname>
-                        <surname type="alt">Budinßkhin</surname>
                         <surname type="alt">Butinßkin</surname>
+                        <surname type="alt">Budinßkhin</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__395">
@@ -32800,8 +32800,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Franz</forename>
                         <surname>Castlehner</surname>
-                        <surname type="alt">Cästllechner</surname>
                         <surname type="alt">Cästllehner</surname>
+                        <surname type="alt">Cästllechner</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__455" sameAs="#wkfm__458 ">
@@ -32853,8 +32853,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>None</forename>
                         <surname>Chieregini</surname>
-                        <surname type="alt">Zeregin</surname>
                         <surname type="alt">Ceregini</surname>
+                        <surname type="alt">Zeregin</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__465" sameAs="#wkfm__467 wkfm__468 ">
@@ -33050,8 +33050,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Cobello</forename>
                         <surname>Cobelli</surname>
-                        <surname type="alt">Cobelly</surname>
                         <surname type="alt">Cabelli</surname>
+                        <surname type="alt">Cobelly</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__494">
@@ -33317,8 +33317,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Christian Franz</forename>
                         <surname>Crinnes</surname>
-                        <surname type="alt">Chrines</surname>
                         <surname type="alt">Crinnes</surname>
+                        <surname type="alt">Chrines</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__537" sameAs="#wkfm__538 ">
@@ -33679,8 +33679,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Jakob</forename>
                         <surname>Daulechner</surname>
-                        <surname type="alt">Dawlechner</surname>
                         <surname type="alt">Thaillachner</surname>
+                        <surname type="alt">Dawlechner</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__612">
@@ -33772,11 +33772,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann</forename>
                         <surname>De Ruiquidor</surname>
-                        <surname type="alt">Deruiquitort</surname>
-                        <surname type="alt">de Ruquidor</surname>
-                        <surname type="alt">Ruequidort</surname>
-                        <surname type="alt">de Ruiquidort</surname>
                         <surname type="alt">Ruguetor</surname>
+                        <surname type="alt">de Ruquidor</surname>
+                        <surname type="alt">Deruiquitort</surname>
+                        <surname type="alt">de Ruiquidort</surname>
+                        <surname type="alt">Ruequidort</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__627">
@@ -33838,10 +33838,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Franz</forename>
                         <surname>Deisbacher</surname>
-                        <surname type="alt">Teißpacher</surname>
                         <surname type="alt">Teisbacher</surname>
-                        <surname type="alt">Deysbacher</surname>
+                        <surname type="alt">Teißpacher</surname>
                         <surname type="alt">Deissbacher</surname>
+                        <surname type="alt">Deysbacher</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__640">
@@ -34116,8 +34116,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann</forename>
                         <surname>Detzer</surname>
-                        <surname type="alt">Tötzer</surname>
                         <surname type="alt">Tözer</surname>
+                        <surname type="alt">Tötzer</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__680">
@@ -34824,8 +34824,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Christian</forename>
                         <surname>Dressel</surname>
-                        <surname type="alt">Dresl</surname>
                         <surname type="alt">Dreßl</surname>
+                        <surname type="alt">Dresl</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__796" sameAs="#wkfm__794 wkfm__799 ">
@@ -34942,9 +34942,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Peter</forename>
                         <surname>Ducret</surname>
-                        <surname type="alt">Dugereth</surname>
                         <surname type="alt">Dugeret</surname>
                         <surname type="alt">Dugret</surname>
+                        <surname type="alt">Dugereth</surname>
                      </persName>
                      <occupation type="aemter">Äußerer Rat</occupation>
                      <listBibl>
@@ -35049,8 +35049,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Samuel</forename>
                         <surname>Dusel</surname>
-                        <surname type="alt">Dusl</surname>
                         <surname type="alt">Dußl</surname>
+                        <surname type="alt">Dusl</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__830">
@@ -35211,8 +35211,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann</forename>
                         <surname>Eckenbrecht</surname>
-                        <surname type="alt">Eggebrecht</surname>
                         <surname type="alt">Eggnbrecht</surname>
+                        <surname type="alt">Eggebrecht</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__855">
@@ -35414,8 +35414,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Egger</surname>
-                        <surname type="alt">Ecker</surname>
                         <surname type="alt">Öcker</surname>
+                        <surname type="alt">Ecker</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__891" sameAs="#wkfm__893 ">
@@ -35499,8 +35499,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Augustin Franz</forename>
                         <surname>Ehemann</surname>
-                        <surname type="alt">Ehemahn</surname>
                         <surname type="alt">Eheman</surname>
+                        <surname type="alt">Ehemahn</surname>
                      </persName>
                      <residence type="Herkunft-Krems">
                         <placeName key="#wkfm-place__401">Krems</placeName>
@@ -36405,8 +36405,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Ottavio</forename>
                         <surname>Facheris</surname>
-                        <surname type="alt">Facheri</surname>
                         <surname type="alt">Fachery</surname>
+                        <surname type="alt">Facheri</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__1054">
@@ -36435,8 +36435,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Georg</forename>
                         <surname>Faldtespichler</surname>
-                        <surname type="alt">Faldtespüchler</surname>
                         <surname type="alt">Faldespüchler</surname>
+                        <surname type="alt">Faldtespüchler</surname>
                         <surname type="alt">Faldtesbüchler</surname>
                      </persName>
                </person>
@@ -36871,8 +36871,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Wenzel</forename>
                         <surname>Ficker</surname>
-                        <surname type="alt">Fiekher</surname>
                         <surname type="alt">Füeckher</surname>
+                        <surname type="alt">Fiekher</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__1135" sameAs="#wkfm__1137 ">
@@ -37808,8 +37808,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann</forename>
                         <surname>Freneau</surname>
-                        <surname type="alt">Frenaw</surname>
                         <surname type="alt">Freneau</surname>
+                        <surname type="alt">Frenaw</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__1291">
@@ -37950,8 +37950,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Peter</forename>
                         <surname>Friedrich</surname>
-                        <surname type="alt">Friderich</surname>
                         <surname type="alt">Fridrich</surname>
+                        <surname type="alt">Friderich</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__1314">
@@ -38190,8 +38190,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Fromwald</surname>
-                        <surname type="alt">Frumbwalt</surname>
                         <surname type="alt">Fromwalt</surname>
+                        <surname type="alt">Frumbwalt</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__1351" sameAs="#wkfm__1352 ">
@@ -38712,9 +38712,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                         <forename>Johann</forename>
                         <surname>Galesco</surname>
                         <surname type="alt">Gallezkho</surname>
+                        <surname type="alt">Galezkho</surname>
                         <surname type="alt">Galehko</surname>
                         <surname type="alt">Galiskha</surname>
-                        <surname type="alt">Galezkho</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__1435">
@@ -38737,9 +38737,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Tobias</forename>
                         <surname>Gallina</surname>
-                        <surname type="alt">Kallina</surname>
                         <surname type="alt">Kälina</surname>
                         <surname type="alt">Källina</surname>
+                        <surname type="alt">Kallina</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__1440">
@@ -38960,8 +38960,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann</forename>
                         <surname>Gastdecker</surname>
-                        <surname type="alt">Gaßdeckher</surname>
                         <surname type="alt">Gastegger</surname>
+                        <surname type="alt">Gaßdeckher</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__1476">
@@ -39371,8 +39371,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Paul</forename>
                         <surname>Germ</surname>
-                        <surname type="alt">Germer</surname>
                         <surname type="alt">Jerm</surname>
+                        <surname type="alt">Germer</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__1543">
@@ -39511,8 +39511,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>None</forename>
                         <surname>Geymann</surname>
-                        <surname type="alt">Geymahn</surname>
                         <surname type="alt">Geyman</surname>
+                        <surname type="alt">Geymahn</surname>
                      </persName>
                      <occupation type="aemter">Baron</occupation>
                      <listBibl>
@@ -39667,8 +39667,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                         <forename>Georg</forename>
                         <surname>Glasnizka</surname>
                         <surname type="alt">Kläsnizka</surname>
-                        <surname type="alt">Klaßnizkhi</surname>
                         <surname type="alt">Glaßnizka</surname>
+                        <surname type="alt">Klaßnizkhi</surname>
                         <surname type="alt">Laßniskha</surname>
                      </persName>
                </person>
@@ -39758,8 +39758,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Andreas</forename>
                         <surname>Glosy</surname>
-                        <surname type="alt">Gloßy</surname>
                         <surname type="alt">Gloysi</surname>
+                        <surname type="alt">Gloßy</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__1613">
@@ -39812,8 +39812,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Georg</forename>
                         <surname>Goldast</surname>
-                        <surname type="alt">Guldast</surname>
                         <surname type="alt">Gultenast</surname>
+                        <surname type="alt">Guldast</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__1621">
@@ -39916,9 +39916,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Martin Crispin</forename>
                         <surname>Goschga</surname>
-                        <surname type="alt">Goskho</surname>
                         <surname type="alt">Goschkho</surname>
                         <surname type="alt">Goßkha</surname>
+                        <surname type="alt">Goskho</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__1643">
@@ -40474,8 +40474,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Zacharias</forename>
                         <surname>Gretzl</surname>
-                        <surname type="alt">Kretzl</surname>
                         <surname type="alt">Gretschl</surname>
+                        <surname type="alt">Kretzl</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__1731">
@@ -40698,9 +40698,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Mert</forename>
                         <surname>Groich</surname>
+                        <surname type="alt">Kroig</surname>
                         <surname type="alt">Kroich</surname>
                         <surname type="alt">Khroig</surname>
-                        <surname type="alt">Kroig</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__1767">
@@ -40968,8 +40968,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Gschaidter</surname>
-                        <surname type="alt">Gschaitter</surname>
                         <surname type="alt">Gschaider</surname>
+                        <surname type="alt">Gschaitter</surname>
                      </persName>
                      <residence type="Herkunft-Krems">
                         <placeName key="#wkfm-place__887">Waidhofen an der Ybbs</placeName>
@@ -40999,8 +40999,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Gschenk</surname>
-                        <surname type="alt">Gschrackh</surname>
                         <surname type="alt">Gschenckh</surname>
+                        <surname type="alt">Gschrackh</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__1813">
@@ -41307,8 +41307,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Wenzel</forename>
                         <surname>Gutjagt</surname>
-                        <surname type="alt">Gutiägt</surname>
                         <surname type="alt">Gutiagt</surname>
+                        <surname type="alt">Gutiägt</surname>
                         <surname type="alt">Guttjackh</surname>
                      </persName>
                </person>
@@ -41329,9 +41329,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann</forename>
                         <surname>Gutschänick</surname>
-                        <surname type="alt">Gutscheneckh</surname>
-                        <surname type="alt">Guttscheneckh</surname>
                         <surname type="alt">Guttschenickh</surname>
+                        <surname type="alt">Guttscheneckh</surname>
+                        <surname type="alt">Gutscheneckh</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__1873">
@@ -41377,16 +41377,16 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Daniel</forename>
                         <surname>Gutschi</surname>
-                        <surname type="alt">Gutschy</surname>
                         <surname type="alt">Gusch</surname>
+                        <surname type="alt">Gutschy</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__1880">
                      <persName>
                         <forename>Kaspar</forename>
                         <surname>Gutschi</surname>
-                        <surname type="alt">Gotscha</surname>
                         <surname type="alt">Gutscha</surname>
+                        <surname type="alt">Gotscha</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__1881">
@@ -41678,8 +41678,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann</forename>
                         <surname>Hainl</surname>
-                        <surname type="alt">Häinl</surname>
                         <surname type="alt">Händl</surname>
+                        <surname type="alt">Häinl</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__1931">
@@ -41706,8 +41706,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Hainl</surname>
-                        <surname type="alt">Häinel</surname>
                         <surname type="alt">Häindl</surname>
+                        <surname type="alt">Häinel</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__1935">
@@ -42026,8 +42026,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Andre</forename>
                         <surname>Haunasek</surname>
-                        <surname type="alt">Haunosäckh</surname>
                         <surname type="alt">Haunaseckh</surname>
+                        <surname type="alt">Haunosäckh</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__1985">
@@ -42360,9 +42360,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Andre</forename>
                         <surname>Haunsegg</surname>
+                        <surname type="alt">Haunesegg</surname>
                         <surname type="alt">Haunsöckh</surname>
                         <surname type="alt">Haueseckh</surname>
-                        <surname type="alt">Haunesegg</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__2041">
@@ -42549,9 +42549,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Georg</forename>
                         <surname>Hein</surname>
-                        <surname type="alt">Heynn</surname>
                         <surname type="alt">Hain</surname>
                         <surname type="alt">Heyn</surname>
+                        <surname type="alt">Heynn</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__2069">
@@ -42947,8 +42947,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Wolf</forename>
                         <surname>Heutl</surname>
-                        <surname type="alt">Heydl</surname>
                         <surname type="alt">Heitl</surname>
+                        <surname type="alt">Heydl</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__2144">
@@ -45067,8 +45067,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann</forename>
                         <surname>Janisch</surname>
-                        <surname type="alt">Jännisch</surname>
                         <surname type="alt">Jannisch</surname>
+                        <surname type="alt">Jännisch</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__2612">
@@ -45176,8 +45176,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Christoph</forename>
                         <surname>Janski</surname>
-                        <surname type="alt">Jänskhi</surname>
                         <surname type="alt">Jänskhy</surname>
+                        <surname type="alt">Jänskhi</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__2631">
@@ -45212,10 +45212,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                         <forename>Johann</forename>
                         <surname>Janski</surname>
                         <surname type="alt">Jäntschkhy</surname>
-                        <surname type="alt">Jänßkho</surname>
-                        <surname type="alt">Jäntschgo</surname>
                         <surname type="alt">Jäntschko</surname>
+                        <surname type="alt">Jäntschgo</surname>
                         <surname type="alt">Jänzkhy</surname>
+                        <surname type="alt">Jänßkho</surname>
                         <surname type="alt">Jenskho</surname>
                      </persName>
                </person>
@@ -45230,8 +45230,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                         <forename>Matthias</forename>
                         <surname>Jaritz</surname>
                         <surname type="alt">Järitsch</surname>
-                        <surname type="alt">Järiz</surname>
                         <surname type="alt">Jaritsch</surname>
+                        <surname type="alt">Järiz</surname>
                      </persName>
                      <listBibl>
                         <bibl>Rauscher, Serles, Märkte, 85, Anm. 108.</bibl>
@@ -45283,8 +45283,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann</forename>
                         <surname>Jasko</surname>
-                        <surname type="alt">Jäskho</surname>
                         <surname type="alt">Jasco</surname>
+                        <surname type="alt">Jäskho</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__2645">
@@ -45634,8 +45634,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Thomas</forename>
                         <surname>Kalchschmidt</surname>
-                        <surname type="alt">Kalchschmüt</surname>
                         <surname type="alt">Kalchschmit</surname>
+                        <surname type="alt">Kalchschmüt</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__2743">
@@ -45966,8 +45966,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Balthasar</forename>
                         <surname>Kaufmann</surname>
-                        <surname type="alt">Khauffman</surname>
                         <surname type="alt">Kaufman</surname>
+                        <surname type="alt">Khauffman</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__2795">
@@ -46130,9 +46130,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Daniel</forename>
                         <surname>Keil</surname>
-                        <surname type="alt">Kheill</surname>
-                        <surname type="alt">Keill</surname>
                         <surname type="alt">Khäll</surname>
+                        <surname type="alt">Keill</surname>
+                        <surname type="alt">Kheill</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__2820">
@@ -46172,8 +46172,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Niklas</forename>
                         <surname>Keller</surname>
-                        <surname type="alt">Kellner</surname>
                         <surname type="alt">Kellerer</surname>
+                        <surname type="alt">Kellner</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__2827">
@@ -46390,8 +46390,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann</forename>
                         <surname>Krezig</surname>
-                        <surname type="alt">Khretzig</surname>
                         <surname type="alt">Grezig</surname>
+                        <surname type="alt">Khretzig</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__2863">
@@ -46969,8 +46969,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Niklas</forename>
                         <surname>Kliß</surname>
-                        <surname type="alt">Klyß</surname>
                         <surname type="alt">Khliß</surname>
+                        <surname type="alt">Klyß</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__2952">
@@ -47183,8 +47183,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Andre Bernhard</forename>
                         <surname>Knur</surname>
-                        <surname type="alt">Khnur</surname>
                         <surname type="alt">Knor</surname>
+                        <surname type="alt">Khnur</surname>
                      </persName>
                      <birth><date notBefore="1676-01-01" notAfter="1676-12-31">1676</date></birth>
                      <death><date notBefore="1754-01-01" notAfter="1754-12-31">1754</date></death>
@@ -47381,8 +47381,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Dominicus</forename>
                         <surname>Kolb von Kolbenthurn</surname>
-                        <surname type="alt">von Kolbenthurn</surname>
                         <surname type="alt">Kolb</surname>
+                        <surname type="alt">von Kolbenthurn</surname>
                      </persName>
                      <listBibl>
                         <bibl>Hofmann, Beiträge, 360; Kreczi, Linzer Häuserchronik, 53: »Kholb von Kholbenthuern»; August Ludwig Schlözerߴs (...) Briefwechsel (...), 10. Teil, Heft LV-LX, hier Heft LVIII, Nr. 17, 201-222.</bibl>
@@ -47719,8 +47719,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Daniel</forename>
                         <surname>Koschka</surname>
-                        <surname type="alt">Koschkho</surname>
                         <surname type="alt">Koschkha</surname>
+                        <surname type="alt">Koschkho</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__3069">
@@ -47734,8 +47734,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Niklas</forename>
                         <surname>Koschuseck</surname>
-                        <surname type="alt">Koschuseckh</surname>
                         <surname type="alt">Coschescheckh</surname>
+                        <surname type="alt">Koschuseckh</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__3071">
@@ -47914,8 +47914,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Thomas</forename>
                         <surname>Kramer</surname>
-                        <surname type="alt">Krammer</surname>
                         <surname type="alt">Crammer</surname>
+                        <surname type="alt">Krammer</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__3104">
@@ -47963,16 +47963,16 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Stephan</forename>
                         <surname>Kränzler</surname>
-                        <surname type="alt">Kränzl</surname>
                         <surname type="alt">Cränzl</surname>
+                        <surname type="alt">Kränzl</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__3117">
                      <persName>
                         <forename>Balthasar</forename>
                         <surname>Kranzpichler</surname>
-                        <surname type="alt">Cranzpichler</surname>
                         <surname type="alt">Cranzbühler</surname>
+                        <surname type="alt">Cranzpichler</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__3118">
@@ -48245,10 +48245,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Jakob</forename>
                         <surname>Kreisl</surname>
-                        <surname type="alt">Kreißl</surname>
-                        <surname type="alt">Khreißler</surname>
                         <surname type="alt">Kraißl</surname>
+                        <surname type="alt">Kreißl</surname>
                         <surname type="alt">Khreifel</surname>
+                        <surname type="alt">Khreißler</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__3161">
@@ -48263,8 +48263,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                         <forename>Christoph</forename>
                         <surname>Kreisner</surname>
                         <surname type="alt">Kreißner</surname>
-                        <surname type="alt">Kreüßner</surname>
                         <surname type="alt">Khreißner</surname>
+                        <surname type="alt">Kreüßner</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__3163">
@@ -48297,8 +48297,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Kremer</surname>
-                        <surname type="alt">Kremmer</surname>
                         <surname type="alt">Gremer</surname>
+                        <surname type="alt">Kremmer</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__3168">
@@ -48749,8 +48749,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Jakob</forename>
                         <surname>Kühn</surname>
-                        <surname type="alt">Kühm</surname>
                         <surname type="alt">Khim</surname>
+                        <surname type="alt">Kühm</surname>
                      </persName>
                      <death><date notBefore="1626-01-01" notAfter="1626-12-31">1626 (?)</date></death>
                </person>
@@ -49362,8 +49362,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Dominicus</forename>
                         <surname>Lang</surname>
-                        <surname type="alt">Lanng</surname>
                         <surname type="alt">Langgo</surname>
+                        <surname type="alt">Lanng</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__3333">
@@ -49591,8 +49591,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann Baptist</forename>
                         <surname>Lasser</surname>
-                        <surname type="alt">Loser</surname>
                         <surname type="alt">Losser</surname>
+                        <surname type="alt">Loser</surname>
                      </persName>
                      <residence type="Herkunft-Krems">
                         <placeName key="#wkfm-place__401">Krems</placeName>
@@ -50384,8 +50384,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Melchior</forename>
                         <surname>Lindner</surname>
-                        <surname type="alt">Lyndner</surname>
                         <surname type="alt">Lyndtner</surname>
+                        <surname type="alt">Lyndner</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__3560">
@@ -50516,8 +50516,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                         <surname>von Loen</surname>
                         <surname type="alt">Leon</surname>
                         <surname type="alt">von Lohn</surname>
-                        <surname type="alt">von Leon</surname>
                         <surname type="alt">Leeon</surname>
+                        <surname type="alt">von Leon</surname>
                      </persName>
                      <birth><date notBefore="1626-01-01" notAfter="1626-12-31">1626</date></birth>
                      <death><date notBefore="1670-01-01" notAfter="1670-12-31">1670</date></death>
@@ -50830,8 +50830,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Karl</forename>
                         <surname>Lußnig</surname>
-                        <surname type="alt">Lußnik</surname>
                         <surname type="alt">Lußinckh</surname>
+                        <surname type="alt">Lußnik</surname>
                         <surname type="alt">Lußnickh</surname>
                      </persName>
                </person>
@@ -51026,8 +51026,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Mallick</surname>
-                        <surname type="alt">Mällickh</surname>
                         <surname type="alt">Mallickh</surname>
+                        <surname type="alt">Mällickh</surname>
                      </persName>
                      <death><date notBefore="1714-01-01" notAfter="1714-12-31">1714</date></death>
                      <residence type="Herkunft-Krems">
@@ -51066,9 +51066,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Mandino</surname>
-                        <surname type="alt">Mundino</surname>
-                        <surname type="alt">Modini</surname>
                         <surname type="alt">Muntin</surname>
+                        <surname type="alt">Modini</surname>
+                        <surname type="alt">Mundino</surname>
                      </persName>
                      <listBibl>
                         <bibl>Hans REUTTER, Geschichte der Stadt Zlabings, in: Zeitschrift des deutschen Vereines für Geschichte Mährens und Schlesiens 16 (1912) 1-83, 302-373; 17 (1913) 29-113, 343-405.</bibl>
@@ -51310,8 +51310,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann</forename>
                         <surname>Marschalch</surname>
-                        <surname type="alt">Marschall</surname>
                         <surname type="alt">Marschalckh</surname>
+                        <surname type="alt">Marschall</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__3762">
@@ -52077,8 +52077,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Stephan</forename>
                         <surname>Melßheimer</surname>
-                        <surname type="alt">Melsheimber</surname>
                         <surname type="alt">Melßhaimber</surname>
+                        <surname type="alt">Melsheimber</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__3909">
@@ -52171,8 +52171,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Sebastian</forename>
                         <surname>Merckl</surname>
-                        <surname type="alt">Märckl</surname>
                         <surname type="alt">Mörckhl</surname>
+                        <surname type="alt">Märckl</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__3925" sameAs="#wkfm__3926 ">
@@ -52269,8 +52269,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Ludwig</forename>
                         <surname>Mayr</surname>
-                        <surname type="alt">Meyer</surname>
                         <surname type="alt">Meyr</surname>
+                        <surname type="alt">Meyer</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__3939">
@@ -52466,8 +52466,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann</forename>
                         <surname>Mick</surname>
-                        <surname type="alt">Mickh</surname>
                         <surname type="alt">Mickhl</surname>
+                        <surname type="alt">Mickh</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__3976">
@@ -52500,8 +52500,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Georg</forename>
                         <surname>Mickl</surname>
-                        <surname type="alt">Michel</surname>
                         <surname type="alt">Mickhl</surname>
+                        <surname type="alt">Michel</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__3982">
@@ -53533,8 +53533,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann</forename>
                         <surname>Münichreiter</surname>
-                        <surname type="alt">Münichreitter</surname>
                         <surname type="alt">Münichreither</surname>
+                        <surname type="alt">Münichreitter</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__4195">
@@ -54049,11 +54049,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Neuwirt</surname>
-                        <surname type="alt">Newwürth</surname>
-                        <surname type="alt">Neywiert</surname>
-                        <surname type="alt">Neywierdt</surname>
                         <surname type="alt">Neywürth</surname>
+                        <surname type="alt">Neywierdt</surname>
                         <surname type="alt">Neywierth</surname>
+                        <surname type="alt">Neywiert</surname>
+                        <surname type="alt">Newwürth</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__4287">
@@ -54177,8 +54177,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Franz Joseph</forename>
                         <surname>Niess</surname>
-                        <surname type="alt">Niesser</surname>
                         <surname type="alt">Niss</surname>
+                        <surname type="alt">Niesser</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__4308">
@@ -54263,8 +54263,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Niklas</forename>
                         <surname>Nocerini</surname>
-                        <surname type="alt">Nuccerini</surname>
                         <surname type="alt">Nucerini</surname>
+                        <surname type="alt">Nuccerini</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__4322">
@@ -54463,8 +54463,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Wolf</forename>
                         <surname>Oberleutner</surname>
-                        <surname type="alt">Oberleüdthner</surname>
                         <surname type="alt">Oberleüthner</surname>
+                        <surname type="alt">Oberleüdthner</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__4362">
@@ -54538,8 +54538,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>von Ödl</surname>
-                        <surname type="alt">von Öttl</surname>
                         <surname type="alt">Ödl</surname>
+                        <surname type="alt">von Öttl</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__4376">
@@ -54822,8 +54822,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Wolf</forename>
                         <surname>Oswald</surname>
-                        <surname type="alt">Oßwalt</surname>
                         <surname type="alt">Aßwaldt</surname>
+                        <surname type="alt">Oßwalt</surname>
                      </persName>
                      <residence type="Herkunft-Krems">
                         <placeName key="#wkfm-place__985">Zwettl (Niederösterreich)</placeName>
@@ -55270,8 +55270,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Veit</forename>
                         <surname>Pämick</surname>
-                        <surname type="alt">Pämickh</surname>
                         <surname type="alt">Pänni</surname>
+                        <surname type="alt">Pämickh</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__4497">
@@ -55452,8 +55452,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Jakob</forename>
                         <surname>Patzer</surname>
-                        <surname type="alt">Barzer</surname>
                         <surname type="alt">Pazer</surname>
+                        <surname type="alt">Barzer</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__4531" sameAs="#wkfm__4530 ">
@@ -56183,8 +56183,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann</forename>
                         <surname>Pelischatt</surname>
-                        <surname type="alt">Pelisath</surname>
                         <surname type="alt">Peneschatt</surname>
+                        <surname type="alt">Pelisath</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__4654">
@@ -56260,8 +56260,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Franz</forename>
                         <surname>Pellham</surname>
-                        <surname type="alt">Pellhamb</surname>
                         <surname type="alt">Bellham</surname>
+                        <surname type="alt">Pellhamb</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__4665">
@@ -56472,8 +56472,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Paul</forename>
                         <surname>Perklofski</surname>
-                        <surname type="alt">Perlofskhy</surname>
                         <surname type="alt">Perckhlofskhi</surname>
+                        <surname type="alt">Perlofskhy</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__4709">
@@ -56748,8 +56748,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann Peter</forename>
                         <surname>Pestaluzzi</surname>
-                        <surname type="alt">Pestaluzy</surname>
                         <surname type="alt">Pestaluz</surname>
+                        <surname type="alt">Pestaluzy</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__4753" sameAs="#wkfm__4746 wkfm__8026 ">
@@ -56836,8 +56836,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Fermo</forename>
                         <surname>Peterzoll</surname>
-                        <surname type="alt">Peter Zoll</surname>
                         <surname type="alt">Peter Zann</surname>
+                        <surname type="alt">Peter Zoll</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__4768">
@@ -58138,11 +58138,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Friedrich</forename>
                         <surname>Pladt</surname>
-                        <surname type="alt">Platt</surname>
-                        <surname type="alt">Plat</surname>
-                        <surname type="alt">Blatt</surname>
                         <surname type="alt">Bladt</surname>
+                        <surname type="alt">Blatt</surname>
                         <surname type="alt">Plath</surname>
+                        <surname type="alt">Plat</surname>
+                        <surname type="alt">Platt</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__4992">
@@ -58161,10 +58161,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Heinrich</forename>
                         <surname>Plagezky</surname>
-                        <surname type="alt">Plachetskhy</surname>
-                        <surname type="alt">Plagezkhy</surname>
                         <surname type="alt">Plahetskhy</surname>
                         <surname type="alt">Plahezgi</surname>
+                        <surname type="alt">Plagezkhy</surname>
+                        <surname type="alt">Plachetskhy</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__4995">
@@ -58428,8 +58428,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Pliska</surname>
-                        <surname type="alt">Plizkä</surname>
                         <surname type="alt">Plizkha</surname>
+                        <surname type="alt">Plizkä</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__5037">
@@ -58544,8 +58544,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Paul</forename>
                         <surname>Pock</surname>
-                        <surname type="alt">Pöckhen</surname>
                         <surname type="alt">Pöckh</surname>
+                        <surname type="alt">Pöckhen</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__5058">
@@ -58771,8 +58771,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                         <forename>Paul</forename>
                         <surname>Polleßni</surname>
                         <surname type="alt">Palleßni</surname>
-                        <surname type="alt">Pollester</surname>
                         <surname type="alt">Polleßne</surname>
+                        <surname type="alt">Pollester</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__5110">
@@ -59390,8 +59390,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                         <forename>Johann Adam</forename>
                         <surname>Praunsmändel</surname>
                         <surname type="alt">»von Mohrnick»</surname>
-                        <surname type="alt">Praußmandl</surname>
                         <surname type="alt">»von Mohrnück»</surname>
+                        <surname type="alt">Praußmandl</surname>
                      </persName>
                      <birth><date notBefore="1653-01-01" notAfter="1653-12-31">ca. 1653</date></birth>
                      <death><date notBefore="1718-01-01" notAfter="1718-12-31">08.05.1718</date></death>
@@ -60551,8 +60551,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Francisco</forename>
                         <surname>Quatin</surname>
-                        <surname type="alt">Quordin</surname>
                         <surname type="alt">Quotin</surname>
+                        <surname type="alt">Quordin</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__5402">
@@ -62226,8 +62226,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Franz</forename>
                         <surname>Rösel</surname>
-                        <surname type="alt">Rössl</surname>
                         <surname type="alt">Rösl</surname>
+                        <surname type="alt">Rössl</surname>
                      </persName>
                      <birth><date notBefore="1581-01-01" notAfter="1581-12-31">1581</date></birth>
                      <death><date notBefore="1652-01-01" notAfter="1652-12-31">1652</date></death>
@@ -63312,8 +63312,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann</forename>
                         <surname>Schascheck</surname>
-                        <surname type="alt">Schaseckh</surname>
                         <surname type="alt">Schäscheckh</surname>
+                        <surname type="alt">Schaseckh</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__5918">
@@ -64226,8 +64226,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Thomas</forename>
                         <surname>Schlüsselberger</surname>
-                        <surname type="alt">Schlißlberger</surname>
                         <surname type="alt">Schlisslberger</surname>
+                        <surname type="alt">Schlißlberger</surname>
                      </persName>
                      <listBibl>
                         <bibl>Kellenbenz, Regensburger Fernhandelsbeziehungen in der Mitte des 17. Jahrhunderts, 467.</bibl>
@@ -64294,8 +64294,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Simon</forename>
                         <surname>Schmer</surname>
-                        <surname type="alt">Schmerr</surname>
                         <surname type="alt">Schmer</surname>
+                        <surname type="alt">Schmerr</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__6093">
@@ -64571,9 +64571,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Franz</forename>
                         <surname>Smolukowski</surname>
-                        <surname type="alt">Smolukowskhi</surname>
-                        <surname type="alt">Schmolgovzi</surname>
                         <surname type="alt">Schwalgovzi</surname>
+                        <surname type="alt">Schmolgovzi</surname>
+                        <surname type="alt">Smolukowskhi</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__6140">
@@ -65135,9 +65135,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Christoph</forename>
                         <surname>Schranzhofer</surname>
-                        <surname type="alt">Schranshoffer</surname>
-                        <surname type="alt">Ranshofer</surname>
                         <surname type="alt">Schranckhshofer</surname>
+                        <surname type="alt">Ranshofer</surname>
+                        <surname type="alt">Schranshoffer</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__6240">
@@ -66457,8 +66457,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann</forename>
                         <surname>Seywert</surname>
-                        <surname type="alt">Seywierth</surname>
                         <surname type="alt">Seyberth</surname>
+                        <surname type="alt">Seywierth</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__6459">
@@ -66570,9 +66570,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Abraham</forename>
                         <surname>Siess</surname>
-                        <surname type="alt">Sieß</surname>
-                        <surname type="alt">Siess</surname>
                         <surname type="alt">Süess</surname>
+                        <surname type="alt">Siess</surname>
+                        <surname type="alt">Sieß</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__6477">
@@ -68460,8 +68460,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Jakob</forename>
                         <surname>Sulbeck</surname>
-                        <surname type="alt">Sulbi</surname>
                         <surname type="alt">Sulbeckh</surname>
+                        <surname type="alt">Sulbi</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__6822">
@@ -69339,8 +69339,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                         <forename>Matthias</forename>
                         <forename type="alt">Mathes</forename>
                         <surname>Tüchler</surname>
-                        <surname type="alt">Diechler</surname>
                         <surname type="alt">Tüechler</surname>
+                        <surname type="alt">Diechler</surname>
                      </persName>
                      <listBibl>
                         <bibl>Kellenbenz, Regensburger Fernhandelsbeziehungen in der 2. Hälfte des 17. Jahrhunderts, 244, 246; Kellenbenz, Regensburger Fernhandelsbeziehungen in der Mitte des 17. Jahrhunderts, 466; Neumann, Steyr, 138 Anm. 4 [Mathes Tiechler].</bibl>
@@ -70322,9 +70322,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Walmpeck</surname>
-                        <surname type="alt">Walnpöckhen</surname>
-                        <surname type="alt">Walnpockhen</surname>
                         <surname type="alt">Walnpöckh</surname>
+                        <surname type="alt">Walnpockhen</surname>
+                        <surname type="alt">Walnpöckhen</surname>
                      </persName>
                      <residence type="Herkunft-Krems">
                         <placeName key="#wkfm-place__401">Krems</placeName>
@@ -72189,9 +72189,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Paul</forename>
                         <surname>Wisnosky</surname>
-                        <surname type="alt">Wisnofskhy</surname>
                         <surname type="alt">Wisnoskhy</surname>
                         <surname type="alt">Wismowski</surname>
+                        <surname type="alt">Wisnofskhy</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__7477">
@@ -72646,8 +72646,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Mert</forename>
                         <surname>Wolfshofer</surname>
-                        <surname type="alt">Wolixhoffer</surname>
                         <surname type="alt">Wolfshoffer</surname>
+                        <surname type="alt">Wolixhoffer</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__7550">
@@ -72772,8 +72772,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Andre</forename>
                         <surname>Woyzinski</surname>
-                        <surname type="alt">Wogschinßkhi</surname>
                         <surname type="alt">Wosinckhy</surname>
+                        <surname type="alt">Wogschinßkhi</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__7571">
@@ -72823,8 +72823,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Kaspar</forename>
                         <surname>Wunderack</surname>
-                        <surname type="alt">Punderarth</surname>
                         <surname type="alt">Wunderäckh</surname>
+                        <surname type="alt">Punderarth</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__7580">
@@ -76455,8 +76455,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                 <person xml:id="wkfm__12086">
                      <persName>
                         <forename>Rochus</forename>
-                        <forename type="alt">Rocho</forename>
                         <forename type="alt">Rocco</forename>
+                        <forename type="alt">Rocho</forename>
                         <surname>Polti</surname>
                      </persName>
                      <residence type="Geschäftsniederlassung">
@@ -78720,8 +78720,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Jakob</forename>
                         <surname>Roillard</surname>
-                        <surname type="alt">Raillart</surname>
                         <surname type="alt">Raillardt</surname>
+                        <surname type="alt">Raillart</surname>
                      </persName>
                      <death><date notBefore="1721-01-01" notAfter="1721-12-31">03.07.1721</date></death>
                      <listBibl>
@@ -79358,8 +79358,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Sebastian</forename>
                         <surname>Ruffini</surname>
-                        <surname type="alt">von Rufin</surname>
                         <surname type="alt">Rufin</surname>
+                        <surname type="alt">von Rufin</surname>
                      </persName>
                      <residence type="Geschäftsniederlassung">
                         <placeName key="#wkfm-place__925">Wien</placeName>
@@ -80067,8 +80067,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Maria Barbara</forename>
                         <surname>Nöglin</surname>
-                        <surname type="alt">Nägerlin</surname>
                         <surname type="alt">Wätzger</surname>
+                        <surname type="alt">Nägerlin</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__26118">
@@ -81424,8 +81424,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Körgl</surname>
-                        <surname type="alt">Khörgl</surname>
                         <surname type="alt">Khärgl</surname>
+                        <surname type="alt">Khörgl</surname>
                      </persName>
                      <death><date notBefore="1728-01-01" notAfter="1728-12-31">1728</date></death>
                      <residence type="Wohnort">
@@ -81532,8 +81532,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Cornelius</forename>
                         <surname>de Walberg</surname>
-                        <surname type="alt">De Welpergen</surname>
                         <surname type="alt">de Walpergen</surname>
+                        <surname type="alt">De Welpergen</surname>
                      </persName>
                      <listBibl>
                         <bibl>Seibold, Wirtschaftlicher Erfolg, Bd. 1, 17; Haemmerle, Hochzeitsbücher, 253, Nr. 3426; Tremel, Salzburger Eisenniederlage, 298; Phillip Skippon, A Journey through Part of the Low-Countries, Germany, Italy and France, in: A Collcetion of Voyages and Travels (...) Vol. 6 (London 1732) 361-736, hier 405; Schulte Beerbühl, Kaufleute, 415.</bibl>
@@ -81936,8 +81936,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                         <forename>Wolf</forename>
                         <surname>Heißer</surname>
                         <surname type="alt">Heiser</surname>
-                        <surname type="alt">Heisser</surname>
                         <surname type="alt">Heisserer</surname>
+                        <surname type="alt">Heisser</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__34465">
@@ -84576,8 +84576,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Maria Anna</forename>
                         <surname>Zinnerin</surname>
-                        <surname type="alt">von Rechtbergerin</surname>
                         <surname type="alt">Pürker</surname>
+                        <surname type="alt">von Rechtbergerin</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__43993">
@@ -84721,8 +84721,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                         <forename>Giulio Maria</forename>
                         <forename type="alt">Julius Maria</forename>
                         <surname>Sonzogno</surname>
-                        <surname type="alt">Sonzogna</surname>
                         <surname type="alt">von Sonzogno</surname>
+                        <surname type="alt">Sonzogna</surname>
                      </persName>
                      <residence type="Geschäftsniederlassung">
                         <placeName key="#wkfm-place__925">Wien</placeName>
@@ -86317,8 +86317,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Maria Anna</forename>
                         <surname>Gartnerin</surname>
-                        <surname type="alt">Raindinger</surname>
                         <surname type="alt">Truklerin (?)</surname>
+                        <surname type="alt">Raindinger</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__46773">
@@ -86435,8 +86435,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Anna Christina</forename>
                         <surname>Veronesin</surname>
-                        <surname type="alt">Wagnerin</surname>
                         <surname type="alt">Lanser</surname>
+                        <surname type="alt">Wagnerin</surname>
                         <surname type="alt"/>
                      </persName>
                </person>
@@ -87387,9 +87387,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Maria Agnes</forename>
                         <surname>Kratschin</surname>
-                        <surname type="alt">Stockinger</surname>
                         <surname type="alt">Humblin</surname>
                         <surname type="alt">Herzogin</surname>
+                        <surname type="alt">Stockinger</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__47429">
@@ -87439,8 +87439,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Maria Josepha</forename>
                         <surname>Salietin</surname>
-                        <surname type="alt">Stidl</surname>
                         <surname type="alt">Sallietin</surname>
+                        <surname type="alt">Stidl</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__47494">
@@ -87535,8 +87535,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Helena</forename>
                         <surname>Liebin</surname>
-                        <surname type="alt">Schwarzenberger</surname>
                         <surname type="alt">Mußerin</surname>
+                        <surname type="alt">Schwarzenberger</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__47535">
@@ -87686,8 +87686,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Anna Maria</forename>
                         <surname>Rossmannin [?]</surname>
-                        <surname type="alt">Schreiber</surname>
                         <surname type="alt">Rosmarinin</surname>
+                        <surname type="alt">Schreiber</surname>
                      </persName>
                </person>
                 <person xml:id="wkfm__47607">
